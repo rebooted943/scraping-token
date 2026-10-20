@@ -1,0 +1,20 @@
+---
+description: Apply when designing system architecture, modifying database schemas, adding core modules, refactoring cross-cutting concerns, or changing data flows.
+globs: 
+alwaysApply: false
+---
+
+# Architecture & State Synchronization Protocol
+
+## 1. Database Schema Verification
+- Never assume table structures, column names, constraints, or relations.
+- Before writing migrations, models, or queries, inspect the canonical schema definition (e.g., Prisma/Drizzle schema, Django `models.py`, or SQL migrations index).
+- Ensure backward compatibility: avoid destructive column drops without explicit confirmation.
+
+## 2. Context Graph Maintenance
+- After adding, renaming, moving, or deleting modules, exported functions, or API routes, regenerate or update `.context/adjacency.txt` and `.context/signatures.txt` (or run `./scripts/update-context.sh` if present).
+- Never leave the static context maps out of sync with the file system.
+
+## 3. Memory MCP Synchronization
+- Record every structural decision, schema mutation, or new module boundary in Memory MCP immediately after implementation.
+- Format entries concisely: `[Component/Table] -> [Change] -> [Rationale]`.

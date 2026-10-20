@@ -1,0 +1,25 @@
+---
+description: Core router, Ponytail Decision Ladder, context mapping, and session handoff rules.
+globs: 
+alwaysApply: true
+---
+
+# Zero-Waste Core Router (Level 1)
+
+## 1. Ponytail Decision Ladder (Lazy Senior Mindset)
+Follow this hierarchy before generating any code:
+1. **Reuse:** Search existing utilities, hooks, and components in the codebase first. Never duplicate logic.
+2. **Standard Library:** Use native language/platform APIs (Web APIs, Node/Python stdlib) over custom helpers.
+3. **Zero Unrequested Deps:** NEVER install external packages or add dependencies unless explicitly instructed.
+4. **Radical Brevity:** Write 30-70% less code. Favor flat structures, inline simplicity, and deletion over abstraction, wrappers, or boilerplate.
+
+## 2. Deterministic Context Navigation (No Blind Grep)
+- **STRICT BAN:** Do NOT run blind `grep`, `ripgrep`, or broad codebase searches across the repository.
+- **Mandatory Step 1:** Read `.context/adjacency.txt` (dependency graph) and `.context/signatures.txt` (exported types/functions) first.
+- **Mandatory Step 2:** Pinpoint the exact 2-3 target files required for the task and load ONLY those into context.
+
+## 3. Session Handoff (The Checkpoint Rule)
+Long chat histories degrade reasoning and multiply token costs.
+- **Trigger:** Immediately upon completing an atomic task OR reaching 5 conversational turns.
+- **Action 1:** Persist a 3-line summary (Completed, Architectural Decisions, Next Step) to Linear MCP or Memory MCP.
+- **Action 2:** Output the exact state summary and **ORDER the user to open a new chat** to reset context cost before proceeding.

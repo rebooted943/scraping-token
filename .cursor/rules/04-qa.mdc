@@ -1,0 +1,16 @@
+---
+description: Apply when running tests, building the project, debugging errors, verifying fixes, or performing security and QA checks.
+globs: 
+alwaysApply: false
+---
+
+# QA, Build & Token-Safe Testing Protocol
+
+## 1. Strict Ban on Direct Test/Build Execution
+- **FORBIDDEN COMMANDS:** Never execute `npm test`, `npm run build`, `pnpm test`, `yarn build`, `pytest`, `jest`, `vitest`, or `tsc` directly in the terminal. Raw terminal outputs flood the context window with verbose logs and deep stack traces.
+- **MANDATORY WRAPPER:** Always run tests, builds, and type-checks exclusively through `./scripts/ai-test-runner.sh` (e.g., `./scripts/ai-test-runner.sh test path/to/file`).
+- Rely solely on the filtered, token-compressed output returned by the wrapper script to diagnose failures.
+
+## 2. Security Checklist Before Completion
+- Verify no secrets, API keys, or credentials are hardcoded or logged.
+- Confirm authentication and authorization guards are enforced on every mutated endpoint.

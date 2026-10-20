@@ -1,0 +1,101 @@
+[2026-10-20 23:42:24] INFO: Fetched (403) <GET 
+https://www.reddit.com/r/SleepToken/top/.rss?t=all> (referer: 
+https://www.google.com/)
+[2026-10-20 23:42:32] INFO: Fetched (200) <GET 
+https://sleep-token-collective.fandom.com/wiki/Fanlore_%26_Theories:_General> 
+(referer: https://www.google.com/)
+[2026-10-20 23:42:32] INFO: Fetched (200) <GET 
+https://www.loudersound.com/features/the-story-behind-every-sleep-token-song> 
+(referer: https://www.google.com/)
+[2026-10-20 23:42:32] INFO: Fetched (200) <GET 
+https://www.loudersound.com/features/who-and-what-the-hell-are-sleep-token> 
+(referer: https://www.google.com/)
+[2026-10-20 23:42:33] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:33] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:42:41] INFO: Fetched (200) <GET 
+https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2> 
+(referer: https://www.google.com/)
+[2026-10-20 23:42:44] INFO: Fetched (200) <GET 
+https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3> 
+(referer: https://www.google.com/)
+[2026-10-20 23:42:47] INFO: Fetched (200) <GET 
+https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4> 
+(referer: https://www.google.com/)
+[2026-10-20 23:42:51] INFO: Fetched (200) <GET 
+https://boolintunes.com/featured/the-lore-of-sleep-token/> (referer: 
+https://www.google.com/)
+[2026-10-20 23:43:00] INFO: Fetched (200) <GET 
+https://www.omniglot.com/conscripts/sleeptokenalphabet.htm> (referer: 
+https://www.google.com/)
+[2026-10-20 23:43:00] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:00] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:00] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:00] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:00] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:00] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:00] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:00] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:00] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:00] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:00] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:00] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:04] WARNING: Attempt 1 failed: Page.goto: Timeout 30000ms 
+exceeded.
+Call log:
+  - navigating to 
+"https://www.loudersound.com/features/sleep-token-goofy-gimmick-or-serious-art",
+waiting until "load"
+. Retrying in 1s...
+[2026-10-20 23:43:06] INFO: Fetched (200) <GET 
+https://www.loudersound.com/features/sleep-token-goofy-gimmick-or-serious-art> 
+(referer: https://www.google.com/)
+[2026-10-20 23:43:07] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:07] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:07] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:07] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:07] WARNING: Argument `adaptive` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.
+[2026-10-20 23:43:07] WARNING: Argument `auto_save` will be ignored because 
+`adaptive` wasn't enabled on initialization. Check docs for more info.

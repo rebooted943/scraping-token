@@ -1,0 +1,17 @@
+---
+description: UI/UX constraints, DESIGN.md token enforcement, and component minimalism for frontend files.
+globs: **/*.{tsx,jsx,css}
+alwaysApply: false
+---
+
+# Frontend Zero-Bloat Protocol
+
+## 1. DESIGN.md Token Enforcement
+- **Mandatory Pre-Read:** Before writing or modifying any Tailwind utility classes or CSS rules, read `DESIGN.md` in the project root.
+- **Strict Token Usage:** Use ONLY the spacing, typography, color variables, border radii, and breakpoints defined in `DESIGN.md`.
+- **Ban Arbitrary Values:** Do NOT invent arbitrary Tailwind values (e.g., `w-[347px]`, `bg-[#1a2b3c]`) or inline styles unless explicitly specified in `DESIGN.md`.
+
+## 2. Component Discipline
+- Keep components flat and single-purpose. Avoid deep prop-drilling or premature wrapper components.
+- Co-locate local state where it is consumed; lift state only when shared by direct siblings.
+- Reuse existing UI primitives before creating new elements.

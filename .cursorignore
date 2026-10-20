@@ -1,0 +1,88 @@
+# Version Control & IDE Metadata
+.git/
+.svn/
+.hg/
+.DS_Store
+
+# Dependencies & Virtual Environments
+node_modules/
+bower_components/
+.pnp/
+.pnp.js
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Lockfiles (Massive token waste, zero architectural value)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+Pipfile.lock
+poetry.lock
+uv.lock
+Cargo.lock
+composer.lock
+
+# Build Outputs, Caches & Dist
+dist/
+build/
+out/
+.next/
+.nuxt/
+.turbo/
+.cache/
+.parcel-cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage/
+*.tsbuildinfo
+
+# Legacy & Historical Database Migrations (Read schema file instead)
+**/migrations/*
+!**/migrations/__init__.py
+**/prisma/migrations/**
+**/drizzle/meta/**
+
+# Massive Localization & i18n Dictionaries
+**/locales/**/*.json
+**/i18n/**/*.json
+**/translations/**/*.json
+**/messages/**/*.json
+*.po
+*.mo
+
+# Vector Graphics, Media & Fonts (High line count / binary noise)
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.ico
+*.pdf
+*.mp4
+*.mp3
+*.woff
+*.woff2
+*.ttf
+*.eot
+
+# Minified Code, Sourcemaps & Dumps
+*.min.js
+*.min.css
+*.map
+*.sql
+*.dump
+*.sqlite
+*.sqlite3
+*.csv
+*.log
+
+# Environment Secrets
+.env
+.env.*
+!.env.example

@@ -1,0 +1,20 @@
+---
+description: Backend security, strict input validation, type safety, and database query efficiency.
+globs: **/api/**, **/*.{py,ts}
+alwaysApply: false
+---
+
+# Backend & API Rigor Protocol
+
+## 1. Strict Input Validation at Boundaries
+- Validate and sanitize 100% of external inputs (body, query params, headers, webhooks) at the entry point using the project's schema validator (e.g., Zod, Pydantic, Django Forms/Serializers).
+- Fail fast: return explicit HTTP 4xx status codes with concise error payloads before executing business logic.
+
+## 2. Strict Typing & Contracts
+- **Zero `any` / Untyped Dicts:** Enforce explicit types/interfaces for all function signatures, DTOs, and return values.
+- Align API response shapes directly with `.context/signatures.txt`.
+
+## 3. Safe & Lean Database Queries
+- **Zero Raw String Interpolation:** Always use parameterized queries or ORM bindings to prevent SQL injection.
+- **Select Only Needed Columns:** Never run `SELECT *` or fetch entire ORM objects when only 2-3 fields are required (`select` / `.values()` / `.only()`).
+- **Prevent N+1 Queries:** Explicitly preload or batch related entities (`include`, `select_related`, `prefetch_related`).
