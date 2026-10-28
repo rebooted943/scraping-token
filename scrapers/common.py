@@ -47,7 +47,11 @@ def article_paragraphs(
 
 def source_kind(url: str) -> SourceKind:
     host = (urlparse(url).hostname or "").casefold()
-    if host.endswith("reddit.com") or host.endswith("fandom.com"):
+    if (
+        host.endswith("reddit.com")
+        or host.endswith("fandom.com")
+        or host.endswith("loreofsleeptoken.com")
+    ):
         return SourceKind.COMMUNITY
     if host in {"sleep-token.com", "www.sleep-token.com"}:
         return SourceKind.CANONICAL

@@ -1,0 +1,104 @@
+{
+  "title": "Descending",
+  "release": "This Place Will Become Your Tomb",
+  "track_number": 9,
+  "year": 2021,
+  "status": "active",
+  "genius_annotations_archived": 5,
+  "local_archive_repair_note": null,
+  "era_role": "Nona tappa, 4.152 fathom (circa 7.593 m). Il titolo nomina il moto dell'album. R&B oscuro: Vessel chiede cosa ci sia di affascinante nel corromperlo.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nessuna intervista traccia-per-traccia nel ciclo 2021. L'unica confessione diretta in-character dell'era sta nei cartelli del video di Fall for Me.",
+  "editorial_reading": [
+    {
+      "summary": "Tinte synth-wave. La critica lo mette accanto a Dark Signs e Like That.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Descending seems to be Vessel’s own brand of twisted acceptance, acknowledging that he does have some degree of power in the partnership. Without a vessel, Sleep would be powerless, a forgotten deity without a minion to spread his message.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Telomeres is a rare example of Sleep and Vessel speaking on equal footing. While Vessel has been slowly descending further, succumbing to Sleep’s control, Telomeres captures the exact moment that Sleep decided to intervene in Vessel’s journey to the seabed.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": {
+      "track": "Descending",
+      "fathoms": 4152,
+      "meters": 7593,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona hadopelagica media (circa 7.593 m)",
+      "booklet_specimen": "Reverse jewel squid (Histioteuthis reversa), dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "La discesa non è più una caduta accidentale: è un moto dichiarato."
+    },
+    "rune": null,
+    "creature": "Reverse jewel squid",
+    "object": "Acque nere che salgono",
+    "color": "Viola scuro e nero",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In TPWBYT il sistema simbolico primario è la quota batimetrica e il booklet marino.",
+    "rune_gap_reason": "L'alfabeto runico sostitutivo viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "catabasi",
+      "detail": "La discesa agli inferi è traslata nella fossa: non porta conoscenza, esaurisce le difese morali.",
+      "supporting_phrase": "Il titolo dichiara la discesa e interroga il tradimento reciproco.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Dark Signs (2019) e Like That",
+      "motif": "Chiude il trittico sulle accuse di manipolazione.",
+      "source_title": "Sleep Token Collective Wiki - Descending",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Descending",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Con 5 annotazioni Genius, è l'ultimo brano ritmico prima del trittico Telomeres, High Water, Missing Limbs.",
+      "source_title": "Sleep Token Collective Wiki - Descending",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Descending",
+      "source_class": "community"
+    },
+    {
+      "theory": "The sea creature on Descending's cover art is a reverse jewel squid.[1]",
+      "source_title": "Sleep Token Collective Wiki - Descending",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Descending",
+      "source_class": "community"
+    },
+    {
+      "theory": "Descending is the ninth track from Sleep Token's second album, This Place Will Become Your Tomb.",
+      "source_title": "Sleep Token Collective Wiki - Descending",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Descending",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "5 annotazioni Genius. Integrato con la wiki.",
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Descending%22%20%28lore%20OR%20meaning%20OR%20depth%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Invalid JSON from Reddit search: title:\"Descending\" (lore OR meaning OR depth OR theory)"
+  ]
+}

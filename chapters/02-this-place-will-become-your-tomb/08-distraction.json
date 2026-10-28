@@ -1,0 +1,96 @@
+{
+  "title": "Distraction",
+  "release": "This Place Will Become Your Tomb",
+  "track_number": 8,
+  "year": 2021,
+  "status": "active",
+  "genius_annotations_archived": 6,
+  "local_archive_repair_note": null,
+  "era_role": "Ottava tappa, 3.696 fathom (circa 6.759 m), dentro la fossa. Dopo l'estasi di Alkaline, ogni tentativo di distrarsi da lei o da Sleep fallisce: è troppo tardi.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nessuna intervista traccia-per-traccia nel ciclo 2021. L'unica confessione diretta in-character dell'era sta nei cartelli del video di Fall for Me.",
+  "editorial_reading": [
+    {
+      "summary": "Struttura lenta. Le sovraincisioni vocali simulano pensieri intrusivi a cui non si sfugge.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "While each track slowly lulls Vessel further into the realm of Sleep, Distraction sounds like defeat. ‘It’s too late for me’, he confesses, echoing vocals sinking into the depths of the track. Its gentle yet powerful flow reflects Vessel’s conflicting emotions in the face of Sleep’s control.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": {
+      "track": "Distraction",
+      "fathoms": 3696,
+      "meters": 6759,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona hadopelagica superiore (circa 6.759 m)",
+      "booklet_specimen": "Cookiecutter shark, dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "Ogni distrazione dal dolore fallisce: è troppo tardi per risalire."
+    },
+    "rune": null,
+    "creature": "Cookiecutter shark",
+    "object": "Ancora sul fondo, voci sovrapposte",
+    "color": "Nero e bagliore freddo",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In TPWBYT il sistema simbolico primario è la quota batimetrica e il booklet marino.",
+    "rune_gap_reason": "L'alfabeto runico sostitutivo viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "bioluminescenza / evitamento",
+      "detail": "Oltre i 6.000 m l'unica luce è l'esca di un predatore, una distrazione fatale. Sul piano psichico, l'evitamento non regge.",
+      "supporting_phrase": "È troppo tardi, ed è già spezzato dentro. Parafrasi, non citazione.",
+      "source_title": "Sleep Token Collective Wiki - Distraction",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Distraction",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Say That You Will (2019)",
+      "motif": "Di nuovo un'esca luminosa nel buio, e la rassegnazione che ne segue.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Le distrazioni sarebbero sia relazioni sostitutive sia la musica stessa: niente zittisce il richiamo di Sleep.",
+      "source_title": "Sleep Token Collective Wiki - Distraction",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Distraction",
+      "source_class": "community"
+    },
+    {
+      "theory": "The sea creature on Distraction's cover art is a cookiecutter shark.[1]",
+      "source_title": "Sleep Token Collective Wiki - Distraction",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Distraction",
+      "source_class": "community"
+    },
+    {
+      "theory": "Distraction is the eighth track from Sleep Token's second album, This Place Will Become Your Tomb.",
+      "source_title": "Sleep Token Collective Wiki - Distraction",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Distraction",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Distraction%22%20%28lore%20OR%20meaning%20OR%20depth%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Invalid JSON from Reddit search: title:\"Distraction\" (lore OR meaning OR depth OR theory)"
+  ]
+}

@@ -15,6 +15,7 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 GENIUS_API_BASE = "https://api.genius.com"
 GENIUS_ARTIST_NAME = "Sleep Token"
 GENIUS_PAGE_SIZE = 50
+GOOGLE_SEARCH_BASE = "https://www.google.com/search"
 
 LORE_KEYWORDS = (
     "lore",
@@ -126,6 +127,10 @@ ALLOWED_SOURCE_DOMAINS = frozenset(
         "www.reddit.com",
         "old.reddit.com",
         "sleep-token-collective.fandom.com",
+        "loreofsleeptoken.com",
+        "www.loreofsleeptoken.com",
+        "wikipedia.org",
+        "en.wikipedia.org",
         "www.omniglot.com",
         "boolintunes.com",
         "www.loudersound.com",
@@ -135,6 +140,8 @@ ALLOWED_SOURCE_DOMAINS = frozenset(
 )
 
 WIKI_ARG_SEEDS = (
+    "https://loreofsleeptoken.com/",
+    "https://en.wikipedia.org/wiki/Sleep_Token",
     "https://sleep-token-collective.fandom.com/wiki/Fanlore_%26_Theories:_General",
     "https://www.omniglot.com/conscripts/sleeptokenalphabet.htm",
     "https://boolintunes.com/featured/the-lore-of-sleep-token/",
@@ -156,9 +163,27 @@ MUSICOLOGY_SEEDS = (
     "https://boolintunes.com/featured/the-lore-of-sleep-token/",
 )
 
-REDDIT_FEEDS = (
-    "https://www.reddit.com/r/SleepToken/top/.rss?t=all",
-    "https://www.reddit.com/r/SleepToken/search.rss?q=lore%20OR%20theory%20OR%20runes%20OR%20trilogy&restrict_sr=1&sort=top&t=all",
+REDDIT_SUBREDDITS = ("https://www.reddit.com/r/SleepToken",)
+REDDIT_SEARCH_QUERIES = (
+    "Sleep Token lore OR theory OR runes OR trilogy",
+    "Sleep Token lyrics OR meaning OR interpretation",
+)
+
+RESEARCH_KEYWORDS = (
+    "sleep token",
+    "lyrics",
+    "meaning",
+    "interpretation",
+    "lore",
+    "theory",
+    "vessel",
+    "sleep",
+    "worship",
+    "rune",
+    "cipher",
+    "sigil",
+    "album",
+    "song",
 )
 
 
@@ -178,9 +203,14 @@ class Settings:
     max_concurrency: int
     request_timeout: float
     include_full_lyrics: bool
+    crawl_max_pages: int = 40
+    crawl_max_depth: int = 2
     max_retries: int = 4
     backoff_base: float = 1.0
     reddit_min_interval: float = 65.0
+    reddit_posts_per_job: int = 15
+    reddit_inflight: int = 1
+    google_min_interval: float = 8.0
     cross_reference_threshold: float = 3.0
 
 
@@ -199,4 +229,9 @@ def get_settings() -> Settings:
         max_concurrency=max(1, int(os.getenv("CODEX_MAX_CONCURRENCY", "4"))),
         request_timeout=max(1.0, float(os.getenv("CODEX_REQUEST_TIMEOUT", "30"))),
         include_full_lyrics=_as_bool("CODEX_INCLUDE_FULL_LYRICS", True),
+        crawl_max_pages=max(1, int(os.getenv("CODEX_CRAWL_MAX_PAGES", "40"))),
+        crawl_max_depth=max(0, int(os.getenv("CODEX_CRAWL_MAX_DEPTH", "2"))),
+        google_min_interval=max(0.0, float(os.getenv("CODEX_GOOGLE_MIN_INTERVAL", "8"))),
+        reddit_posts_per_job=max(1, int(os.getenv("CODEX_REDDIT_POSTS_PER_JOB", "15"))),
+        reddit_inflight=max(1, int(os.getenv("CODEX_REDDIT_INFLIGHT", "1"))),
     )

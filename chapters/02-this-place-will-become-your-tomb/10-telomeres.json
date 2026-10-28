@@ -1,0 +1,118 @@
+{
+  "title": "Telomeres",
+  "release": "This Place Will Become Your Tomb",
+  "track_number": 10,
+  "year": 2021,
+  "status": "active",
+  "genius_annotations_archived": 6,
+  "local_archive_repair_note": null,
+  "era_role": "Decima tappa, 4.608 fathom (circa 8.427 m), vicino al limite fisiologico dei pesci. Si apre uno squarcio shoegaze: le maree guidano i due, e l'amore sembra invertire l'invecchiamento cellulare.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nessuna intervista traccia-per-traccia nel ciclo 2021. L'unica confessione diretta in-character dell'era sta nei cartelli del video di Fall for Me.",
+  "editorial_reading": [
+    {
+      "summary": "Boolin Tunes e Louder notano l'assolo finale, raro nei primi due album, come ultima illusione di salvezza prima di High Water.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": "2023-05-15",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Telomeres is a rare example of Sleep and Vessel speaking on equal footing. While Vessel has been slowly descending further, succumbing to Sleep’s control, Telomeres captures the exact moment that Sleep decided to intervene in Vessel’s journey to the seabed.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The [riferimento testuale] referred to are very likely self-harm marks which are later alluded to in [riferimento testuale] (open arms and [riferimento testuale]) and [riferimento testuale]. I also think that [riferimento testuale] foreshadows that Vessel will do bad things in Sleep’s name, yet will feel vindicated, absolved of responsibility, in doing so.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale] and [riferimento testuale] call back to my earlier suggestion that [riferimento testuale] recalls the aftermath of a suicide attempt. Perhaps it is a stretch to suggest that [riferimento testuale] refers to self-harm wounds ([riferimento testuale]: [riferimento testuale]), but in conjunction with [riferimento testuale] it does seem to hark to the references in [riferimento testuale] and [riferi",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": {
+      "track": "Telomeres",
+      "fathoms": 4608,
+      "meters": 8427,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona hadopelagica profonda (circa 8.427 m, vicino al limite dei pesci ossei)",
+      "booklet_specimen": "Telescope octopus, dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "La rigenerazione dei telomeri resta la metafora biologica. La copertina è il polpo telescopio, non lo snailfish."
+    },
+    "rune": null,
+    "creature": "Telescope octopus",
+    "object": "Telomeri, maree, catene",
+    "color": "Oro bioluminescente e blu",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In TPWBYT il sistema simbolico primario è la quota batimetrica e il booklet marino.",
+    "rune_gap_reason": "L'alfabeto runico sostitutivo viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "biologia molecolare",
+      "detail": "I telomeri proteggono i cromosomi e si accorciano a ogni divisione. L'unione sul fondale è vissuta come una telomerasi che ferma la morte.",
+      "supporting_phrase": "Il titolo invoca le maree perché portino via il passato e rigenerino il legame. Testo non archiviato.",
+      "source_title": "Sleep Token Collective Wiki - Telomeres",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Telomeres",
+      "source_class": "community"
+    },
+    {
+      "category": "oceanografia biologica",
+      "detail": "Intorno agli 8.300–8.400 m l'osmolito TMAO non basta più a impedire il collasso delle proteine dei pesci sotto pressione.",
+      "supporting_phrase": "Quota di community 4.608 F. La trivia della wiki assegna alla copertina un telescope octopus, non questa cifra.",
+      "source_title": "Progressione batimetrica di community",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Is It Really You? (2022) e Euclid (2023)",
+      "motif": "Il shoegaze luminoso anticipa la collaborazione con i Loathe e la catarsi di Euclid.",
+      "source_title": "Sleep Token Collective Wiki - Telomeres",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Telomeres",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Lettura da narcosi: poco prima dello schiacciamento di High Water, il subacqueo allucina pace e immortalità biologica.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "The sea creature on Telomeres' cover art is a telescope octopus.[1]",
+      "source_title": "Sleep Token Collective Wiki - Telomeres",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Telomeres",
+      "source_class": "community"
+    },
+    {
+      "theory": "Telomeres is the tenth track from Sleep Token's second album, This Place Will Become Your Tomb.",
+      "source_title": "Sleep Token Collective Wiki - Telomeres",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Telomeres",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Telomeres%22%20%28lore%20OR%20meaning%20OR%20biology%20OR%20depth%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Invalid JSON from Reddit search: title:\"Telomeres\" (lore OR meaning OR biology OR depth OR theory)"
+  ]
+}

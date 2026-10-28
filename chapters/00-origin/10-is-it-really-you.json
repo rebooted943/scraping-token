@@ -1,0 +1,82 @@
+{
+  "title": "Is It Really You?",
+  "release": "Is It Really You? (Collaborative Single with Loathe)",
+  "track_number": 1,
+  "year": 2022,
+  "status": "active",
+  "genius_annotations_archived": 0,
+  "era_role": "Singolo fuori-album (originariamente dei Loathe da 'I Let It in and It Took Everything', 2020, reinterpretato da Sleep Token nel 2022). Collocato tra i singoli staccati perché privo di sigillo di Sundowning o profondità marina di TPWBYT, ma tematicamente affine al dubbio onirico ('Is it really you?').",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "editorial_reading": [
+    {
+      "summary": "Collaborazione celebrata dalla stampa metal britannica come l'incontro tra le due realtà più atmosferiche della scena UK: Vessel trasforma il brano shoegaze dei Loathe in una preghiera gospel-ambient.",
+      "source_title": "Louder - The story behind every Sleep Token song",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Early on in the year, they were a supporting act for Loathe and Holding Absence.[17] In April they performed at Maida Vale Studios for the BBC Radio 1 Rock Show with Daniel P. Carter.[18] In June they played at Camden Rocks Festival.[19]",
+      "source_title": "Wikipedia - Sleep Token (Public Chronology Only)",
+      "url": "https://en.wikipedia.org/wiki/Sleep_Token",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The band have been vague, simply crediting \"a plethora of artists\" as inspiration.[8] Early in their career, though, they did name Leprous, Agent Fresco, Bon Iver, Meshuggah[131] and Failure as influences.[132] In 2023, II cited British electronic music, drum and bass, Matt McDonaugh from Mudvayne, Joey Jordison of Slipknot, Derek Roddy of Nile, Hate Eternal and Malevolent Creation and Eric Moore, live drummer for Bobby Brown and Suicidal Tendencies, as his main influences.[133] Commentators have also posited performers such as Casey,[134] Loathe,[135] Deftones, Cult of Luna, Explosions in the Sky and Ólafur Arnalds as possible influences.[130][136][137]",
+      "source_title": "Wikipedia - Sleep Token (Public Chronology Only)",
+      "url": "https://en.wikipedia.org/wiki/Sleep_Token",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": null,
+    "rune": null,
+    "creature": null,
+    "object": "Velo / Orizzonte onirico",
+    "color": "Blu notte / Argento",
+    "sigil_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
+    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
+    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
+    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+  },
+  "references": [
+    {
+      "category": "intertestualità musicale",
+      "detail": "Dialogo diretto con l'album 'I Let It in and It Took Everything' dei Loathe, il cui titolo stesso risuona con la possessione volontaria di Vessel da parte di Sleep.",
+      "supporting_phrase": "Let's search the sky for a while / You and I",
+      "source_title": "Sleep Token Collective Wiki - Is It Really You?",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Is_It_Really_You%3F",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "The Apparition (Take Me Back to Eden, 2023)",
+      "motif": "La domanda centrale 'Is it really you?' anticipa il dubbio sull'autenticità della visione onirica che esplode in 'The Apparition'.",
+      "source_title": "Sleep Token Collective Wiki - Is It Really You?",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Is_It_Really_You%3F",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Pur essendo una cover dei Loathe, i fan la inseriscono come intermezzo tra la fine di TPWBYT e l'inizio di TMBTE, in cui Vessel si chiede se l'entità che vede nei sogni sia davvero Sleep o una proiezione del proprio dolore.",
+      "source_title": "r/SleepToken discussions",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Is_It_Really_You%3F",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "0 annotazioni Genius nell'archivio locale; brano scritto originariamente dai Loathe, quindi non contiene lore primaria scritta da Vessel.",
+    "Fandom page absent: Is It Really You? (missingtitle)",
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Is%20It%20Really%20You%22%20%28lore%20OR%20meaning%20OR%20Loathe%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

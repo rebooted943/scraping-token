@@ -1,0 +1,124 @@
+{
+  "title": "Missing Limbs",
+  "release": "This Place Will Become Your Tomb",
+  "track_number": 12,
+  "year": 2021,
+  "status": "active",
+  "genius_annotations_archived": 12,
+  "local_archive_repair_note": null,
+  "era_role": "Ultima tappa, 5.973 fathom (circa 10.923 m), Challenger Deep. Dopo High Water resta una chitarra acustica: la perdita è il dolore neurologico di un arto amputato che il cervello continua a sentire.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nessuna intervista traccia-per-traccia nel ciclo 2021. L'unica confessione diretta in-character dell'era sta nei cartelli del video di Fall for Me.",
+  "editorial_reading": [
+    {
+      "summary": "Simmetria con Blood Sport: chiusura spogliata dopo un climax pesante, poi un outro ambientale che si salda all'album successivo.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Missing Limbs has the deepest coordinates of the lot – Challenger Deep, at the bottom of the Mariana Trench. For all its twanging, acoustic charms, the song is dark. Vessel has hit rock bottom, relinquishing full control to Sleep, his mind is becoming a blank canvas.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale]: 914m – the depth at which angler fish live (the single artwork is of an angler fish)[riferimento testuale]: 1824m – Farallon escarpment“Mine[riferimento testuale]Like That[riferimento testuale]Missing Limbs“: 10924m – Challenger Deep (the deepest point in the ocean, within the Mariana Trench. Presumably the location of the house/tomb).",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": {
+      "track": "Missing Limbs",
+      "fathoms": 5973,
+      "meters": 10923,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Challenger Deep, fondo della Fossa delle Marianne (circa 10.923 m)",
+      "booklet_specimen": "Whalefall, dalla trivia della wiki. Su Fall for Me la carcassa sta ancora scendendo",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "Non si scende oltre. La tomba è compiuta e resta il dolore dell'arto fantasma."
+    },
+    "rune": null,
+    "creature": "Whalefall",
+    "object": "Arto fantasma, chitarra acustica, cima recisa",
+    "color": "Nero del fondale",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In TPWBYT il sistema simbolico primario è la quota batimetrica e il booklet marino.",
+    "rune_gap_reason": "L'alfabeto runico sostitutivo viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "geografia oceanica",
+      "detail": "5.973 fathom è una cifra di community per il Challenger Deep. La pagina wiki dell'album non la pubblica.",
+      "supporting_phrase": "La trivia di Missing Limbs documenta un whalefall, non i 5.973 fathom.",
+      "source_title": "Progressione batimetrica di community",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "category": "neurologia",
+      "detail": "Dopo un'amputazione la mappa corticale continua a cercare la parte mancante e ne sente il dolore.",
+      "supporting_phrase": "Metafora del dolore per un legame reciso che il corpo sente ancora presente.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Blood Sport (Sundowning, traccia 12)",
+      "motif": "Entrambe chiudono un album a voce nuda dopo il climax, e confessano la sconfitta.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    },
+    {
+      "target_song": "Chokehold (Take Me Back to Eden, traccia 1, 2023)",
+      "motif": "Il drone degli ultimi secondi prosegue nell'attacco di Chokehold e segna la riemersione. Il verso non è archiviato.",
+      "source_title": "Sleep Token Collective Wiki - Missing Limbs",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Missing_Limbs",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Negli ultimi versi Vessel vorrebbe soffrire al posto dell'altro per permettergli di dimenticare, e insieme darebbe qualsiasi cosa per ricordare il contatto. Si ricollega all'amnesia di Sundowning.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Missing Limbs' cover art depicts a whalefall.[1]",
+      "source_title": "Sleep Token Collective Wiki - Missing Limbs",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Missing_Limbs",
+      "source_class": "community"
+    },
+    {
+      "theory": "Missing Limbs is the twelth and closing track from Sleep Token's second album, This Place Will Become Your Tomb.",
+      "source_title": "Sleep Token Collective Wiki - Missing Limbs",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Missing_Limbs",
+      "source_class": "community"
+    },
+    {
+      "theory": "Missing Limbs is absent from the This Place Will Become Your Tomb instrumental album because the track was recorded in a single live take, with Vessel singing and playing acoustic guitar simultaneously, resulting in heavy vocal bleed into the instrument microphone.",
+      "source_title": "Sleep Token Collective Wiki - Missing Limbs",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Missing_Limbs",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Missing%20Limbs%22%20%28lore%20OR%20meaning%20OR%20depth%20OR%20Chokehold%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Invalid JSON from Reddit search: title:\"Missing Limbs\" (lore OR meaning OR depth OR Chokehold)"
+  ]
+}

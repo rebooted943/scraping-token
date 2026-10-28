@@ -1,0 +1,98 @@
+{
+  "title": "Give",
+  "release": "Sundowning",
+  "track_number": 7,
+  "year": 2019,
+  "status": "active",
+  "genius_annotations_archived": 2,
+  "era_role": "Settima offerta (12 settembre 2019). La seconda metà dell'album passa dalla supplica al possesso reciproco nel buio.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "R&B notturno. La voce diventa protettiva e insieme ossessiva.",
+      "source_title": "Louder - The story behind every Sleep Token song",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Vessel takes centre stage throughout Sundowning, but Give hands the reins over to Sleep. High vocals dance over a backdrop of castanets, a swell of transient instrumentals tempting Vessel to give in to Sleep’s command.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Sundowning tends to exist in softer alt metal soundscapes, but Gods is another beast entirely. It takes place after submitting to Sleep’s seduction on Give, leaving him fearsome enough that even the [riferimento testuale] from him.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "They show opposite perspectives of the give-and-take relationship, presented using the same number of lines and mirrored imagery. The first and second verse sound like someone literally [riferimento testuale] themselves up, which is a good reason for the overt use of the motif. In my opinion, Sleep visits Vessel after his suicide attempt because ‘she’ doesn’t reciprocate his feelings. His fragile emotional state make",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (Sundowning Section)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": {
+      "track": "Give",
+      "release_date": "2019-09-12",
+      "reading_class": "community",
+      "geometry": "Due semicerchi convergenti che formano un nodo al centro.",
+      "symbolic_reading": "Patto di reciprocità in cui donatore e ricevente si fondono."
+    },
+    "depth": null,
+    "rune": null,
+    "creature": "Predatori nell'ombra",
+    "object": "Ombre intrecciate, giaciglio notturno",
+    "color": "Indaco e ambra",
+    "depth_gap_reason": "La batimetria traccia-per-traccia in metri e fathom appartiene a This Place Will Become Your Tomb (Capitolo 2).",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "patto",
+      "detail": "Riformulazione del do ut des: proteggere e imprigionare nel buio diventano lo stesso gesto.",
+      "supporting_phrase": "Promessa di dare in misura uguale a ciò che viene concesso nell'oscurità.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Mine (2021) e Provider (2025)",
+      "motif": "Anticipa il possesso devoto di Mine e il ruolo di chi provvede in Provider.",
+      "source_title": "Sleep Token Collective Wiki - Give",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Give",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Lettura diffusa: la traccia è cantata da Sleep, o dalle due voci sovrapposte, che seduce promettendo protezione in cambio dell'anima.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Give is the seventh track from Sleep Token's first album, Sundowning. Give released on September 12th, 2019 with it's official visualiser video.",
+      "source_title": "Sleep Token Collective Wiki - Give",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Give",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "2 annotazioni Genius. Integrata la lettura a prospettiva invertita.",
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Give%22%20%28lore%20OR%20meaning%20OR%20sigil%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

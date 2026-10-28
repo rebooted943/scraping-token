@@ -1,0 +1,90 @@
+{
+  "title": "Say That You Will",
+  "release": "Sundowning",
+  "track_number": 10,
+  "year": 2019,
+  "status": "active",
+  "genius_annotations_archived": 4,
+  "era_role": "Decima offerta (24 ottobre 2019). Finita l'euforia di Sugar, resta il terrore dell'abbandono: basta una falsa promessa per attraversare l'inverno.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "Traccia spesso sottovalutata: dalla voce quasi sussurrata a un muro di chitarre.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "“Mine[riferimento testuale]we are a crashing course driven by a holy force.[riferimento testuale]Calcutta”, [riferimento testuale], [riferimento testuale], [riferimento testuale], [riferimento testuale]) to reiterate the inescapability of the situation. It is obsessive. The song could represent Sleep’s desire, sounding big and sweet and romantic, while truthfully being deliberately manipulative. The end repeats the l",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (Sundowning Section)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The line [riferimento testuale] from [riferimento testuale] reflects a brutal but honest reality of love, infatuation, and devotion – the famous sentiment that love and hate are not opposites but two sides of the same coin. Emphasized throughout the band’s discography is the inherent difference and polarity of Vessel and his loves yet the apparent necessity of being together. What one wants is not necessarily what is",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (Sundowning Section)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": {
+      "track": "Say That You Will",
+      "release_date": "2019-10-24",
+      "reading_class": "community",
+      "geometry": "Stelo verticale attraversato da sbarre orizzontali e diagonali.",
+      "symbolic_reading": "Contratto forzato e supplica che cerca di trattenere l'altro."
+    },
+    "depth": null,
+    "rune": null,
+    "creature": "Falena attratta dalla luce artificiale",
+    "object": "Foglie che cadono, luce accecante",
+    "color": "Grigio autunnale e bianco freddo",
+    "depth_gap_reason": "La batimetria traccia-per-traccia in metri e fathom appartiene a This Place Will Become Your Tomb (Capitolo 2).",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "entomologia",
+      "detail": "Fototassi: l'insetto notturno scambia una luce artificiale per la luna e si brucia.",
+      "supporting_phrase": "Essere ipnotizzati da una luce e cedere all'impulso autodistruttivo.",
+      "source_title": "Sleep Token Collective Wiki - Say That You Will",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Say_That_You_Will",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Thread the Needle (2016) e l'artwork di Take Me Back to Eden (2023)",
+      "motif": "Le falene notturne sono già nel primo video e tornano nell'artwork del terzo album.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Il rilascio di fine ottobre coincide con le foglie morte del tema: il ciclo solare muore verso il solstizio d'inverno.",
+      "source_title": "Sleep Token Collective Wiki - Say That You Will",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Say_That_You_Will",
+      "source_class": "community"
+    },
+    {
+      "theory": "Say That You Will is the tenth track from Sleep Token's first album, Sundowning. Say That You Will released on October 24th, 2019 with it's official visualiser video.",
+      "source_title": "Sleep Token Collective Wiki - Say That You Will",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Say_That_You_Will",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Say%20That%20You%20Will%22%20%28lore%20OR%20meaning%20OR%20sigil%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

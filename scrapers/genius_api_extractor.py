@@ -14,7 +14,7 @@ from config.settings import (
     Settings,
     get_settings,
 )
-from core.fetcher import FetchError, ResilientFetcher
+from core.fetcher import FetchError, ResilientFetcher, node_text, select_adaptive
 from core.sanitizer import REDACTION, sanitize_credit_name, sanitize_text
 from models.schemas import (
     Credit,
@@ -244,6 +244,31 @@ class GeniusAPIExtractor:
         if not self.settings.include_full_lyrics:
             return ""
 
+        try:
+            page = await self.fetcher.fetch_page(song_url, mode="async")
+            containers = select_adaptive(
+                page,
+                (
+                    '[data-lyrics-container="true"]',
+                    "[class*='Lyrics__Container']",
+                    ".lyrics",
+                ),
+            )
+            blocks: list[str] = []
+            for container in containers:
+                get_all_text = getattr(container, "get_all_text", None)
+                text = (
+                    get_all_text(separator="\n", strip=True)
+                    if callable(get_all_text)
+                    else node_text(container)
+                )
+                if text:
+                    blocks.append(str(text))
+            if blocks:
+                return _clean_lyrics("\n".join(blocks))
+        except FetchError:
+            pass
+
         def load() -> str:
             import lyricsgenius
 
@@ -377,11 +402,17 @@ class GeniusAPIExtractor:
     async def extract(self) -> tuple[list[Song], ExtractionCoverage]:
         artist_id = await self.resolve_artist_id()
         summaries = await self.catalog(artist_id)
+        if not summaries:
+            raise FetchError("Genius catalog was empty")
         results = await asyncio.gather(
             *(self.extract_song(summary) for summary in summaries),
             return_exceptions=True,
         )
         songs = [result for result in results if isinstance(result, Song)]
+        if not songs:
+            raise FetchError("Genius returned no usable songs")
+        if not any(song.lyrics or song.annotations for song in songs):
+            raise FetchError("Genius returned no lyrics or annotations")
         failures = len(results) - len(songs)
         status = CoverageStatus.COMPLETE if failures == 0 else CoverageStatus.PARTIAL
         return songs, ExtractionCoverage(

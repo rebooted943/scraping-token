@@ -1,0 +1,83 @@
+{
+  "title": "Levitate",
+  "release": "Sundowning",
+  "track_number": 3,
+  "year": 2019,
+  "status": "active",
+  "genius_annotations_archived": 4,
+  "era_role": "Terza offerta (18 luglio 2019). Prima disillusione asimmetrica: l'altro sale verso la guarigione, Vessel resta a terra per peso e trauma.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "Ballata al pianoforte che esplode nel post-metal. La stampa legge un abbandono verticale: l'ascensione dell'altro non è condivisa.",
+      "source_title": "Louder - The story behind every Sleep Token song",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Sleep isn’t the only relationship Vessel tackles on Sundowning. Basking in a soft haze of piano, Levitate vulnerably hints at a lost love. The track seems to suggest Vessel felt inadequate in the previous relationship; he insists he wont be able to reach his ex-partner [riferimento testuale], deeming himself unworthy of Heaven while his partner is deserving of a place beyond the pearly gates.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": {
+      "track": "Levitate",
+      "release_date": "2019-07-18",
+      "reading_class": "community",
+      "geometry": "Vertici ascendenti lungo uno stelo verticale, con ali laterali.",
+      "symbolic_reading": "Ascensione e sublimazione alchemica: dallo stato terreno a quello aereo."
+    },
+    "depth": null,
+    "rune": null,
+    "creature": "Figure alate irraggiungibili",
+    "object": "Gravità, massa, sangue",
+    "color": "Bianco etereo contro grigio piombo",
+    "depth_gap_reason": "La batimetria traccia-per-traccia in metri e fathom appartiene a This Place Will Become Your Tomb (Capitolo 2).",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "fisica / escatologia",
+      "detail": "La levitazione mistica è contrapposta alla massa che trattiene il corpo ferito.",
+      "supporting_phrase": "Domanda ricorrente: l'altro può salire dove il narratore non arriva.",
+      "source_title": "Sleep Token Collective Wiki - Levitate",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Levitate",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Drag Me Under (traccia 11) e Ascensionism (2023)",
+      "motif": "L'asse verticale dell'album: chi non sale in Levitate viene trascinato giù in Drag Me Under. Ascensionism ribalta la spinta.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "L'anima che sale dimenticando chi resta può essere sia la morte di una persona cara sia il distacco di un partner che ha chiuso la rottura.",
+      "source_title": "Sleep Token Collective Wiki - Levitate",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Levitate",
+      "source_class": "community"
+    },
+    {
+      "theory": "Levitate is the third track from Sleep Token's first album, Sundowning. Levitate released on July 18th, 2019 with it's official visualiser video.",
+      "source_title": "Sleep Token Collective Wiki - Levitate",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Levitate",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Levitate%22%20%28lore%20OR%20meaning%20OR%20sigil%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

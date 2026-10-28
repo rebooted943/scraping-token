@@ -1,0 +1,84 @@
+{
+  "title": "Take Aim",
+  "release": "Sundowning",
+  "track_number": 6,
+  "year": 2019,
+  "status": "active",
+  "genius_annotations_archived": 1,
+  "era_role": "Sesta offerta (29 agosto 2019), a metà album. Dopo Higher, Vessel torna alla supplica: chiede di essere colpito, purché l'altro finga di amarlo.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "Louder nota l'orchestrazione eterea e il falsetto quasi gospel, in contrasto con il masochismo del tema.",
+      "source_title": "Louder - The story behind every Sleep Token song",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Take Aim exists in an effervescent haze, gentle and vulnerable in its lovesick musing. It paints Vessel as prey, constantly at the mercy of his lover, a hunter poised and ready to shoot.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": {
+      "track": "Take Aim",
+      "release_date": "2019-08-29",
+      "reading_class": "community",
+      "geometry": "Mirino o punta di freccia che attraversa un rombo.",
+      "symbolic_reading": "Desiderio unidirezionale e offerta di sé come bersaglio."
+    },
+    "depth": null,
+    "rune": null,
+    "creature": "Preda volontaria",
+    "object": "Arco, freccia e mirino, che è anche il sigillo della traccia",
+    "color": "Oro pallido e bianco",
+    "depth_gap_reason": "La batimetria traccia-per-traccia in metri e fathom appartiene a This Place Will Become Your Tomb (Capitolo 2).",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "mitologia / martirio",
+      "detail": "Freccia d'amore e martirio volontario, sull'iconografia di chi invita l'arciere a mirare al petto.",
+      "supporting_phrase": "Invito a prendere la mira e a spezzare il narratore pur di farlo sentire amato.",
+      "source_title": "Sleep Token Collective Wiki - Take Aim",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Take_Aim",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "The Love You Want (TPWBYT, 2021)",
+      "motif": "Armi, lame e il tentativo di conformarsi al desiderio dell'altro continuano nel quinto brano del secondo album.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Con 1 annotazione Genius, i thread leggono la regressione massima: sapendo che l'amore di Sleep è letale, Vessel preferisce la ferita all'indifferenza.",
+      "source_title": "Sleep Token Collective Wiki - Take Aim",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Take_Aim",
+      "source_class": "community"
+    },
+    {
+      "theory": "Take Aim is the sixth track from Sleep Token's first album, Sundowning. Take Aim released on August 29th, 2019 with it's official visualiser video.",
+      "source_title": "Sleep Token Collective Wiki - Take Aim",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Take_Aim",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "1 annotazione Genius. Integrato con la wiki e con r/SleepToken.",
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Take%20Aim%22%20%28lore%20OR%20meaning%20OR%20sigil%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

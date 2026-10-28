@@ -1,0 +1,91 @@
+{
+  "title": "Dark Signs",
+  "release": "Sundowning",
+  "track_number": 4,
+  "year": 2019,
+  "status": "active",
+  "genius_annotations_archived": 10,
+  "era_role": "Quarta offerta (1 agosto 2019). Lucidità retrospettiva: i presagi c'erano prima del patto e sono stati ignorati.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "Dark-pop e beat elettronico. Il mito si fonde con il rimpianto per l'autodistruzione.",
+      "source_title": "Louder - The story behind every Sleep Token song",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Reviewing the album for Kerrang!, Tom Shepherd gave Sundowning a rating of four out of five, writing that the record features [riferimento testuale]. Shepherd highlighted in particular the songs [riferimento testuale], [riferimento testuale] and [riferimento testuale], but also noted that [riferimento testuale].[9]",
+      "source_title": "Wikipedia - Sundowning (album)",
+      "url": "https://en.wikipedia.org/wiki/Sundowning_(Sleep_Token_album)",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Amid Vessel’s battle with Sleep, he nestles in more details about his complex past relationship. Pitch black omens and alarm bells are among the many Dark Signs that Vessel ignores while pursuing his ex-partner.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": {
+      "track": "Dark Signs",
+      "release_date": "2019-08-01",
+      "reading_class": "community",
+      "geometry": "Croce obliqua inscritta in un rombo spezzato, con tagli trasversali.",
+      "symbolic_reading": "Incrocio fatale e presagio notturno ignorato."
+    },
+    "depth": null,
+    "rune": null,
+    "creature": null,
+    "object": "Fari nella nebbia, allarmi, presagi",
+    "color": "Nero pece e rosso d'allarme",
+    "depth_gap_reason": "La batimetria traccia-per-traccia in metri e fathom appartiene a This Place Will Become Your Tomb (Capitolo 2).",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3).",
+    "creature_gap_reason": "Nessuna creatura specifica canonizzata per questa traccia."
+  },
+  "references": [
+    {
+      "category": "divinazione / incidente notturno",
+      "detail": "Il lessico degli auspici si sovrappone a un incidente per assenza di visibilità.",
+      "supporting_phrase": "Segnali oscuri visti e campanelli d'allarme ignorati, da un passato già nero.",
+      "source_title": "Sleep Token Collective Wiki - Dark Signs",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Dark_Signs",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Granite (2023)",
+      "motif": "La guida notturna verso uno schianto anticipa la metafora automobilistica di Granite.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Smonta l'alibi dell'innocenza: Vessel arriva già da un luogo nero e cerca una forza che lo distrugga.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Dark Signs is the fourth track from Sleep Token's first album, Sundowning. Dark Signs released on August 1st, 2019 with it's official visualiser video.",
+      "source_title": "Sleep Token Collective Wiki - Dark Signs",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Dark_Signs",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Dark%20Signs%22%20%28lore%20OR%20meaning%20OR%20sigil%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

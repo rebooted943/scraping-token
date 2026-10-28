@@ -1,0 +1,132 @@
+{
+  "title": "Fall for Me",
+  "release": "This Place Will Become Your Tomb",
+  "track_number": 6,
+  "year": 2021,
+  "status": "active",
+  "genius_annotations_archived": 6,
+  "local_archive_repair_note": null,
+  "era_role": "Sesta tappa, 2.784 fathom (circa 5.091 m), a metà disco, terzo singolo. Solo voce e vocoder, nessun strumento: a 5 km di profondità resta la voce moltiplicata che chiede all'altro di cadere insieme.",
+  "in_character_quotes": [
+    {
+      "quote": "Parafrasi dei cartelli muti del video ufficiale (settembre 2021), non del testo cantato: Vessel si dice intrappolato nella propria mente, teme di non bastare a nessuno, si odia e insieme chiede che qualcuno lo tiri fuori da quel buio.",
+      "source_title": "Fall for Me official video on-screen text, via Fandom and Lore of Sleep Token",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Fall_For_Me",
+      "date": "2021-09-17",
+      "source_class": "canon"
+    }
+  ],
+  "in_character_quotes_gap_reason": null,
+  "editorial_reading": [
+    {
+      "summary": "Singolo metal senza chitarre né batteria. Il video su una spiaggia ventosa usa scritte a schermo come confessione diretta.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "This Place Will Become Your Tomb was announced on 18 June 2021, accompanied by the release of [riferimento testuale] as the lead single and music video.[3] It was followed by [riferimento testuale] on 6 August[4] and [riferimento testuale] on 17 September.[5]",
+      "source_title": "Wikipedia - This Place Will Become Your Tomb",
+      "url": "https://en.wikipedia.org/wiki/This_Place_Will_Become_Your_Tomb",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Daily Express columnist Callum Crumlish gave the album four out of five stars, praising the lyrical content as the band's best yet, as well as the band's development into other musical styles since Sundowning. Crumlish's few criticisms of the release included claims that some songs [riferimento testuale] and that 'Fall for Me' felt [riferimento testuale] on the album.[7]",
+      "source_title": "Wikipedia - This Place Will Become Your Tomb",
+      "url": "https://en.wikipedia.org/wiki/This_Place_Will_Become_Your_Tomb",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Fall For Me’s polyphonic pitch-shifted vocals see Sleep encouraging Vessel to [riferimento testuale] Him, to commit his life to servitude forever. While Sleep hides His vulnerability behind a veil of vocal effects, His more honest confessions take place during the music video, flashing on screen: [riferimento testuale] He needs Vessel to spread his message, each song a Token to entice worshippers back in.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale] appears to feature a lost and broken Vessel teetering on the precipice. During the video, text can be seen flashing on the screen: [riferimento testuale] Sleep ushers Vessel in with sweet words to take the plunge into truly becoming their host. Vessel suffers, but in love that feels an acceptable trade. Like how sea organisms feast on whale falls, the narrator might see this love as essential t",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Assuming that the Vessel of One, Two, Sundowning, and TPWBYT is the same, the record feels as though it documents him giving himself to Sleep and truly transitioning into ‘Vessel.’ Eternal reoccurrence appears an overarching paradigm of the band’s discography. “Jericho”, [riferimento testuale] ([riferimento testuale] / [riferimento testuale]), and [riferimento testuale] ([riferimento testuale]) refer to civilizationa",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": {
+      "track": "Fall for Me",
+      "fathoms": 2784,
+      "meters": 5091,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona abissopelagica media (circa 5.091 m)",
+      "booklet_specimen": "Whalefall in fase di affondamento, dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "Senza strumenti, solo voce processata. La copertina mostra una carcassa che inizia a scendere."
+    },
+    "rune": null,
+    "creature": "Whalefall in affondamento",
+    "object": "Spiaggia, sabbia bagnata, cartelli neri",
+    "color": "Grigio costiero e nero",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In TPWBYT il sistema simbolico primario è la quota batimetrica e il booklet marino.",
+    "rune_gap_reason": "L'alfabeto runico sostitutivo viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "confessione muta",
+      "detail": "Gli intertitoli contraddicono il canto: la voce invoca un amore, la scrittura mostra depressione e ideazione suicidaria.",
+      "supporting_phrase": "Contrappunto tra armonie e confessioni scritte nel video. Il testo cantato non è archiviato.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Drag Me Under (2019) e DYWTYLM (2023)",
+      "motif": "Cadere significa sia innamorarsi sia sprofondare. L'autoodio dei cartelli diventa esplicito in DYWTYLM.",
+      "source_title": "Sleep Token Collective Wiki - Fall for Me",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Fall_For_Me",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "I cartelli sono uno dei pochi momenti in cui Vessel parla senza il filtro di Sleep, prima della rottura della quarta parete del 2025.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Fall For Me's cover art depicts a whalefall, more specifically during the sinking process.[1]",
+      "source_title": "Sleep Token Collective Wiki - Fall for Me",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Fall_For_Me",
+      "source_class": "community"
+    },
+    {
+      "theory": "Fall For Me is the sixth track and third single from Sleep Token's second album, This Place Will Become Your Tomb. Fall For Me released on September 17th, 2021 with it's official video.",
+      "source_title": "Sleep Token Collective Wiki - Fall for Me",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Fall_For_Me",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Fall%20for%20Me%22%20%28lore%20OR%20meaning%20OR%20video%20OR%20text%20OR%20depth%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Invalid JSON from Reddit search: title:\"Fall for Me\" (lore OR meaning OR video OR text OR depth)"
+  ]
+}

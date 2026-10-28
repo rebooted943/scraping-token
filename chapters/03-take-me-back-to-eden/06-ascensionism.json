@@ -1,0 +1,86 @@
+{
+  "title": "Ascensionism",
+  "release": "Take Me Back to Eden",
+  "track_number": 6,
+  "year": 2023,
+  "status": "active",
+  "genius_annotations_archived": 27,
+  "era_role": "Sesta traccia, circa sette minuti e mezzo, centro dell'album. Attraverso pianoforte, trap, post-rock e djent, Vessel smaschera il falso paradiso e accusa Sleep di avergli fatto desiderare di sparire.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel 2023 Vessel non ha rilasciato interviste traccia-per-traccia. Le cover story di Kerrang! e Metal Hammer sul ciclo Eden sono saggi critici, non interviste al personaggio.",
+  "editorial_reading": [
+    {
+      "summary": "Metal Hammer e Boolin Tunes lo mettono accanto alla title-track come vertice compositivo: il risentimento di tre dischi diventa un atto d'accusa.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Read as a conversation between Vessel and Sleep, there’s a level of ambiguity as to whether Ascensionism is about the idea of past ties and past lives in a metaphorical sense, or more literally the idea of different Vessels repeating destructive patterns in the past.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": null,
+    "rune": "ASCENSIONISM",
+    "creature": "Sovrano o angelo oscuro a gambe incrociate, in drappi neri e catene, sospeso sopra un'architettura gotica.",
+    "ritual_role": "Falso paradiso promesso da Sleep e accusa di aver fatto desiderare la scomparsa.",
+    "object": "Diamanti grezzi, petali, codice digitale, labbra cianotiche",
+    "color": "Nero, rosso rosa, blu elettrico",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In Take Me Back to Eden il sistema simbolico è il cifrario runico e le 12 creature.",
+    "depth_gap_reason": "La batimetria marina appartiene a TPWBYT (Capitolo 2). Dopo la riemersione di Chokehold l'ambientazione è terrestre, lunare e alchemica."
+  },
+  "references": [
+    {
+      "category": "informatica / mineralogia",
+      "detail": "L'interlocutore è descritto come un'illusione di luce digitale, algoritmi e ricompense materiali che coprono il vuoto.",
+      "supporting_phrase": "La domanda è chi abbia reso l'altro un ibrido di codice e di sogno.",
+      "source_title": "Sleep Token Collective Wiki - Ascensionism",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Ascensionism",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Levitate (2019) e The Love You Want (2021)",
+      "motif": "Rovescia Levitate: l'ascensione, prima venerata, qui è manipolazione.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "target_song": "Caramel e Damocles (Even In Arcadia, 2025)",
+      "motif": "Mercificazione, diamanti e desiderio di sparire anticipano la crisi della fama nel Capitolo 4.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Con 27 annotazioni Genius, la community legge il climax come la rottura del contratto psicologico: Vessel smette di implorare e riconosce che il legame gli toglie la voglia di vivere.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Ascensionism is the sixth track from Sleep Token's third album, Take Me Back To Eden.",
+      "source_title": "Sleep Token Collective Wiki - Ascensionism",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Ascensionism",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Ascensionism%22%20%28lore%20OR%20meaning%20OR%20diamonds%20OR%20binary%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Reddit ha restituito una pagina non JSON (blocco non aggirato)."
+  ]
+}

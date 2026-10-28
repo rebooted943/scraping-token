@@ -155,6 +155,21 @@ class MusicologyInsight(CodexModel):
     source: SourceReference
 
 
+class GoogleResearchPage(CodexModel):
+    query: str
+    title: str
+    url: str
+    paragraphs: list[str]
+    keywords: list[str] = Field(default_factory=list)
+    source: SourceReference
+
+    @model_validator(mode="after")
+    def require_content(self) -> Self:
+        if not self.paragraphs:
+            raise ValueError("at least one relevant paragraph is required")
+        return self
+
+
 class Era(CodexModel):
     name: str
     order: int = Field(ge=0)

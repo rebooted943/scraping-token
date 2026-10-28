@@ -1,0 +1,126 @@
+{
+  "title": "Alkaline",
+  "release": "This Place Will Become Your Tomb",
+  "track_number": 7,
+  "year": 2021,
+  "status": "active",
+  "genius_annotations_archived": 8,
+  "local_archive_repair_note": "Il file testuale locale di Alkaline risultava troncato a 22 caratteri (archivio del 21 ottobre 2026). Qui non si ricostruisce il testo protetto: si ricostruisce il significato chimico, batimetrico e del video.",
+  "era_role": "Settima tappa, 3.240 fathom (circa 5.925 m), primo singolo (giugno 2021). L'entità amata non sta su un estremo della scala del pH, né nella luce né nel buio: è una forza non classificata che altera la chimica del corpo.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nessuna intervista traccia-per-traccia nel ciclo 2021. L'unica confessione diretta in-character dell'era sta nei cartelli del video di Fall for Me.",
+  "editorial_reading": [
+    {
+      "summary": "Metal Hammer, Kerrang! e Boolin Tunes lo indicano come il brano che consacra la band prima del 2023. La scala del pH descrive una figura che non è angelo né demone.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "This Place Will Become Your Tomb was announced on 18 June 2021, accompanied by the release of [riferimento testuale] as the lead single and music video.[3] It was followed by [riferimento testuale] on 6 August[4] and [riferimento testuale] on 17 September.[5]",
+      "source_title": "Wikipedia - This Place Will Become Your Tomb",
+      "url": "https://en.wikipedia.org/wiki/This_Place_Will_Become_Your_Tomb",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "On the same day as the [riferimento testuale] release, the band performed on the Second Stage at the Download Festival Pilot, where the song made its live debut.[6]",
+      "source_title": "Wikipedia - This Place Will Become Your Tomb",
+      "url": "https://en.wikipedia.org/wiki/This_Place_Will_Become_Your_Tomb",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Due to Vessel’s experience of love, he considers his role in a partnership to be one of utter sacrifice. Alkaline explores the catastrophic impact of that mindset, how toxic affection leaves him ‘altered’ forever.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "As for [riferimento testuale], it is clear that there is some woman that Vessel has lost and whom he is still very much in love with (as shown in [riferimento testuale]), to the degree that he simply wants them out of his head. Given Sleep’s nature as a manipulator of dreams, the dreamlike quality of [riferimento testuale]’s video following the nightmarish [riferimento testuale] (which, as the seventh track represent",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": {
+      "track": "Alkaline",
+      "fathoms": 3240,
+      "meters": 5925,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Confine abissopelagico / hadopelagico (circa 5.925 m)",
+      "booklet_specimen": "Anglerfish (rana pescatrice), dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "La copertina è la rana pescatrice, non una sorgente idrotermale. La chimica del pH resta la metafora del testo; l'esca luminosa è l'attrazione nel buio."
+    },
+    "rune": null,
+    "creature": "Anglerfish; nel video, figure armate e fili rossi",
+    "object": "Scala del pH e ragnatela di fili rossi",
+    "color": "Rosso neon e blu abissale",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In TPWBYT il sistema simbolico primario è la quota batimetrica e il booklet marino.",
+    "rune_gap_reason": "L'alfabeto runico sostitutivo viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "chimica e geochimica",
+      "detail": "Sotto pH 7 una soluzione è acida, sopra è basica. Intorno ai 6.000 m le sorgenti idrotermali alcaline sono, in biologia evolutiva, una culla chimica della vita.",
+      "supporting_phrase": "L'amata è descritta come né acida né alcalina, un elemento ancora non scoperto. Nessun verso è archiviato.",
+      "source_title": "Sleep Token Collective Wiki - Alkaline",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Alkaline",
+      "source_class": "community"
+    },
+    {
+      "category": "coincidentia oppositorum",
+      "detail": "Luce diurna e tenebra, santità e peccato, coincidono in una figura sola.",
+      "supporting_phrase": "Il ritornello oppone in modo simmetrico il giorno e il buio, senza citarne i versi.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Sugar (2019) e Aqua Regia (2023)",
+      "motif": "Secondo capitolo chimico: dopo la dipendenza organica di Sugar, l'equilibrio acido-base, poi l'acqua regia che scioglie l'oro.",
+      "source_title": "Sleep Token Collective Wiki - Alkaline",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Alkaline",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Nel video Vessel abbatte figure in tenuta tattica e finisce immobilizzato da fili rossi davanti a una figura velata. I poteri dati da Sleep funzionano nel sogno e servono solo a spingerlo più a fondo nella trappola.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "The sea creature on Alkaline's cover art is an anglerfish.[1]",
+      "source_title": "Sleep Token Collective Wiki - Alkaline",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Alkaline",
+      "source_class": "community"
+    },
+    {
+      "theory": "Alkaline is the seventh track and first single from Sleep Token's second album, This Place Will Become Your Tomb. Alkaline released on June 18th, 2021 with it's official video.",
+      "source_title": "Sleep Token Collective Wiki - Alkaline",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Alkaline",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "Scheda locale da 22 caratteri sanata sul piano semantico. Il testo cantato resta fuori dall'archivio.",
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Alkaline%22%20%28lore%20OR%20meaning%20OR%20chemistry%20OR%20video%20OR%20depth%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Invalid JSON from Reddit search: title:\"Alkaline\" (lore OR meaning OR chemistry OR video OR depth)"
+  ]
+}

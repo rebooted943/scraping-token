@@ -1,0 +1,79 @@
+{
+  "title": "Shelter (from the room below)",
+  "release": "Sundowning (Deluxe) / The Room Below",
+  "track_number": 14,
+  "year": 2020,
+  "status": "active",
+  "genius_annotations_archived": 0,
+  "era_role": "Unico inedito dell'appendice (giugno 2020). Lato protettivo: Vessel offre un rifugio, sapendo quanto pesano i segreti custoditi.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "Ballata pianistica che mostra la scrittura nuda, senza la produzione stratificata dell'album.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "On 20 June 2020, seven months after the album's initial release and the day of the summer solstice, Sleep Token issued a deluxe version of Sundowning containing four bonus tracks performed entirely on piano dubbed The Room Below.[5] The four tracks consisted of a new version of [riferimento testuale] (for which a music video was also released), a new track titled \"Shelter[riferimento testuale]When the Party's Over[ri",
+      "source_title": "Wikipedia - Sundowning (album)",
+      "url": "https://en.wikipedia.org/wiki/Sundowning_(Sleep_Token_album)",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Recorded for 2020’s stripped-down From The Room Below session and released on the deluxe edition of Sundowning, Shelter is simultaneously bittersweet and tender. It adds another layer to Vessel’s regret over his old partner, reliving memories with fleeting [riferimento testuale].",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": "The Room Below, spazio ipogeo protetto.",
+    "rune": null,
+    "creature": null,
+    "object": "Riparo dalla tempesta; ali chiuse",
+    "color": "Seppia",
+    "sigil_gap_reason": "Shelter e le due cover di The Room Below non hanno un glifo proprio: i sigilli di Sundowning sono 12, uno per traccia standard. Spinefarm non ha pubblicato una legenda che li battezzi; ogni lettura geometrica resta source_class=community.",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3).",
+    "creature_gap_reason": "Nessuna creatura specifica canonizzata per questa traccia."
+  },
+  "references": [
+    {
+      "category": "attaccamento",
+      "detail": "Santuario in cui due anime ferite si riparano dal mondo, anche quando il riparo diventa prigione.",
+      "supporting_phrase": "Offerta di essere un rifugio nonostante il dolore.",
+      "source_title": "Sleep Token Collective Wiki - Shelter",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Shelter",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Give (traccia 7) e Euclid (2023)",
+      "motif": "La promessa protettiva di Give, in chiave acustica, e la tenerezza che chiude la trilogia.",
+      "source_title": "Sleep Token Collective Wiki - Shelter",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Shelter",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Ipotesi ricorrente: scritto durante Sundowning ed escluso dai 12 perché troppo empatico per la griglia dei sigilli.",
+      "source_title": "Sleep Token Collective Wiki - Shelter",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Shelter",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Shelter%22%20%28%22room%20below%22%20OR%20lore%20OR%20meaning%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Euclid",
+  "release": "Take Me Back to Eden",
+  "track_number": 12,
+  "year": 2023,
+  "status": "active",
+  "genius_annotations_archived": 29,
+  "era_role": "Chiude l'album e la trilogia 2019-2023. Vessel accetta di dover essere qualcun altro, saluta il passato senza odio e riprende, in musica e in parole, The Night Does Not Belong to God: la notte ora appartiene a loro.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel 2023 Vessel non ha rilasciato interviste traccia-per-traccia. Le cover story di Kerrang! e Metal Hammer sul ciclo Eden sono saggi critici, non interviste al personaggio.",
+  "editorial_reading": [
+    {
+      "summary": "La critica la indica tra le chiusure di concept più nette del rock recente: gli accordi di pianoforte del 2019 trasformano tre album di tragedia in un addio luminoso.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale], Vessel sings on Euclid, and fans have seized upon this as an admission that the band will be moving on completely with their next release – it feels like the closing chapter of the first phase of Sleep Token’s story.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": "Iscrizione runica THE NIGHT BELONGS TO YOU",
+    "depth": null,
+    "rune": "EUCLID",
+    "creature": "Gigante in stracci rituali: spada nella mano destra e, nella sinistra, la testa mozzata di Vessel con la maschera della trilogia.",
+    "ritual_role": "Decapitazione simbolica del vecchio contenitore, prima di una forma nuova.",
+    "object": "Testa mozzata con la vecchia maschera, rette parallele, rami autunnali",
+    "color": "Bianco dorato dell'alba e rosso autunnale",
+    "depth_gap_reason": "La batimetria marina appartiene a TPWBYT (Capitolo 2). Dopo la riemersione di Chokehold l'ambientazione è terrestre, lunare e alchemica."
+  },
+  "references": [
+    {
+      "category": "geometria euclidea",
+      "detail": "Euclide di Alessandria: nel quinto postulato due rette parallele restano simmetriche e non si incontrano. Vale per due amanti affiancati, e per la simmetria tra la traccia 1 di Sundowning e la traccia 12 di questo album.",
+      "supporting_phrase": "Il titolo e i versi sulla simmetria inversa descrivono una linea parallela su cui dare la vita.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "The Night Does Not Belong to God (Sundowning, traccia 1, 2019)",
+      "motif": "La coda ripete il giro di pianoforte, i synth e il materiale della traccia 1 di Sundowning, compresi i bianchi degli occhi che diventano neri e il nome dimenticato. Il cerchio della trilogia si chiude.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    },
+    {
+      "target_song": "When the Bough Breaks (One EP, traccia 3, 2016)",
+      "motif": "Torna l'immagine dell'attesa finché il ramo non si spezza, fino al primo EP.",
+      "source_title": "Sleep Token Collective Wiki - Euclid",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Euclid",
+      "source_class": "community"
+    },
+    {
+      "target_song": "Blood Sport (Sundowning, traccia 12, 2019) e Granite",
+      "motif": "Il cielo che non accoglie e la stanza sottostante richiamano Blood Sport; le lamiere richiamano Granite.",
+      "source_title": "Sleep Token Collective Wiki - Euclid",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Euclid",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "La creatura che regge la testa con la maschera classica è letta come la morte del vecchio Vessel. Nei rituali successivi, da Wembley il 16 dicembre 2023 in poi, le maschere cambiano e preparano Even In Arcadia. I filmati restano fuori dall'archivio.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Euclid is the twelth and closing track from Sleep Token's third album, Take Me Back To Eden.",
+      "source_title": "Sleep Token Collective Wiki - Euclid",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Euclid",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Euclid%22%20%28lore%20OR%20meaning%20OR%20head%20OR%20symmetry%20OR%20callbacks%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Reddit ha restituito una pagina non JSON (blocco non aggirato)."
+  ]
+}

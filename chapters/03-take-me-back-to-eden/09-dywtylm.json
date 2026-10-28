@@ -1,0 +1,99 @@
+{
+  "title": "DYWTYLM",
+  "release": "Take Me Back to Eden",
+  "track_number": 9,
+  "year": 2023,
+  "status": "active",
+  "genius_annotations_archived": 18,
+  "era_role": "Nona traccia, sesto singolo, 20 aprile 2023. L'acronimo scioglie Do You Wish That You Loved Me. Beat pop malinconico: l'interlocutore non è un partner né Sleep, ma il riflesso nello specchio.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel 2023 Vessel non ha rilasciato interviste traccia-per-traccia. Le cover story di Kerrang! e Metal Hammer sul ciclo Eden sono saggi critici, non interviste al personaggio.",
+  "editorial_reading": [
+    {
+      "summary": "La critica nota il contrasto tra una produzione pop-synth orecchiabile e uno dei testi più tristi del disco, rivolto al riflesso stesso.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The quick succession of releases led to a rapid increase in popularity for the band, who grew from having reportedly [riferimento testuale] to having over 1.58 million by the end of the month.[6] \"Vore[riferimento testuale]DYWTYLM\" was issued as the sixth pre-release track from the album on 23 April 2023.[7]",
+      "source_title": "Wikipedia - Take Me Back to Eden",
+      "url": "https://en.wikipedia.org/wiki/Take_Me_Back_to_Eden",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Sleep Token have plenty of songs about heartbreak, addiction and destructive behaviour, so it’s unsurprising DYWTYLM would be seized upon by the fanbase. Although it continues those dark themes, this track also starts to move away from the idea of repetition; it’s more about acceptance and self-love, fans drawing parallels with the oceanic imagery of the previous record used at the very start to a sense of moving on ",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": null,
+    "rune": "DYWTYLM",
+    "creature": "Idolo dalle molte braccia che si regge il volto o si specchia in simmetria.",
+    "ritual_role": "Dissociazione allo specchio: incapacità di amare il proprio riflesso.",
+    "object": "Specchio e riflesso che non sorride",
+    "color": "Rosa pallido e argento specchiato",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In Take Me Back to Eden il sistema simbolico è il cifrario runico e le 12 creature.",
+    "depth_gap_reason": "La batimetria marina appartiene a TPWBYT (Capitolo 2). Dopo la riemersione di Chokehold l'ambientazione è terrestre, lunare e alchemica."
+  },
+  "references": [
+    {
+      "category": "psicologia dell'identità",
+      "detail": "Dopo anni di maschera al servizio di Sleep, l'uomo sotto il costume guarda lo specchio e si percepisce come un estraneo.",
+      "supporting_phrase": "Il sorriso cercato è quello del proprio riflesso.",
+      "source_title": "Sleep Token Collective Wiki - DYWTYLM",
+      "url": "https://sleep-token-collective.fandom.com/wiki/DYWTYLM",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Fall for Me (2021) e High Water (2021)",
+      "motif": "Sviluppa la confessione a schermo di Fall for Me, l'incapacità di amarsi, e il mancato perdono di sé in High Water.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "target_song": "Past Self e Damocles (Even In Arcadia, 2025)",
+      "motif": "La frattura tra la persona allo specchio e la maschera apre le riflessioni di Past Self.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "La community la considera la svolta terapeutica: quando la domanda sull'amore è rivolta a sé, il ricatto di Sleep inizia a sciogliersi.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "community"
+    },
+    {
+      "theory": "DYWTYLM is the ninth track from Sleep Token's third album, Take Me Back To Eden. DYWTYLM released on April 19th, 2023 with it's official video.",
+      "source_title": "Sleep Token Collective Wiki - DYWTYLM",
+      "url": "https://sleep-token-collective.fandom.com/wiki/DYWTYLM",
+      "source_class": "community"
+    },
+    {
+      "theory": "DYWTYLM stands for [riferimento testuale]",
+      "source_title": "Sleep Token Collective Wiki - DYWTYLM",
+      "url": "https://sleep-token-collective.fandom.com/wiki/DYWTYLM",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22DYWTYLM%22%20%28lore%20OR%20meaning%20OR%20mirror%20OR%20reflection%20OR%20Vessel%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Reddit ha restituito una pagina non JSON (blocco non aggirato)."
+  ]
+}

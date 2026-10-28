@@ -1,0 +1,97 @@
+{
+  "title": "Blood Sport",
+  "release": "Sundowning",
+  "track_number": 12,
+  "year": 2019,
+  "status": "active",
+  "genius_annotations_archived": 3,
+  "era_role": "Dodicesima offerta (21 novembre 2019). L'adorazione non redime: diventa un'arena. In studio il brano si chiude sul pianto non filtrato di Vessel.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "Kerrang! e Metal Hammer lo indicano come vertice emotivo: i singhiozzi finali rompono la maschera rituale.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "On 20 June 2020, seven months after the album's initial release and the day of the summer solstice, Sleep Token issued a deluxe version of Sundowning containing four bonus tracks performed entirely on piano dubbed The Room Below.[5] The four tracks consisted of a new version of [riferimento testuale] (for which a music video was also released), a new track titled \"Shelter[riferimento testuale]When the Party's Over[ri",
+      "source_title": "Wikipedia - Sundowning (album)",
+      "url": "https://en.wikipedia.org/wiki/Sundowning_(Sleep_Token_album)",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "“Mine[riferimento testuale]we are a crashing course driven by a holy force.[riferimento testuale]Calcutta”, [riferimento testuale], [riferimento testuale], [riferimento testuale], [riferimento testuale]) to reiterate the inescapability of the situation. It is obsessive. The song could represent Sleep’s desire, sounding big and sweet and romantic, while truthfully being deliberately manipulative. The end repeats the l",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (Sundowning Section)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "As with the closer to their sophomore album, [riferimento testuale] is as honest and melancholic as Sleep Token get. To me, it feels like some time has passed. The passion has faded, on both ends of the spectrum. The characters seek to reignite that passion, whatever the cost, because otherwise the relationship seems to be rapidly approaching its expiration date. They reassure each other they still care, that they ar",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (Sundowning Section)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": {
+      "track": "Blood Sport",
+      "release_date": "2019-11-21",
+      "reading_class": "community",
+      "geometry": "Stemma spezzato alla base dell'asse centrale.",
+      "symbolic_reading": "Arena del sacrificio compiuto. Chiude i 12 frammenti dell'emblema."
+    },
+    "depth": null,
+    "rune": null,
+    "creature": "Predatore e preda nella stessa arena",
+    "object": "L'arma scelta dall'altro, il sangue, le lacrime finali",
+    "color": "Rosso sangue sul bianco della copertina",
+    "depth_gap_reason": "La batimetria traccia-per-traccia in metri e fathom appartiene a This Place Will Become Your Tomb (Capitolo 2).",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "arena",
+      "detail": "La devozione è un combattimento il cui scopo è lo spargimento di sangue, non la pace.",
+      "supporting_phrase": "Riconoscimento di un errore fatale: uno sport di sangue da cui il paradiso non li accoglie.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Take Aim (traccia 6) e Euclid (2023)",
+      "motif": "Riprende l'essere l'arma scelta dall'altro e prepara la catarsi di Euclid.",
+      "source_title": "Sleep Token Collective Wiki - Blood Sport",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Blood_Sport",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "I singhiozzi sono la prima incrinatura del contenitore. Aver sbagliato ad accettare il patto apre la crisi di TPWBYT.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Blood Sport is the twelfth and closing track from Sleep Token's first album, Sundowning. Blood Sport released on November 21st, 2019 with it's official visualiser video.",
+      "source_title": "Sleep Token Collective Wiki - Blood Sport",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Blood_Sport",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Blood%20Sport%22%20%28lore%20OR%20meaning%20OR%20sigil%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

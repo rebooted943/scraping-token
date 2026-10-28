@@ -7,7 +7,7 @@ from pathlib import Path
 from aggregator.codex_builder import CodexBuilder
 from config.settings import Settings
 from core.sanitizer import REDACTION
-from main import _load_checkpoint, _save_checkpoint
+from main import _load_checkpoint, _save_checkpoint, _validate_primary_results
 from models.schemas import (
     CoverageStatus,
     ExtractionCoverage,
@@ -44,6 +44,20 @@ def source(url: str = "https://genius.com/test") -> SourceReference:
 
 
 class BuilderTests(unittest.TestCase):
+    def test_primary_gate_rejects_empty_genius_and_reddit(self) -> None:
+        coverage = ExtractionCoverage(
+            source="fixture",
+            status=CoverageStatus.COMPLETE,
+            attempted=0,
+            succeeded=0,
+        )
+        results = {
+            "genius": ([], coverage),
+            "reddit": ([], coverage),
+        }
+        with self.assertRaisesRegex(RuntimeError, "Genius"):
+            _validate_primary_results(results)
+
     def test_links_records_and_renders_required_taxonomy(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             config = settings(Path(directory))

@@ -1,0 +1,72 @@
+{
+  "title": "The Apparition",
+  "release": "Take Me Back to Eden",
+  "track_number": 8,
+  "year": 2023,
+  "status": "active",
+  "genius_annotations_archived": 7,
+  "era_role": "Ottava traccia, solo 7 annotazioni Genius in archivio. Decostruisce il mito del 2016: Sleep compare nei sogni come apparizione e sparisce dal letto al risveglio.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel 2023 Vessel non ha rilasciato interviste traccia-per-traccia. Le cover story di Kerrang! e Metal Hammer sul ciclo Eden sono saggi critici, non interviste al personaggio.",
+  "editorial_reading": [
+    {
+      "summary": "Louder e Boolin Tunes descrivono synth-pop malinconico e riff pesanti sul confine tra sogno lucido, paralisi del sonno e lutto amoroso.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": "2023-05-15",
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": null,
+    "rune": "THE APPARITION",
+    "creature": "Spettro velato, quasi privo di corpo, con lembi di tessuto sospesi nel vuoto notturno.",
+    "ritual_role": "Allucinazione al risveglio: la figura che svanisce appena si tenta di toccarla.",
+    "object": "Letto vuoto al risveglio, eco nella stanza, altare onirico",
+    "color": "Blu notte e grigio nebbia",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In Take Me Back to Eden il sistema simbolico è il cifrario runico e le 12 creature.",
+    "depth_gap_reason": "La batimetria marina appartiene a TPWBYT (Capitolo 2). Dopo la riemersione di Chokehold l'ambientazione è terrestre, lunare e alchemica."
+  },
+  "references": [
+    {
+      "category": "neurologia del sonno",
+      "detail": "Allucinazione ipnopompica: visioni nella transizione dal sonno REM al risveglio, in cui la figura sembra nella stanza e poi si dissolve.",
+      "supporting_phrase": "La domanda è perché l'entità non sia mai reale e compaia solo mentre il narratore sogna.",
+      "source_title": "Sleep Token Collective Wiki - The Apparition",
+      "url": "https://sleep-token-collective.fandom.com/wiki/The_Apparition",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Calcutta, Jericho (Two EP, 2017) e Is It Really You? (2022)",
+      "motif": "Rovescia il patto dell'EP Two, accettato con devozione fino al risveglio: qui quella condizione è diventata una tortura.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Chiamare Sleep un'apparizione che non è mai reale segna il passaggio dalla fede cieca allo scetticismo: la divinità può essere una proiezione del trauma.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "The Apparition is the eighth track from Sleep Token's third album, Take Me Back To Eden.",
+      "source_title": "Sleep Token Collective Wiki - The Apparition",
+      "url": "https://sleep-token-collective.fandom.com/wiki/The_Apparition",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22The%20Apparition%22%20%28lore%20OR%20meaning%20OR%20sleep%20paralysis%20OR%20dream%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Reddit ha restituito una pagina non JSON (blocco non aggirato)."
+  ]
+}

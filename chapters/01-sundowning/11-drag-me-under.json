@@ -1,0 +1,104 @@
+{
+  "title": "Drag Me Under",
+  "release": "Sundowning",
+  "track_number": 11,
+  "year": 2019,
+  "status": "active",
+  "genius_annotations_archived": 0,
+  "era_role": "Undicesima offerta (7 novembre 2019). Priorità d'archivio: 0 annotazioni Genius. Vessel smette di lottare e accetta la sommersione. È il preludio diretto di Atlantic.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "Boolin Tunes la descrive come ninna nanna funebre per pianoforte e voci riverberate, senza percussioni: la resa suona serena.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": "2023-05-15",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Reviewing the album for Kerrang!, Tom Shepherd gave Sundowning a rating of four out of five, writing that the record features [riferimento testuale]. Shepherd highlighted in particular the songs [riferimento testuale], [riferimento testuale] and [riferimento testuale], but also noted that [riferimento testuale].[9]",
+      "source_title": "Wikipedia - Sundowning (album)",
+      "url": "https://en.wikipedia.org/wiki/Sundowning_(Sleep_Token_album)",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Drag Me Under is a sedative in sonic form, soporific piano sinking you deeper into its clutches. It almost mirrors the album’s opener, emulating a liminal headspace. While Vessel tries to fight back throughout the record, Drag Me Under admits defeat – and Vessel sounds positively angelic as his falsetto cries ring out, not an ounce of anger in his voice.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "It’s as if any love is good enough for him, no matter how bloody – he implores Sleep, or a lover, to [riferimento testuale], no matter how bruised he may end up. The track’s final section also seems to plunge underwater, perhaps preluding This Place Will Become Your Tomb.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": {
+      "track": "Drag Me Under",
+      "release_date": "2019-11-07",
+      "reading_class": "community",
+      "geometry": "Tridente o ancora rivolta verso il basso.",
+      "symbolic_reading": "Inverte la spinta di Levitate e punta al fondale di TPWBYT."
+    },
+    "depth": "Superficie dell'acqua, prima dell'immersione di Atlantic. Non è ancora una quota in metri.",
+    "rune": null,
+    "creature": "Angeli del profondo",
+    "object": "L'acqua che si chiude sopra la testa",
+    "color": "Blu abissale e argento lunare",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "sonno / mito acquatico",
+      "detail": "Paralisi ipnagogica (sprofondare mentre ci si addormenta) fusa con le figure che trascinano i mortali col sorriso.",
+      "supporting_phrase": "Invocazione a essere trascinati giù quando le figure celesti hanno perso la voce.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Levitate (traccia 3)",
+      "motif": "Simmetria interna: in traccia 3 le figure salgono; in traccia 11 tacciono e il moto diventa caduta.",
+      "source_title": "Sleep Token Collective Wiki - Drag Me Under",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Drag_Me_Under",
+      "source_class": "community"
+    },
+    {
+      "target_song": "Atlantic (TPWBYT, traccia 1, 2021)",
+      "motif": "Essere trascinati sotto la superficie conduce al risveglio dopo l'annegamento di Atlantic.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Punto di svolta tra i primi due album: l'elemento dominante passa dall'aria e dalla notte all'acqua e all'abisso.",
+      "source_title": "Sleep Token Collective Wiki - Drag Me Under",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Drag_Me_Under",
+      "source_class": "community"
+    },
+    {
+      "theory": "Drag Me Under is the eleventh track from Sleep Token's first album, Sundowning. Drag Me Under released on November 7th, 2019 with it's official visualiser video.",
+      "source_title": "Sleep Token Collective Wiki - Drag Me Under",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Drag_Me_Under",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "0 annotazioni Genius. Chiuso incrociando Boolin Tunes, loreofsleeptoken.com, la wiki e la simmetria con Levitate e Atlantic.",
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Drag%20Me%20Under%22%20%28lore%20OR%20meaning%20OR%20sigil%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

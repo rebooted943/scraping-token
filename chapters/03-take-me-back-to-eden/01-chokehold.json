@@ -1,0 +1,98 @@
+{
+  "title": "Chokehold",
+  "release": "Take Me Back to Eden",
+  "track_number": 1,
+  "year": 2023,
+  "status": "active",
+  "genius_annotations_archived": 7,
+  "era_role": "Apre l'album. Singolo del 5 gennaio 2023. Si salda all'outro di Missing Limbs: Vessel riemerge dal Challenger Deep (circa 10.923 m nel Capitolo 2) e scopre che la presa al collo resta anche all'aria.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel 2023 Vessel non ha rilasciato interviste traccia-per-traccia. Le cover story di Kerrang! e Metal Hammer sul ciclo Eden sono saggi critici, non interviste al personaggio.",
+  "editorial_reading": [
+    {
+      "summary": "Louder e Boolin Tunes leggono l'apertura come fatalista: l'incontro con Sleep non è presentato come un caso. Carl Bown co-produce il muro djent e i synth industriali.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale] and [riferimento testuale] were the first two singles, released on 5 and 6 January 2023 respectively.[4] These were followed by \"Granite[riferimento testuale]Aqua Regia\" on 20 January.[5]",
+      "source_title": "Wikipedia - Take Me Back to Eden",
+      "url": "https://en.wikipedia.org/wiki/Take_Me_Back_to_Eden",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "TikTok interest around singles like Chokehold and The Summoning certainly helped spread Sleep Token's message, but the fact that Take Me Back To Eden felt like a full circle moment for the band - both musically and thematically, ensured it was one of the biggest metal releases of 2023, as well as being voted the best metal album of 2023 by Metal Hammer readers.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The twist here is that this could all be Sleep showing Vessel that his relationship will go wrong, rather than narrating something that has already happened. Sleep is offering salvation from a cycle of destruction that He has seen before, but also suggests that what Vessel is (or will) experience is pre-destined, right from Chokehold’s opening line: [riferimento testuale]",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "“Mine[riferimento testuale]we are a crashing course driven by a holy force.[riferimento testuale]Calcutta”, [riferimento testuale], [riferimento testuale], [riferimento testuale], [riferimento testuale]) to reiterate the inescapability of the situation. It is obsessive. The song could represent Sleep’s desire, sounding big and sweet and romantic, while truthfully being deliberately manipulative. The end repeats the l",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (Eden Finale)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": "Emblema inscritto nella luna eclissata",
+    "depth": "Riemersione a quota 0, uscita dalle acque di Missing Limbs",
+    "rune": "CHOKEHOLD",
+    "creature": "Colosso biomeccanico avvolto da tentacoli o cavi neri che emergono dal fango, con gli arti aggrovigliati al collo.",
+    "ritual_role": "Riemersione dal fondale di Missing Limbs: l'ossessione resta una presa anche fuori dall'oceano.",
+    "object": "Lama mostrata, aurora boreale, presa al collo",
+    "color": "Nero fango, argento, bagliore rosso-lunare"
+  },
+  "references": [
+    {
+      "category": "geofisica",
+      "detail": "Le aurore polari nascono dal vento solare che incontra la magnetosfera: una forza invisibile che governa il cielo notturno.",
+      "supporting_phrase": "Il ritorno sotto l'influenza dell'altro è paragonato al girare in tondo sotto l'aurora.",
+      "source_title": "Sleep Token Collective Wiki - Chokehold",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Chokehold",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Missing Limbs e High Water (This Place Will Become Your Tomb, 2021)",
+      "motif": "Il drone iniziale continua l'outro di Missing Limbs. Il soffocamento riprende la chiusura apneica di High Water.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Con 7 annotazioni Genius, la community nota che l'idea di un incontro non accidentale torna nella title-track e incornicia l'album nel destino.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Chokehold is the first track and first single from Sleep Token's third album, Take Me Back To Eden. Chokehold released on January 5th, 2023 with it's official video.",
+      "source_title": "Sleep Token Collective Wiki - Chokehold",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Chokehold",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Chokehold%22%20%28lore%20OR%20meaning%20OR%20creature%20OR%20Missing%20Limbs%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Reddit ha restituito una pagina non JSON (blocco non aggirato)."
+  ]
+}

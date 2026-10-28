@@ -14,7 +14,7 @@ from rich.progress import Progress, SpinnerColumn, TextColumn
 
 from aggregator.codex_builder import CodexBuilder
 from config.settings import Settings, get_settings
-from core.fetcher import ResilientFetcher
+from core.fetcher import FetchError, ResilientFetcher
 from core.sanitizer import sanitize_payload
 from models.schemas import (
     CoverageStatus,
@@ -26,6 +26,7 @@ from models.schemas import (
     VisualSymbol,
 )
 from scrapers.genius_api_extractor import GeniusAPIExtractor
+from scrapers.google_lore import GoogleLoreExtractor
 from scrapers.musicology_scraper import MusicologyExtractor
 from scrapers.press_archive_scraper import PressArchiveExtractor
 from scrapers.reddit_stealth import RedditStealthExtractor
@@ -83,20 +84,45 @@ def _load_checkpoint(
     return records, coverage
 
 
+def _reddit_chunk_incomplete(coverage: ExtractionCoverage) -> bool:
+    return (coverage.reason or "").startswith("reddit chunk")
+
+
 async def _extract_source(
     source: str,
     fetcher: ResilientFetcher,
     settings: Settings,
 ) -> tuple[list[Any], ExtractionCoverage]:
-    extractor = {
-        "genius": GeniusAPIExtractor,
-        "reddit": RedditStealthExtractor,
-        "wiki": WikiAndArgExtractor,
-        "press": PressArchiveExtractor,
-        "musicology": MusicologyExtractor,
-    }[source](fetcher)
+    if source == "genius":
+        extractor = GeniusAPIExtractor(fetcher, settings)
+    elif source == "reddit":
+        existing = _load_checkpoint(settings, "reddit")
+        extractor = RedditStealthExtractor(
+            fetcher,
+            prior_threads=existing[0] if existing else None,
+            on_chunk=lambda records, coverage: _save_checkpoint(
+                settings,
+                "reddit",
+                records,
+                coverage,
+            ),
+        )
+    else:
+        extractor = {
+            "wiki": WikiAndArgExtractor,
+            "press": PressArchiveExtractor,
+            "musicology": MusicologyExtractor,
+        }[source](fetcher)
     try:
         return await extractor.extract()
+    except (FetchError, RuntimeError) as exc:
+        return [], ExtractionCoverage(
+            source=source,
+            status=CoverageStatus.FAILED,
+            attempted=1,
+            succeeded=0,
+            reason=str(exc),
+        )
     except Exception:
         return [], ExtractionCoverage(
             source=source,
@@ -117,7 +143,9 @@ async def extract_sources(
     pending: list[str] = []
     for source in sources:
         checkpoint = _load_checkpoint(settings, source) if resume else None
-        if checkpoint:
+        if checkpoint and checkpoint[1].status != CoverageStatus.FAILED and not (
+            source == "reddit" and _reddit_chunk_incomplete(checkpoint[1])
+        ):
             results[source] = checkpoint
         else:
             pending.append(source)
@@ -128,16 +156,12 @@ async def extract_sources(
             TextColumn("{task.description}"),
             console=console,
         ) as progress:
-            task_by_source = {
-                source: asyncio.create_task(_extract_source(source, fetcher, settings))
-                for source in pending
-            }
             progress_ids = {
                 source: progress.add_task(f"Extracting {source}", total=None)
                 for source in pending
             }
-            for source, task in task_by_source.items():
-                records, coverage = await task
+            for source in pending:
+                records, coverage = await _extract_source(source, fetcher, settings)
                 _save_checkpoint(settings, source, records, coverage)
                 results[source] = (records, coverage)
                 progress.update(
@@ -145,7 +169,68 @@ async def extract_sources(
                     description=f"{source}: {coverage.status.value}",
                     completed=1,
                 )
+                if source in {"genius", "reddit"} and (
+                    coverage.status == CoverageStatus.FAILED or not records
+                ):
+                    break
     return results
+
+
+def _validate_primary_results(
+    results: dict[str, tuple[list[Any], ExtractionCoverage]],
+) -> None:
+    genius_records, genius_coverage = results.get(
+        "genius",
+        (
+            [],
+            ExtractionCoverage(
+                source="genius",
+                status=CoverageStatus.FAILED,
+                reason="Genius was not extracted",
+            ),
+        ),
+    )
+    if genius_coverage.status == CoverageStatus.FAILED or not genius_records:
+        raise RuntimeError(
+            f"Genius corpus is empty: {genius_coverage.reason or 'no songs returned'}"
+        )
+    songs = [record for record in genius_records if isinstance(record, Song)]
+    if not any(song.lyrics or song.annotations for song in songs):
+        raise RuntimeError("Genius corpus has no lyrics or annotations")
+
+    reddit_records, reddit_coverage = results.get(
+        "reddit",
+        (
+            [],
+            ExtractionCoverage(
+                source="reddit",
+                status=CoverageStatus.FAILED,
+                reason="Reddit was not extracted",
+            ),
+        ),
+    )
+    if reddit_coverage.status == CoverageStatus.FAILED or not reddit_records:
+        raise RuntimeError(
+            f"Reddit corpus is empty: {reddit_coverage.reason or 'no threads returned'}"
+        )
+
+
+async def _extract_google(
+    settings: Settings,
+    songs: list[Song],
+    *,
+    resume: bool,
+) -> ExtractionCoverage:
+    async with ResilientFetcher(settings) as fetcher:
+        records, coverage = await GoogleLoreExtractor(fetcher, settings).extract(
+            songs,
+            resume=resume,
+        )
+    console.print(
+        f"Google research: [bold]{len(records)}[/bold] pages "
+        f"({coverage.status.value}) → {settings.data_dir / 'google.json'}"
+    )
+    return coverage
 
 
 def build_from_checkpoints(settings: Settings, output: Path | None = None) -> tuple[Path, int]:
@@ -212,8 +297,22 @@ async def _async_main(args: argparse.Namespace, settings: Settings) -> int:
             return 2 if CoverageStatus.FAILED in statuses else int(
                 CoverageStatus.PARTIAL in statuses
             )
+        try:
+            _validate_primary_results(results)
+        except RuntimeError as exc:
+            console.print(f"[bold red]Primary extraction stopped:[/bold red] {exc}")
+            return 2
+        google_coverage = await _extract_google(
+            settings,
+            [record for record in results["genius"][0] if isinstance(record, Song)],
+            resume=args.resume,
+        )
     destination, exit_code = build_from_checkpoints(settings, args.output)
     console.print(f"Codex written to [bold]{destination}[/bold]")
+    if args.command == "run" and google_coverage.status == CoverageStatus.FAILED:
+        return 2
+    if args.command == "run" and google_coverage.status == CoverageStatus.PARTIAL:
+        return max(1, exit_code)
     return exit_code
 
 

@@ -1,0 +1,72 @@
+{
+  "title": "When the Party's Over (from the room below)",
+  "release": "Sundowning (Deluxe) / The Room Below (cover)",
+  "track_number": 15,
+  "year": 2020,
+  "status": "active",
+  "genius_annotations_archived": 0,
+  "era_role": "Cover (Billie Eilish / Finneas, 2018) scelta perché la festa illusoria di Sundowning è finita e resta da lasciare andare chi fa del male. Nessun verso del brano originale è archiviato.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "La critica nota l'incontro tra il falsetto di Vessel e il minimalismo funebre del brano del 2018.",
+      "source_title": "Wikipedia - Sundowning (album)",
+      "url": "https://en.wikipedia.org/wiki/Sundowning_(Sleep_Token_album)",
+      "date": "2020-06-20",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "On 20 June 2020, seven months after the album's initial release and the day of the summer solstice, Sleep Token issued a deluxe version of Sundowning containing four bonus tracks performed entirely on piano dubbed The Room Below.[5] The four tracks consisted of a new version of [riferimento testuale] (for which a music video was also released), a new track titled \"Shelter[riferimento testuale]When the Party's Over[ri",
+      "source_title": "Wikipedia - Sundowning (album)",
+      "url": "https://en.wikipedia.org/wiki/Sundowning_(Sleep_Token_album)",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": "The Room Below",
+    "rune": null,
+    "creature": null,
+    "object": "Silenzio dopo il rito",
+    "color": "Bianco e nero",
+    "sigil_gap_reason": "Shelter e le due cover di The Room Below non hanno un glifo proprio: i sigilli di Sundowning sono 12, uno per traccia standard. Spinefarm non ha pubblicato una legenda che li battezzi; ogni lettura geometrica resta source_class=community.",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3).",
+    "creature_gap_reason": "Nessuna creatura specifica canonizzata per questa traccia."
+  },
+  "references": [
+    {
+      "category": "cover",
+      "detail": "Rielaborazione per pianoforte e voce. Si archivia solo la funzione: la fine dell'illusione collettiva.",
+      "supporting_phrase": "Tema del silenzio che resta quando la festa finisce, senza citazione del testo originale.",
+      "source_title": "Sleep Token Collective Wiki - Sundowning",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Sundowning",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Hey Ya (2018) e Missing Limbs (2021)",
+      "motif": "Prosegue la linea di cover intime sulla rassegnazione dopo la rottura.",
+      "source_title": "Sleep Token Collective Wiki - Sundowning",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Sundowning",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "La community collega il pianto della cover all'acqua salata del secondo album, senza trattare il testo originale come lore primaria.",
+      "source_title": "Sleep Token Collective Wiki - Sundowning",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Sundowning",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=%28%22When%20the%20Party%27s%20Over%22%20OR%20%22Room%20Below%22%29%20%28lore%20OR%20meaning%20OR%20cover%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

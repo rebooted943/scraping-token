@@ -1,0 +1,72 @@
+{
+  "title": "Rain",
+  "release": "Take Me Back to Eden",
+  "track_number": 10,
+  "year": 2023,
+  "status": "active",
+  "genius_annotations_archived": 17,
+  "era_role": "Decima traccia. Dopo lo specchio di DYWTYLM, l'acqua non è più l'oceano salato di TPWBYT: è pioggia che lava il veleno e restituisce la sensazione di essere vivi.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel 2023 Vessel non ha rilasciato interviste traccia-per-traccia. Le cover story di Kerrang! e Metal Hammer sul ciclo Eden sono saggi critici, non interviste al personaggio.",
+  "editorial_reading": [
+    {
+      "summary": "Louder descrive Rain come il momento più euforico del disco: synth luminosi e groove metal per una rinascita emotiva.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": null,
+    "rune": "RAIN",
+    "creature": "Figura sacerdotale avvolta da serpenti o radici sotto una pioggia battente, in posa di purificazione.",
+    "ritual_role": "Diluvio che lava il sale dell'oceano di TPWBYT.",
+    "object": "Pioggia, serpenti nel giardino, spire",
+    "color": "Verde smeraldo, argento pluviale, oro",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In Take Me Back to Eden il sistema simbolico è il cifrario runico e le 12 creature.",
+    "depth_gap_reason": "La batimetria marina appartiene a TPWBYT (Capitolo 2). Dopo la riemersione di Chokehold l'ambientazione è terrestre, lunare e alchemica."
+  },
+  "references": [
+    {
+      "category": "alchimia / Genesi",
+      "detail": "Dopo la Nigredo, l'Albedo chiede l'Ablutio: lavare la materia con acqua pura. Il testo unisce quel lavaggio ai serpenti del giardino.",
+      "supporting_phrase": "La pioggia è invocata come purificazione mentre i serpenti si avvolgono.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Atlantic e High Water (2021)",
+      "motif": "L'acqua che annegava diventa pioggia battesimale che lava il sale dalle ferite.",
+      "source_title": "Sleep Token Collective Wiki - Rain",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Rain",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Due letture: un amore nuovo, o l'accettazione di sé, che guarisce dal trauma; oppure l'ultima tentazione dell'Eden, segnata dai serpenti, prima della traccia 11.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Rain is the tenth track from Sleep Token's third album, Take Me Back To Eden.",
+      "source_title": "Sleep Token Collective Wiki - Rain",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Rain",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Rain%22%20%28lore%20OR%20meaning%20OR%20cleanse%20OR%20snakes%20OR%20Eden%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Reddit ha restituito una pagina non JSON (blocco non aggirato)."
+  ]
+}

@@ -3,9 +3,10 @@
 from __future__ import annotations
 
 from config.settings import WIKI_ARG_SEEDS
-from core.fetcher import FetchError, ResilientFetcher, node_attr, select_adaptive
+from core.fetcher import ResilientFetcher, node_attr, select_adaptive
 from core.sanitizer import REDACTION, sanitize_text
 from models.schemas import CoverageStatus, ExtractionCoverage, VisualSymbol
+from scrapers.allowlist_crawl import crawl_pages
 from scrapers.common import article_paragraphs, keyword_hits, page_title, source_reference
 
 _VISUAL_TERMS = (
@@ -51,18 +52,20 @@ class WikiAndArgExtractor:
 
     async def extract(self) -> tuple[list[VisualSymbol], ExtractionCoverage]:
         records: list[VisualSymbol] = []
-        failures = 0
         seen: set[tuple[str, str]] = set()
-        for url in WIKI_ARG_SEEDS:
-            try:
-                page = await self.fetcher.fetch_page(url, mode="stealth")
-                paragraphs = article_paragraphs(page)
-                if not paragraphs:
-                    page = await self.fetcher.fetch_page(url, mode="dynamic")
-                    paragraphs = article_paragraphs(page)
-            except FetchError:
+        settings = getattr(self.fetcher, "settings", None)
+        pages = await crawl_pages(
+            self.fetcher,
+            WIKI_ARG_SEEDS,
+            max_pages=getattr(settings, "crawl_max_pages", 40),
+            max_depth=getattr(settings, "crawl_max_depth", 2),
+        )
+        failures = 0
+        for url, page in pages:
+            if page is None:
                 failures += 1
                 continue
+            paragraphs = article_paragraphs(page)
             title = page_title(page, "Sleep Token lore source")
             source = source_reference(url, title)
             image_descriptions = [
@@ -102,7 +105,7 @@ class WikiAndArgExtractor:
         return records, ExtractionCoverage(
             source="wiki_and_arg",
             status=status,
-            attempted=len(WIKI_ARG_SEEDS),
-            succeeded=len(WIKI_ARG_SEEDS) - failures,
+            attempted=len(pages),
+            succeeded=len(pages) - failures,
             reason=f"{failures} allowlisted sources unavailable" if failures else None,
         )

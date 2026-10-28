@@ -1,0 +1,72 @@
+{
+  "title": "Are You Really Okay?",
+  "release": "Take Me Back to Eden",
+  "track_number": 7,
+  "year": 2023,
+  "status": "active",
+  "genius_annotations_archived": 13,
+  "era_role": "Settima traccia. Ballata rock quasi priva di cripto-mito: chi parla trova l'altro sul pavimento, nel buio, dopo un gesto autolesivo, e lo supplica di smettere.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel 2023 Vessel non ha rilasciato interviste traccia-per-traccia. Le cover story di Kerrang! e Metal Hammer sul ciclo Eden sono saggi critici, non interviste al personaggio.",
+  "editorial_reading": [
+    {
+      "summary": "La stampa lo indica come il brano più letterale della discografia: salute mentale e impotenza di chi cerca di salvare una persona cara.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": null,
+    "rune": "ARE YOU REALLY OKAY",
+    "creature": "Entità arborea antropomorfa, contorta e sanguinante, con rami spogli piegati in un gesto di dolore.",
+    "ritual_role": "Cicatrici nella carne: il trauma come corteccia incisa che non si rimargina.",
+    "object": "Sangue sul pavimento, ferite, luce dell'alba",
+    "color": "Rosso sangue e grigio alba",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In Take Me Back to Eden il sistema simbolico è il cifrario runico e le 12 creature.",
+    "depth_gap_reason": "La batimetria marina appartiene a TPWBYT (Capitolo 2). Dopo la riemersione di Chokehold l'ambientazione è terrestre, lunare e alchemica."
+  },
+  "references": [
+    {
+      "category": "psicologia clinica",
+      "detail": "Crisi autolesiva notturna e dolore di chi scopre le ferite.",
+      "supporting_phrase": "Supplica di non continuare a ferirsi, e domanda se l'altro stia davvero bene.",
+      "source_title": "Sleep Token Collective Wiki - Are You Really Okay?",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Are_You_Really_Okay%3F",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Atlantic (2021) e The Way That You Were (2018)",
+      "motif": "Controcampo di Atlantic: là Vessel si sveglia ferito tra il pianto altrui; qui la scena è vista da chi ha trovato il sangue.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Tre narratori possibili: Vessel che ricorda di aver cercato di salvare un partner; una voce cara, o una parte sana, che gli parlava la notte di Atlantic; Sleep che teme di perdere il contenitore dopo Ascensionism.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Are You Really Okay? is the seventh track from Sleep Token's third album, Take Me Back To Eden.",
+      "source_title": "Sleep Token Collective Wiki - Are You Really Okay?",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Are_You_Really_Okay%3F",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Are%20You%20Really%20Okay%22%20%28lore%20OR%20meaning%20OR%20Atlantic%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Reddit ha restituito una pagina non JSON (blocco non aggirato)."
+  ]
+}

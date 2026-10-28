@@ -1,0 +1,85 @@
+{
+  "title": "Jaws",
+  "release": "Jaws (Standalone Single)",
+  "track_number": 1,
+  "year": 2018,
+  "status": "active",
+  "genius_annotations_archived": 10,
+  "era_role": "Singolo autonomo cruciale (giugno 2018). Fa da ponte tra l'EP Two e Sundowning. Introduce il motivo ricorrente dei denti, del morso e della divorazione amorosa/sacrificale.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "editorial_reading": [
+    {
+      "summary": "Louder e Boolin Tunes indicano 'Jaws' come la svolta verso un'accessibilità dark-pop/synth senza perdere il peso metallico, mettendo a fuoco la paura dell'intimità vista come una trappola predatoria.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": "2023-05-15",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Divorced from the storytelling of the first two EPS, Jaws sees Vessel beg for a seduced partner to open up emotionally. ‘Show me what you’ve lost and why you’re always taking it slow,’ he implores. ‘Show me what wounds you’ve got, show me love.’",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 1)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "2018 saw Sleep Token focus more on their live shows than releasing music. Only two standalone singles were released that year - \"Jaws\" in June and \"The Way That You Were\" in October.[12] Both singles were later issued together on 10\" vinyl for Record Store Day in 2021.[13]",
+      "source_title": "Wikipedia - Sleep Token (Public Chronology Only)",
+      "url": "https://en.wikipedia.org/wiki/Sleep_Token",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The original logo, or sigil, is a simplified version of the current one, which made its debut on the cover art for \"Hey Ya!\" in February 2017. It is also used on the cover art for \"Jaws\" and \"The Way That You Were\" in 2018. Fans theorize that it may be created from the Elder Futhark alphabet, although nothing has been confirmed by the band. It was not until 2019 that the current iteration was revealed starting with Sundowning, seemingly incorporating more runes and symbols within it.[citation needed]",
+      "source_title": "Wikipedia - Sleep Token (Public Chronology Only)",
+      "url": "https://en.wikipedia.org/wiki/Sleep_Token",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": "Glifo dedicato al singolo Jaws (simmetria verticale che ricorda fauci aperte)",
+    "depth": null,
+    "rune": null,
+    "creature": "Predatore / Fauci bianche ('pretty white jaws')",
+    "object": "Fauci / Cicatrici ('show me what wounds you've got')",
+    "color": "Bianco osso su fondo nero",
+    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
+    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+  },
+  "references": [
+    {
+      "category": "anatomia / psicologia del predatore",
+      "detail": "Le 'pretty white jaws' uniscono il sorriso seduttivo umano alle fauci di un predatore, stabilendo la metafora dell'amore come cannibalismo spirituale.",
+      "supporting_phrase": "Show me those pretty white jaws / Show me where the delicate stops",
+      "source_title": "Sleep Token Collective Wiki - Jaws",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Jaws",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "The Offering (2019), High Water (2021), Vore (2023)",
+      "motif": "Il motivo delle fauci e del morso ('Take a bite' in The Offering, 'jaws' in High Water, la gola che inghiotte in Vore) nasce interamente in 'Jaws'.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Nella lore community, 'Jaws' è la richiesta di Vessel a Sleep (o alla controparte umana) di gettare la maschera della gentilezza ('where the delicate stops') e mostrare la propria natura distruttiva.",
+      "source_title": "r/SleepToken & Sleep Token Collective Wiki",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Jaws",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Jaws%22%20%28lore%20OR%20meaning%20OR%20theory%20OR%20analysis%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

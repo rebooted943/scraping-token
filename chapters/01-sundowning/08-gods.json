@@ -1,0 +1,90 @@
+{
+  "title": "Gods",
+  "release": "Sundowning",
+  "track_number": 8,
+  "year": 2019,
+  "status": "active",
+  "genius_annotations_archived": 3,
+  "era_role": "Ottava offerta (26 settembre 2019). Dopo la seduzione di Give, la devozione cade in un assalto heavy: silenzio e crudeltà degli dèi.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "All'uscita era il brano più pesante del catalogo, accostato dalla stampa a Loathe e ai Deftones, con scream dal primo istante.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "In January 2023, Metal Hammer included \"Gods\" and [riferimento testuale] in its list of Sleep Token's ten best songs.[11]",
+      "source_title": "Wikipedia - Sundowning (album)",
+      "url": "https://en.wikipedia.org/wiki/Sundowning_(Sleep_Token_album)",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Sundowning tends to exist in softer alt metal soundscapes, but Gods is another beast entirely. It takes place after submitting to Sleep’s seduction on Give, leaving him fearsome enough that even the [riferimento testuale] from him.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": {
+      "track": "Gods",
+      "release_date": "2019-09-26",
+      "reading_class": "community",
+      "geometry": "Figura tagliente a spada o folgore verticale, con guardia spezzata.",
+      "symbolic_reading": "Ira divina e distruzione del tempio interiore."
+    },
+    "depth": null,
+    "rune": null,
+    "creature": "Divinità cadute",
+    "object": "Vetro infranto, denti spezzati",
+    "color": "Cremisi e nero",
+    "depth_gap_reason": "La batimetria traccia-per-traccia in metri e fathom appartiene a This Place Will Become Your Tomb (Capitolo 2).",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "tragedia",
+      "detail": "Rovesciamento del pantheon: quando il paradiso brucia non resta un dio a cui pregare, solo un culto tradito.",
+      "supporting_phrase": "Interrogativo sarcastico sull'assenza degli dèi nel momento della rovina.",
+      "source_title": "Sleep Token Collective Wiki - Gods",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Gods",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Nazareth (2017) e Vore (2023)",
+      "motif": "Anello centrale dei brani estremi, tra Nazareth e lo scream di Vore.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Primo tentativo di ribellione contro Sleep, oppure furia di Sleep che punisce l'infedeltà. La traccia successiva, Sugar, è la ricaduta.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Gods is the eighth track from Sleep Token's first album, Sundowning. Gods released on September 26th, 2019 with it's official visualiser video.",
+      "source_title": "Sleep Token Collective Wiki - Gods",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Gods",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Gods%22%20%28lore%20OR%20meaning%20OR%20sigil%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

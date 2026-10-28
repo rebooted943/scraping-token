@@ -8,7 +8,15 @@ import httpx
 from pydantic import ValidationError
 
 from config.settings import Settings
-from core.fetcher import PermanentFetchError, ResilientFetcher, select_adaptive
+from scrapling.parser import Selector
+
+from core.fetcher import (
+    PermanentFetchError,
+    ResilientFetcher,
+    SourceNotAllowedError,
+    node_text,
+    select_adaptive,
+)
 from core.sanitizer import REDACTION, sanitize_credit_names, sanitize_payload, sanitize_text
 from models.schemas import CoverageStatus, ExtractionCoverage
 
@@ -105,6 +113,22 @@ class FetcherTests(unittest.IsolatedAsyncioTestCase):
                     await fetcher.get_json("https://api.genius.com/test")
             await client.aclose()
         self.assertEqual(calls, 1)
+
+    async def test_public_fetch_rejects_localhost(self) -> None:
+        with self.assertRaises(SourceNotAllowedError):
+            await ResilientFetcher.ensure_public("http://localhost/secret")
+        with self.assertRaises(SourceNotAllowedError):
+            await ResilientFetcher.ensure_public("http://127.0.0.1/secret")
+
+    def test_node_text_keeps_text_inside_inline_tags(self) -> None:
+        page = Selector(
+            "<article><p>Hiding their identities, <strong>Sleep Token</strong> are enigmatic.</p></article>"
+        )
+        paragraph = page.css("p")[0]
+        self.assertEqual(
+            node_text(paragraph),
+            "Hiding their identities, Sleep Token are enigmatic.",
+        )
 
     def test_adaptive_selector_falls_back_to_save(self) -> None:
         class Page:

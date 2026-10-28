@@ -1,0 +1,111 @@
+{
+  "title": "Like That",
+  "release": "This Place Will Become Your Tomb",
+  "track_number": 4,
+  "year": 2021,
+  "status": "active",
+  "genius_annotations_archived": 4,
+  "local_archive_repair_note": null,
+  "era_role": "Quarta tappa, 1.872 fathom (circa 3.424 m). La fantasia di Mine si rompe: Vessel accusa l'altro di godere nel vederlo intrappolato e sanguinante.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nessuna intervista traccia-per-traccia nel ciclo 2021. L'unica confessione diretta in-character dell'era sta nei cartelli del video di Fall for Me.",
+  "editorial_reading": [
+    {
+      "summary": "Groove basso e batteria sincopata. Boolin Tunes lo legge come il risentimento di Higher sotto 3.400 metri d'acqua.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": "2023-05-15",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The album’s name comes to light on Like That. While Vessel may have survived his drowning attempt, the ocean was where he first submitted to Sleep – and now he is forever [riferimento testuale], frozen in a world where he is forced to fulfil his deity’s wishes.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale] functions very similarly to [riferimento testuale]. In addition to the sexual undertones, pushing [riferimento testuale] alludes to a wanton penetration of the mind and body – Sleep slowly taking over Vessel more and more completely. [riferimento testuale] thus refers to previous Vessels or worshippers. In a more concrete, real-world interpretation, it relays more closely to [riferimento testua",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale]: 914m – the depth at which angler fish live (the single artwork is of an angler fish)[riferimento testuale]: 1824m – Farallon escarpment“Mine[riferimento testuale]Like That[riferimento testuale]Missing Limbs“: 10924m – Challenger Deep (the deepest point in the ocean, within the Mariana Trench. Presumably the location of the house/tomb).",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": {
+      "track": "Like That",
+      "fathoms": 1872,
+      "meters": 3424,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona batipelagica inferiore (circa 3.424 m)",
+      "booklet_specimen": "Faceless cusk, dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "Il contatto con l'altro si rivela velenoso: il piacere altrui sta nel vedere Vessel intrappolato."
+    },
+    "rune": null,
+    "creature": "Faceless cusk",
+    "object": "Trappola e veleno",
+    "color": "Verde abissale e nero",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In TPWBYT il sistema simbolico primario è la quota batimetrica e il booklet marino.",
+    "rune_gap_reason": "L'alfabeto runico sostitutivo viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "sadismo relazionale",
+      "detail": "Il dolore è uno spettacolo. Ogni difesa di Vessel viene smontata con compiacimento.",
+      "supporting_phrase": "Domanda retorica: all'altro piace vederlo ridotto così.",
+      "source_title": "Sleep Token Collective Wiki - Like That",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Like_That",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Higher (2019) e Granite (2023)",
+      "motif": "Accusa di manipolazione reciproca, poi il tono disilluso di Granite.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Con 4 annotazioni Genius, chi abbraccia la creatura urticante del booklet a questa quota resta paralizzato dal contatto.",
+      "source_title": "Sleep Token Collective Wiki - Like That",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Like_That",
+      "source_class": "community"
+    },
+    {
+      "theory": "The sea creature on Like That's cover art is a faceless cusk.[1]",
+      "source_title": "Sleep Token Collective Wiki - Like That",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Like_That",
+      "source_class": "community"
+    },
+    {
+      "theory": "Like That is the fourth track from Sleep Token's second album, This Place Will Become Your Tomb.",
+      "source_title": "Sleep Token Collective Wiki - Like That",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Like_That",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "4 annotazioni Genius. La trivia della wiki dà un faceless cusk; la quota in fathom resta di community.",
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Like%20That%22%20%28lore%20OR%20meaning%20OR%20depth%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Invalid JSON from Reddit search: title:\"Like That\" (lore OR meaning OR depth OR theory)"
+  ]
+}

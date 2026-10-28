@@ -1,0 +1,118 @@
+{
+  "title": "Hypnosis",
+  "release": "This Place Will Become Your Tomb",
+  "track_number": 2,
+  "year": 2021,
+  "status": "active",
+  "genius_annotations_archived": 5,
+  "local_archive_repair_note": null,
+  "era_role": "Seconda tappa, 958 fathom (circa 1.752 m). Superato lo shock di Atlantic, Vessel torna sotto l'incantesimo di Sleep. Il groove di II funziona come un mulinello a cui il protagonista acconsente.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nessuna intervista traccia-per-traccia nel ciclo 2021. L'unica confessione diretta in-character dell'era sta nei cartelli del video di Fall for Me.",
+  "editorial_reading": [
+    {
+      "summary": "Louder nota il ritmo ipnotico di II e le chitarre baritone come un'onda fisica: resa totale alla forza che tira verso il basso.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Kerrang! writer James MacKinnon gave TPWBYT a rating of 3/5. He praised the album for presenting [riferimento testuale], highlighting [riferimento testuale], [riferimento testuale] and [riferimento testuale]. However, he added that much of the record [riferimento testuale], and that Sleep Token [riferimento testuale].[9]",
+      "source_title": "Wikipedia - This Place Will Become Your Tomb",
+      "url": "https://en.wikipedia.org/wiki/This_Place_Will_Become_Your_Tomb",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "At the end of 2021, Distorted Sound ranked This Place Will Become Your Tomb as the third best album of the year out of 100, while Metal Hammer ranked the album 18th out of 50 albums on its end-of-year list.[21][22] Kerrang! ranked it at number 48 in its list of the 50 best albums of 2021. Writer Emma Wilkes hailed the release as [riferimento testuale] and named all three singles plus [riferimento testuale] as highlig",
+      "source_title": "Wikipedia - This Place Will Become Your Tomb",
+      "url": "https://en.wikipedia.org/wiki/This_Place_Will_Become_Your_Tomb",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale] is closely related to [riferimento testuale], both lyrically and sonically, reinterpreting the melody motif from the end and beginning with a similar guitar riff to the breakdown. The lyrical parallels are undeniable:",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale]: 914m – the depth at which angler fish live (the single artwork is of an angler fish)[riferimento testuale]: 1824m – Farallon escarpment“Mine[riferimento testuale]Like That[riferimento testuale]Missing Limbs“: 10924m – Challenger Deep (the deepest point in the ocean, within the Mariana Trench. Presumably the location of the house/tomb).",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": {
+      "track": "Hypnosis",
+      "fathoms": 958,
+      "meters": 1752,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona batipelagica superiore (circa 1.752 m)",
+      "booklet_specimen": "Brittle star (stella serpentina), dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "La lettura a spirale di nautilus non è la copertina. La stella serpentina rigenera le braccia: Sleep riafferma la presa dopo Atlantic."
+    },
+    "rune": null,
+    "creature": "Brittle star",
+    "object": "Spirale dell'ipnosi e onda che chiude",
+    "color": "Blu profondo e argento",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In TPWBYT il sistema simbolico primario è la quota batimetrica e il booklet marino.",
+    "rune_gap_reason": "L'alfabeto runico sostitutivo viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "mito greco / trance",
+      "detail": "Hypnos è la personificazione greca del sonno. Il soggetto in trance esegue una volontà altrui.",
+      "supporting_phrase": "Il titolo chiede di essere ipnotizzato e consumato per intero.",
+      "source_title": "Sleep Token Collective Wiki - Hypnosis",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Hypnosis",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "The Offering (Sundowning, 2019)",
+      "motif": "Seconda traccia di entrambi i primi album: lì Sleep doveva prendere un morso, qui deve prendere tutto.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Con 5 annotazioni Genius, la trivia della wiki assegna alla copertina una brittle star, non un nautilus. Le braccia che si rigenerano restano la lettura biologica della resa a Sleep.",
+      "source_title": "Sleep Token Collective Wiki - Hypnosis",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Hypnosis",
+      "source_class": "community"
+    },
+    {
+      "theory": "The sea creature on Hypnosis' cover art is a brittle star.[1]",
+      "source_title": "Sleep Token Collective Wiki - Hypnosis",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Hypnosis",
+      "source_class": "community"
+    },
+    {
+      "theory": "Hypnosis is the second track from Sleep Token's second album, This Place Will Become Your Tomb.",
+      "source_title": "Sleep Token Collective Wiki - Hypnosis",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Hypnosis",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "5 annotazioni Genius. Integrato con la trivia della wiki: la copertina è una brittle star.",
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Hypnosis%22%20%28lore%20OR%20meaning%20OR%20depth%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Invalid JSON from Reddit search: title:\"Hypnosis\" (lore OR meaning OR depth OR theory)"
+  ]
+}

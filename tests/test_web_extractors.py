@@ -3,11 +3,9 @@ from __future__ import annotations
 import unittest
 from typing import Any
 
-from core.fetcher import FetchError
 from models.schemas import CoverageStatus
 from scrapers.musicology_scraper import MusicologyExtractor
 from scrapers.press_archive_scraper import PressArchiveExtractor
-from scrapers.reddit_stealth import RedditStealthExtractor
 from scrapers.wiki_and_arg_scraper import WikiAndArgExtractor
 
 
@@ -32,20 +30,6 @@ class Node:
 
 class FakeWebFetcher:
     def __init__(self) -> None:
-        entry = Node(
-            selectors={
-                "title": [Node("A theory about Atlantic")],
-                "link": [
-                    Node(
-                        attrs={
-                            "href": "https://www.reddit.com/r/SleepToken/comments/example/thread/"
-                        }
-                    )
-                ],
-                "content": [Node("Atlantic and ocean descent analysis.")],
-            }
-        )
-        self.feed = Node(selectors={"entry": [entry]})
         paragraph = (
             "The Eden rune alphabet is a cipher whose symbols accompany the "
             "Take Me Back to Eden era."
@@ -79,10 +63,6 @@ class FakeWebFetcher:
         )
 
     async def fetch_page(self, url: str, *, mode: str = "async") -> Any:
-        if "reddit.com" in url:
-            if "/comments/" in url:
-                raise FetchError("blocked")
-            return self.feed
         if "kerrang.com" in url or (
             "loudersound.com" in url and "who-and-what" in url
         ):
@@ -95,15 +75,6 @@ class FakeWebFetcher:
 
 
 class WebExtractorTests(unittest.IsolatedAsyncioTestCase):
-    async def test_reddit_reports_degraded_keyless_coverage(self) -> None:
-        records, coverage = await RedditStealthExtractor(
-            FakeWebFetcher(),  # type: ignore[arg-type]
-            thread_limit=2,
-        ).extract()
-        self.assertEqual(len(records), 1)
-        self.assertEqual(coverage.status, CoverageStatus.PARTIAL)
-        self.assertIn("disabled unauthenticated JSON", coverage.reason or "")
-
     async def test_wiki_extracts_visual_symbol(self) -> None:
         records, coverage = await WikiAndArgExtractor(
             FakeWebFetcher()  # type: ignore[arg-type]

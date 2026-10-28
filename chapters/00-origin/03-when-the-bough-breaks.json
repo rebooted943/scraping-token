@@ -1,0 +1,104 @@
+{
+  "title": "When the Bough Breaks",
+  "release": "One (EP)",
+  "track_number": 3,
+  "year": 2016,
+  "status": "active",
+  "genius_annotations_archived": 5,
+  "era_role": "Chiusura monumentale (oltre 7 minuti) dell'EP One. Segna la prima frattura nel rapporto con Sleep/l'amato: la ninna nanna si spezza e rivela il ricatto emotivo ('Don't lie to me').",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "editorial_reading": [
+    {
+      "summary": "Riconosciuto dalla stampa come il primo vero capolavoro progressivo della band, dove il crescendo finale abbandona la forma canzone per diventare un mantra ossessivo.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": "2023-05-15",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The seven-and-a-half minute When The Bough Breaks brings the EP’s thematic trilogy to a traumatic head. The more troubling parts of the relationship at its heart are brought to the foreground. ‘Everything we touch turns water into blood,’ runs the chorus, while Vessel accuses his unspecified partner, ‘You don’t really love, you just hate to be alone,’ before desperately unloading the line, ‘Don’t lie to me!’",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 1)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Take Me Back To Eden (TMBTE) marked a shift in aesthetic, with the band adopting Destiny- and Elden Ring-esque characters (created by Alex Tillbrook) as the centerpieces of their artworks and merch, applying a fantasy aesthetic to the trend of individual artworks (nominally one for each song) established in previous albums: Sundowning with sigils, TPWBYT with aquatic animals, TMBTE with fantastical figures, and continuing into their fourth studio album, Even In Arcadia, in the form of coats of arms. In many ways, though Take Me Back To Eden was the final chapter in a trilogy which began with Sundowning, and was seemingly intended to be the expiration date for the project, it was the beginning of a new era; closer “Euclid” brings the narrative, to this point, full circle, overtly referencing both the nominal beginning of the trilogy in “The Night Does Not Belong To God” and the band’s humble beginnings in “When The Bough Breaks“. Meanwhile, second single “The Summoning” shot the band into the public consciousness, ballooning their streaming figures and even securing them a Download headline slot.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": "Primo glifo di One completato",
+    "depth": null,
+    "rune": null,
+    "creature": null,
+    "object": "Il ramo spezzato (The broken bough) e la culla che cade",
+    "color": "Nero / Grigio cenere",
+    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
+    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
+    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+  },
+  "references": [
+    {
+      "category": "folklore / filastrocca tradizionale",
+      "detail": "Riferimento diretto alla ninna nanna inglese 'Rock-a-bye Baby' ('When the bough breaks, the cradle will fall'), usata per sovvertire il tema del sonno protettivo in caduta rovinosa.",
+      "supporting_phrase": "Title and motif 'When the Bough Breaks'",
+      "source_title": "Lore of Sleep Token - One EP",
+      "url": "https://loreofsleeptoken.com/one-ep/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Thread the Needle (One, 2016)",
+      "motif": "Riprende la frase 'The bough has broken' cantata in chiusura della traccia 1.",
+      "source_title": "Lore of Sleep Token - One EP",
+      "url": "https://loreofsleeptoken.com/one-ep/",
+      "source_class": "community"
+    },
+    {
+      "target_song": "Euclid (Take Me Back to Eden, 2023)",
+      "motif": "In 'Euclid' (traccia finale della trilogia), Vessel canta 'Yet in reverse, you are all my symmetry / A parallel I would lay my life on' mentre la struttura ritmica e l'immagine del ramo ('Wait until the bough breaks') chiudono l'arco iniziato nel 2016.",
+      "source_title": "Sleep Token Collective Wiki - When the Bough Breaks",
+      "url": "https://sleep-token-collective.fandom.com/wiki/When_the_Bough_Breaks",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "I fan considerano il breakdown di 'When the Bough Breaks' il momento in cui Vessel capisce che Sleep non è una divinità benevola ma un'entità parassitaria che si nutre del suo trauma.",
+      "source_title": "r/SleepToken & Boolin Tunes",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "community"
+    },
+    {
+      "theory": "The EP consist of 3 songs, Thread The Needle, Fields Of Elation, and When The Bough Breaks. Before releasing the EP, the band had already debuted the song Thread The Needle as a single in September 8th, 2016.[1] The piano version of all 3 songs in the EP are available on Sleep Token's bandcamp.",
+      "source_title": "Sleep Token Collective Wiki - One (EP)",
+      "url": "https://sleep-token-collective.fandom.com/wiki/One",
+      "source_class": "community"
+    },
+    {
+      "theory": "When The Bough Breaks is the third track from Sleep Token's first EP, One.",
+      "source_title": "Sleep Token Collective Wiki - When the Bough Breaks",
+      "url": "https://sleep-token-collective.fandom.com/wiki/When_The_Bough_Breaks",
+      "source_class": "community"
+    },
+    {
+      "theory": "When The Bough Breaks does not have its own unique cover art.",
+      "source_title": "Sleep Token Collective Wiki - When the Bough Breaks",
+      "url": "https://sleep-token-collective.fandom.com/wiki/When_The_Bough_Breaks",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22When%20the%20Bough%20Breaks%22%20%28lore%20OR%20meaning%20OR%20Euclid%20OR%20callback%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

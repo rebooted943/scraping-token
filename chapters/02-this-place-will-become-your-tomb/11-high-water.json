@@ -1,0 +1,117 @@
+{
+  "title": "High Water",
+  "release": "This Place Will Become Your Tomb",
+  "track_number": 11,
+  "year": 2021,
+  "status": "active",
+  "genius_annotations_archived": 8,
+  "local_archive_repair_note": null,
+  "era_role": "Undicesima tappa, 5.064 fathom (circa 9.261 m). L'allucinazione di Telomeres cede. Vessel non perdona se stesso e non trattiene più il respiro. Il brano si taglia su uno scream strozzato.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nessuna intervista traccia-per-traccia nel ciclo 2021. L'unica confessione diretta in-character dell'era sta nei cartelli del video di Fall for Me.",
+  "editorial_reading": [
+    {
+      "summary": "Climax equivalente a Blood Sport per il secondo album: synth ostinato e chitarre a 8 corde come collasso sotto la colonna d'acqua.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": "2023-05-15",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "While it’s unclear exactly why Vessel attempts to drown himself, there’s a high chance it is linked to his past lover. As he sinks further into Sleep’s control, High Water allows Vessel one final moment to reflect on the life he is leaving behind.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The [riferimento testuale] referred to are very likely self-harm marks which are later alluded to in [riferimento testuale] (open arms and [riferimento testuale]) and [riferimento testuale]. I also think that [riferimento testuale] foreshadows that Vessel will do bad things in Sleep’s name, yet will feel vindicated, absolved of responsibility, in doing so.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale] and [riferimento testuale] call back to my earlier suggestion that [riferimento testuale] recalls the aftermath of a suicide attempt. Perhaps it is a stretch to suggest that [riferimento testuale] refers to self-harm wounds ([riferimento testuale]: [riferimento testuale]), but in conjunction with [riferimento testuale] it does seem to hark to the references in [riferimento testuale] and [riferi",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": {
+      "track": "High Water",
+      "fathoms": 5064,
+      "meters": 9261,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Fossa delle Marianne inferiore (circa 9.261 m)",
+      "booklet_specimen": "Hadal snailfish, dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "L'acqua alta riempie i polmoni: Vessel non trattiene più il respiro né il perdono verso di sé."
+    },
+    "rune": null,
+    "creature": "Hadal snailfish",
+    "object": "Respiro spezzato, cicatrici riaperte",
+    "color": "Nero e rosso sangue",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In TPWBYT il sistema simbolico primario è la quota batimetrica e il booklet marino.",
+    "rune_gap_reason": "L'alfabeto runico sostitutivo viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "idioma / annegamento",
+      "detail": "Rovescia il modo di dire inglese che promette di arrivare nonostante l'inferno o l'acqua alta: qui entrambi sono arrivati e hanno vinto.",
+      "supporting_phrase": "Confessione di non riuscire più a trattenere il respiro. Parafrasi.",
+      "source_title": "Sleep Token Collective Wiki - High Water",
+      "url": "https://sleep-token-collective.fandom.com/wiki/High_Water",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Jaws (2018)",
+      "motif": "Le fauci del 2018 hanno trascinato Vessel sul fondo della fossa. Il motivo è richiamato senza riprodurre il verso.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "target_song": "Chokehold (2023)",
+      "motif": "Il taglio sul respiro soffocato prepara il soffocamento che apre il terzo album.",
+      "source_title": "Sleep Token Collective Wiki - High Water",
+      "url": "https://sleep-token-collective.fandom.com/wiki/High_Water",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Accettare i sorrisi falsi dell'altro costa l'impossibilità di perdonarsi. È la morte dell'autostima a questa quota.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "The sea creature on High Water's cover art is a hadal snailfish.[1]",
+      "source_title": "Sleep Token Collective Wiki - High Water",
+      "url": "https://sleep-token-collective.fandom.com/wiki/High_Water",
+      "source_class": "community"
+    },
+    {
+      "theory": "High Water is the eleventh track from Sleep Token's second album, This Place Will Become Your Tomb.",
+      "source_title": "Sleep Token Collective Wiki - High Water",
+      "url": "https://sleep-token-collective.fandom.com/wiki/High_Water",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22High%20Water%22%20%28lore%20OR%20meaning%20OR%20depth%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Invalid JSON from Reddit search: title:\"High Water\" (lore OR meaning OR depth OR theory)"
+  ]
+}

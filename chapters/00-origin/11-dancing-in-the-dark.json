@@ -1,0 +1,53 @@
+{
+  "title": "Dancing in the Dark",
+  "release": "Dancing in the Dark (Spotify Singles / Bruce Springsteen Cover)",
+  "track_number": 1,
+  "year": 2018,
+  "status": "active",
+  "genius_annotations_archived": 0,
+  "era_role": "Cover acustica/ambientale del classico di Bruce Springsteen, registrata nel periodo pre-Sundowning / Room Below. Come per 'Hey Ya!', isolare il testo nel buio ('dancing in the dark') lo piega all'isolamento notturno di Vessel.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "editorial_reading": null,
+  "editorial_reading_gap_reason": "Nessuna recensione editoriale individuale trovata per questo brano secondario/cover.",
+  "symbols": {
+    "sigil": null,
+    "depth": null,
+    "rune": null,
+    "creature": null,
+    "object": "L'oscurità e la scintilla ('start a fire')",
+    "color": "Nero",
+    "sigil_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
+    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
+    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
+    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+  },
+  "references": [
+    {
+      "category": "musica rock americana",
+      "detail": "Rielaborazione minimale del brano di Bruce Springsteen (1984).",
+      "supporting_phrase": "Can't start a fire without a spark",
+      "source_title": "Sleep Token Collective Wiki - Dancing in the Dark",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Dancing_in_the_Dark",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "The Night Does Not Belong to God / The Room Below",
+      "motif": "Continua la serie di reinterpretazioni solitarie al pianoforte legate al tema della notte.",
+      "source_title": "Sleep Token Collective Wiki - Dancing in the Dark",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Dancing_in_the_Dark",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": null,
+  "community_theories_gap_reason": "Assenza di thread ricorrenti di consenso sulla traccia.",
+  "gaps": [
+    "0 annotazioni Genius e copertura editoriale quasi nulla: registrata come cover minore senza apparato simbolico dedicato.",
+    "Fandom page absent: Dancing in the Dark (missingtitle)",
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Dancing%20in%20the%20Dark%22%20%28lore%20OR%20meaning%20OR%20cover%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "chapter_number": 2,
+  "slug": "02-this-place-will-become-your-tomb",
+  "title": "Capitolo 2 — This Place Will Become Your Tomb (2021) e la batimetria della discesa",
+  "why_before_chapter_3": "Dopo Sundowning e la Room Below, il secondo album sposta l'asse dalla terraferma agli abissi e va letto prima di Take Me Back to Eden: la discesa in fathom precede l'alchimia di Aqua Regia, fissa il lessico chimico di Alkaline e chiude il fondo oceanico da cui riparte Chokehold.",
+  "oceanic_architecture": {
+    "concept_overview": "Pubblicato il 24 settembre 2021. Se Sundowning era il ciclo solare, questo album è pressione idrostatica: dodici quote di community dalla fine della luce fino al Challenger Deep.",
+    "biblical_and_geographic_clues": "Il titolo funziona da epitaffio. Le coordinate promozionali dell'era, nelle fonti di community, puntano a Point Nemo (48°52.6′S 123°23.6′W), il polo oceanico dell'inaccessibilità nel Pacifico meridionale.",
+    "point_nemo": {
+      "latitude": "48°52.6′S",
+      "longitude": "123°23.6′W",
+      "reading_class": "community"
+    },
+    "alkaline_corrupted_text_resolution": "La traccia 7 aveva un file locale di 22 caratteri. La scheda ricostruisce la scala del pH, la rana pescatrice della copertina e il video dei fili rossi. Il testo cantato non è stato ripristinato.",
+    "bathymetry_note": "1 fathom = 1,8288 m. Le quote e le zone oceaniche restano reading_class=community: la pagina wiki dell'album non contiene una tabella in fathom. Le specie di copertina vengono dalla sezione Trivia di ogni brano."
+  },
+  "public_chronology": {
+    "label": "Spinefarm Records",
+    "release_date": "2021-09-24",
+    "producer": "George Lever",
+    "producer_gap_reason": null,
+    "source_class": "editorial",
+    "source_url": "https://en.wikipedia.org/wiki/This_Place_Will_Become_Your_Tomb",
+    "live_extracts": [
+      "This Place Will Become Your Tomb is the second studio album by the anonymous English rock band Sleep Token. It was recorded at G1 Productions, produced by George Lever, and released on 24 September 2021 by Spinefarm Records.",
+      "This Place Will Become Your Tomb was announced on 18 June 2021, accompanied by the release of [riferimento testuale] as the lead single and music video.[3] It was followed by [riferimento testuale] on 6 August[4] and [riferimento testuale] on 17 September.[5]",
+      "This Place Will Become Your Tomb gave Sleep Token their first chart positions in the UK, debuting at number 39 on the Top 40 UK Albums Chart and at number 13 on the Top 20 Scottish Albums Chart. In the midweek chart, it was slated to debut at number 11.[14][15][16] The album also registered at number 12 on the UK Album Downloads Chart, number 11 on the UK Album Sales Chart, number 12 on the UK Physical Albums Chart, ",
+      "On 21 November 2025, This Place Will Become Your Tomb topped the UK Rock & Metal Albums Chart.[citation needed]"
+    ]
+  },
+  "bathymetric_table_track_by_track": {
+    "1": {
+      "track": "Atlantic",
+      "fathoms": 500,
+      "meters": 914,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Confine mesopelagico / batipelagico (circa 914 m, dove cessa la luce solare)",
+      "booklet_specimen": "Black swallower (Chiasmodon niger), dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "Dopo il tramonto di Sundowning, la luce diurna si spegne e Vessel entra nell'oscurità in seguito a un atto di autodistruzione."
+    },
+    "2": {
+      "track": "Hypnosis",
+      "fathoms": 958,
+      "meters": 1752,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona batipelagica superiore (circa 1.752 m)",
+      "booklet_specimen": "Brittle star (stella serpentina), dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "La lettura a spirale di nautilus non è la copertina. La stella serpentina rigenera le braccia: Sleep riafferma la presa dopo Atlantic."
+    },
+    "3": {
+      "track": "Mine",
+      "fathoms": 1416,
+      "meters": 2590,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona batipelagica media (circa 2.590 m)",
+      "booklet_specimen": "Comb jelly (ctenoforo), dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "La pressione diventa possesso: le due anime sono descritte come rami corallini intrecciati nel buio."
+    },
+    "4": {
+      "track": "Like That",
+      "fathoms": 1872,
+      "meters": 3424,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona batipelagica inferiore (circa 3.424 m)",
+      "booklet_specimen": "Faceless cusk, dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "Il contatto con l'altro si rivela velenoso: il piacere altrui sta nel vedere Vessel intrappolato."
+    },
+    "5": {
+      "track": "The Love You Want",
+      "fathoms": 2328,
+      "meters": 4257,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona abissopelagica superiore (circa 4.257 m)",
+      "booklet_specimen": "Deepsea lizardfish, dalla trivia della wiki. Nel video: danzatrici con spade",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "Sulla piana abissale si misura la distanza tra l'amore offerto e quello richiesto."
+    },
+    "6": {
+      "track": "Fall for Me",
+      "fathoms": 2784,
+      "meters": 5091,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona abissopelagica media (circa 5.091 m)",
+      "booklet_specimen": "Whalefall in fase di affondamento, dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "Senza strumenti, solo voce processata. La copertina mostra una carcassa che inizia a scendere."
+    },
+    "7": {
+      "track": "Alkaline",
+      "fathoms": 3240,
+      "meters": 5925,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Confine abissopelagico / hadopelagico (circa 5.925 m)",
+      "booklet_specimen": "Anglerfish (rana pescatrice), dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "La copertina è la rana pescatrice, non una sorgente idrotermale. La chimica del pH resta la metafora del testo; l'esca luminosa è l'attrazione nel buio."
+    },
+    "8": {
+      "track": "Distraction",
+      "fathoms": 3696,
+      "meters": 6759,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona hadopelagica superiore (circa 6.759 m)",
+      "booklet_specimen": "Cookiecutter shark, dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "Ogni distrazione dal dolore fallisce: è troppo tardi per risalire."
+    },
+    "9": {
+      "track": "Descending",
+      "fathoms": 4152,
+      "meters": 7593,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona hadopelagica media (circa 7.593 m)",
+      "booklet_specimen": "Reverse jewel squid (Histioteuthis reversa), dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "La discesa non è più una caduta accidentale: è un moto dichiarato."
+    },
+    "10": {
+      "track": "Telomeres",
+      "fathoms": 4608,
+      "meters": 8427,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona hadopelagica profonda (circa 8.427 m, vicino al limite dei pesci ossei)",
+      "booklet_specimen": "Telescope octopus, dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "La rigenerazione dei telomeri resta la metafora biologica. La copertina è il polpo telescopio, non lo snailfish."
+    },
+    "11": {
+      "track": "High Water",
+      "fathoms": 5064,
+      "meters": 9261,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Fossa delle Marianne inferiore (circa 9.261 m)",
+      "booklet_specimen": "Hadal snailfish, dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "L'acqua alta riempie i polmoni: Vessel non trattiene più il respiro né il perdono verso di sé."
+    },
+    "12": {
+      "track": "Missing Limbs",
+      "fathoms": 5973,
+      "meters": 10923,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Challenger Deep, fondo della Fossa delle Marianne (circa 10.923 m)",
+      "booklet_specimen": "Whalefall, dalla trivia della wiki. Su Fall for Me la carcassa sta ancora scendendo",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "Non si scende oltre. La tomba è compiuta e resta il dolore dell'arto fantasma."
+    }
+  },
+  "wayback_kerrang_snapshots": [],
+  "wayback_kerrang_excerpts": [],
+  "songs_processed": [
+    "chapters/02-this-place-will-become-your-tomb/01-atlantic.json",
+    "chapters/02-this-place-will-become-your-tomb/02-hypnosis.json",
+    "chapters/02-this-place-will-become-your-tomb/03-mine.json",
+    "chapters/02-this-place-will-become-your-tomb/04-like-that.json",
+    "chapters/02-this-place-will-become-your-tomb/05-the-love-you-want.json",
+    "chapters/02-this-place-will-become-your-tomb/06-fall-for-me.json",
+    "chapters/02-this-place-will-become-your-tomb/07-alkaline.json",
+    "chapters/02-this-place-will-become-your-tomb/08-distraction.json",
+    "chapters/02-this-place-will-become-your-tomb/09-descending.json",
+    "chapters/02-this-place-will-become-your-tomb/10-telomeres.json",
+    "chapters/02-this-place-will-become-your-tomb/11-high-water.json",
+    "chapters/02-this-place-will-become-your-tomb/12-missing-limbs.json"
+  ],
+  "sources_fetched": [
+    "boolin_lore",
+    "fandom_tpwbyt",
+    "lore_main",
+    "louder_every_song_p2",
+    "louder_every_song_p3",
+    "wiki_tpwbyt"
+  ],
+  "gaps": [
+    "HTTP 404 for https://loreofsleeptoken.com/tpwbyt/",
+    "Fallback lore URL: https://loreofsleeptoken.com/this-place-will-become-your-tomb/",
+    "HTTP 404 for https://loreofsleeptoken.com/this-place-will-become-your-tomb/",
+    "Fetch failed for https://web.archive.org/cdx/search/cdx?url=kerrang.com/*tomb*&output=json&from=2021&to=2022&filter=statuscode:200&collapse=urlkey&limit=10: The read operation timed out",
+    "Fetch failed for https://web.archive.org/cdx/search/cdx?url=www.kerrang.com/*tomb*&output=json&from=2021&to=20221231235959&filter=statuscode:200&collapse=urlkey&limit=10: The read operation timed out",
+    "Wayback CDX vuota per le query Kerrang 2021-2022 su tomb / sleep-token."
+  ],
+  "unclosed_gaps": [
+    "Le tavole tassonomiche del booklet fisico 2021 non sono testo strutturato sul sito della band: si usano le trascrizioni wiki e loreofsleeptoken.com.",
+    "I frame di Alkaline, The Love You Want e Fall for Me non sono acquisiti: youtube.com è bloccato. Restano le parafrasi delle fonti secondarie.",
+    "Nel 2021 la band non ha concesso interviste tradizionali. Il messaggio diretto del personaggio resta il testo a schermo di Fall for Me."
+  ]
+}

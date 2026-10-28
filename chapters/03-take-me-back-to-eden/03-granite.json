@@ -1,0 +1,93 @@
+{
+  "title": "Granite",
+  "release": "Take Me Back to Eden",
+  "track_number": 3,
+  "year": 2023,
+  "status": "active",
+  "genius_annotations_archived": 13,
+  "era_role": "Terza traccia, singolo del 19 gennaio 2023. Dopo l'estasi di The Summoning, due passeggeri in un'auto lanciata verso lo schianto: nessuno ammette la fine, entrambi preferiscono restare vedovi.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel 2023 Vessel non ha rilasciato interviste traccia-per-traccia. Le cover story di Kerrang! e Metal Hammer sul ciclo Eden sono saggi critici, non interviste al personaggio.",
+  "editorial_reading": [
+    {
+      "summary": "Louder nota beat R&B e pop-trap che esplodono in un muro di chitarre pesante quanto il titolo, e la freddezza dell'interlocutore.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale] and [riferimento testuale] were the first two singles, released on 5 and 6 January 2023 respectively.[4] These were followed by \"Granite[riferimento testuale]Aqua Regia\" on 20 January.[5]",
+      "source_title": "Wikipedia - Take Me Back to Eden",
+      "url": "https://en.wikipedia.org/wiki/Take_Me_Back_to_Eden",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Sleep Token don’t do ‘stories’ in the traditional sense, but Granite seems to be a narrative about a car crash, possibly caused as a result of addiction/selfdestructive tendencies. It also introduces the idea of alchemical reactions, contrasting sulphur with granite, with some fans pointing out sulphur dioxide causes granite to degrade.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Another reference to a chemical reaction: Aqua Regia is a scientific compound used to refine gold. There’s a lot of gold imagery in the song’s lyrics, as well as a suggestion of the of drug abuse hinted at in Granite (and referring to blood trails from The Summoning).",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": null,
+    "rune": "GRANITE",
+    "creature": "Golem scolpito nel granito scuro, con fratture da cui filtra luce e una postura inamovibile.",
+    "ritual_role": "Durezza emotiva e impatto fisico: il petto di pietra su cui si infrange la relazione.",
+    "object": "Zolfo, granito nel petto, vetri infranti",
+    "color": "Grigio granito e giallo zolfo",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In Take Me Back to Eden il sistema simbolico è il cifrario runico e le 12 creature.",
+    "depth_gap_reason": "La batimetria marina appartiene a TPWBYT (Capitolo 2). Dopo la riemersione di Chokehold l'ambientazione è terrestre, lunare e alchemica."
+  },
+  "references": [
+    {
+      "category": "alchimia / mineralogia",
+      "detail": "Lo zolfo è uno dei Tria Prima di Paracelso, legato al fuoco e all'anima volatile. Il granito è una roccia ignea intrusiva, metafora di un cuore pietrificato.",
+      "supporting_phrase": "Lo zolfo sta sul respiro dell'altro e il granito nel petto di chi parla.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Dark Signs (Sundowning, 2019)",
+      "motif": "L'immaginario automobilistico notturno di Dark Signs, dove i segnali venivano ignorati, qui è già lo schianto.",
+      "source_title": "Sleep Token Collective Wiki - Granite",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Granite",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Una lettura su r/SleepToken collega il ricovero di Atlantic (luci blu, vetri, bende) a un incidente notturno rievocato in Granite. Resta un'ipotesi.",
+      "source_title": "Sleep Token Collective Wiki - Granite",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Granite",
+      "source_class": "community"
+    },
+    {
+      "theory": "Granite is the third track and third single from Sleep Token's third album, Take Me Back To Eden. Granite released on January 19th, 2023 with it's official video.",
+      "source_title": "Sleep Token Collective Wiki - Granite",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Granite",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Granite%22%20%28lore%20OR%20meaning%20OR%20sulphur%20OR%20car%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Reddit ha restituito una pagina non JSON (blocco non aggirato)."
+  ]
+}

@@ -3,7 +3,9 @@
 from __future__ import annotations
 
 import asyncio
+import ipaddress
 import random
+import socket
 import time
 from collections import defaultdict
 from collections.abc import Iterable, Mapping
@@ -71,7 +73,12 @@ class ResilientFetcher:
         return hostname
 
     async def _pace(self, hostname: str) -> None:
-        interval = self.settings.reddit_min_interval if hostname.endswith("reddit.com") else 0.0
+        if hostname.endswith("reddit.com"):
+            interval = self.settings.reddit_min_interval
+        elif hostname.endswith("google.com"):
+            interval = self.settings.google_min_interval
+        else:
+            interval = 0.0
         if interval <= 0:
             return
         async with self._rate_locks[hostname]:
@@ -143,8 +150,87 @@ class ResilientFetcher:
                 return sanitize_payload(payload)
         raise FetchError(f"unreachable retry state for {hostname}")
 
+    async def fetch_text(
+        self,
+        url: str,
+        *,
+        headers: Mapping[str, str] | None = None,
+    ) -> str:
+        """Fetch allowlisted text (RSS/Atom) with the configured client, not Scrapling."""
+        hostname = self.ensure_allowed(url)
+        if self._client is None:
+            raise RuntimeError("ResilientFetcher must be used as an async context manager")
+        request_headers = {
+            "User-Agent": self.settings.user_agent,
+            "Accept": "application/atom+xml,application/rss+xml,application/xml,text/xml;q=0.9,*/*;q=0.8",
+        }
+        if headers:
+            request_headers.update(headers)
+        async with self._semaphores[hostname]:
+            for attempt in range(self.settings.max_retries + 1):
+                await self._pace(hostname)
+                try:
+                    response = await self._client.get(url, headers=request_headers)
+                except (httpx.TimeoutException, httpx.TransportError) as exc:
+                    if attempt >= self.settings.max_retries:
+                        raise FetchError(f"network failure for {hostname}") from exc
+                    await asyncio.sleep(self._retry_delay(attempt))
+                    continue
+                if response.status_code in {401, 403}:
+                    raise PermanentFetchError(
+                        f"access denied by {hostname} ({response.status_code})"
+                    )
+                if response.status_code == 429 or response.status_code >= 500:
+                    if attempt >= self.settings.max_retries:
+                        raise FetchError(
+                            f"retry budget exhausted for {hostname} ({response.status_code})"
+                        )
+                    await asyncio.sleep(self._retry_delay(attempt, response.headers))
+                    continue
+                try:
+                    response.raise_for_status()
+                except httpx.HTTPStatusError as exc:
+                    raise PermanentFetchError(
+                        f"invalid response from {hostname} ({response.status_code})"
+                    ) from exc
+                return response.text
+        raise FetchError(f"unreachable retry state for {hostname}")
+
     async def fetch_page(self, url: str, *, mode: FetchMode = "async") -> Any:
         hostname = self.ensure_allowed(url)
+        return await self._fetch_page(url, hostname, mode)
+
+    async def fetch_public_page(self, url: str, *, mode: FetchMode = "async") -> Any:
+        """Fetch a public HTTP(S) page discovered by the research crawler."""
+        hostname = await self.ensure_public(url)
+        return await self._fetch_page(url, hostname, mode)
+
+    @staticmethod
+    async def ensure_public(url: str) -> str:
+        parsed = urlparse(url)
+        hostname = (parsed.hostname or "").casefold()
+        if parsed.scheme not in {"http", "https"} or not hostname:
+            raise SourceNotAllowedError("external source must use HTTP(S)")
+        if hostname == "localhost" or hostname.endswith(".localhost"):
+            raise SourceNotAllowedError("local sources are not allowed")
+        try:
+            addresses = {ipaddress.ip_address(hostname)}
+        except ValueError:
+            try:
+                info = await asyncio.to_thread(
+                    socket.getaddrinfo,
+                    hostname,
+                    parsed.port or (443 if parsed.scheme == "https" else 80),
+                    type=socket.SOCK_STREAM,
+                )
+            except socket.gaierror as exc:
+                raise FetchError(f"DNS lookup failed for {hostname}") from exc
+            addresses = {ipaddress.ip_address(item[4][0]) for item in info}
+        if not addresses or any(not address.is_global for address in addresses):
+            raise SourceNotAllowedError(f"non-public source is not allowed: {hostname}")
+        return hostname
+
+    async def _fetch_page(self, url: str, hostname: str, mode: FetchMode) -> Any:
         async with self._semaphores[hostname]:
             for attempt in range(self.settings.max_retries + 1):
                 await self._pace(hostname)
@@ -211,12 +297,14 @@ def select_adaptive(page: Any, selectors: Iterable[str]) -> list[Any]:
 
 
 def node_text(node: Any) -> str:
-    """Read text from Scrapling selector nodes across minor API variations."""
-    value = getattr(node, "text", "")
-    if callable(value):
-        value = value()
-    if not value and hasattr(node, "get_all_text"):
-        value = node.get_all_text()
+    """Read the full text of a node, including text inside inline children."""
+    get_all_text = getattr(node, "get_all_text", None)
+    if callable(get_all_text):
+        value = get_all_text(separator=" ", strip=True)
+    else:
+        value = getattr(node, "text", "")
+        if callable(value):
+            value = value()
     return " ".join(str(value or "").split())
 
 

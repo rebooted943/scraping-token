@@ -1,0 +1,263 @@
+{
+  "chapter_number": 3,
+  "slug": "03-take-me-back-to-eden",
+  "title": "Capitolo 3 — Take Me Back to Eden (2023), il cifrario runico, le 12 creature e la chiusura della trilogia",
+  "why_before_chapter_4": "Dopo il fondale di Missing Limbs, Chokehold riporta Vessel a terra sotto la luna. Il cifrario, le 12 creature e la catarsi di Euclid vanno letti prima del ciclo 2025: solo così si distingue la trilogia chiusa dall'Arcadia.",
+  "trilogy_culmination": {
+    "elemental_progression": "Aria, notte e tramonto in Sundowning (2019); acqua, abisso e pressione in TPWBYT (2021); terra, fuoco alchemico ed Eden in TMBTE (2023).",
+    "vessel_arc_resolution": "Dalla riemersione ancora prigioniera in Chokehold e The Summoning, alla disillusione di Granite, Aqua Regia e Ascensionism, allo scetticismo di The Apparition, allo specchio di DYWTYLM, fino al rifiuto del ritorno all'innocenza e alla morte simbolica del vecchio sé in Euclid.",
+    "alchemy_community_reading": {
+      "stages": [
+        "Nigredo",
+        "Albedo",
+        "Citrinitas",
+        "Rubedo"
+      ],
+      "assigned": {
+        "Vore": "Nigredo, putrefazione nella pancia del mostro",
+        "Rain": "Albedo / Ablutio, lavaggio con la pioggia"
+      },
+      "reading_class": "community",
+      "note": "Citrinitas e Rubedo non hanno un'assegnazione traccia-per-traccia canonizzata in questo catalogo."
+    }
+  },
+  "public_chronology": {
+    "label": "Spinefarm Records",
+    "release_date": "2023-05-19",
+    "singles_seed": [
+      {
+        "title": "Chokehold",
+        "date": "2023-01-05"
+      },
+      {
+        "title": "The Summoning",
+        "date": "2023-01-06"
+      },
+      {
+        "title": "Granite",
+        "date": "2023-01-19"
+      },
+      {
+        "title": "Aqua Regia",
+        "date": "2023-01-20"
+      },
+      {
+        "title": "Vore",
+        "date": "2023-02-16"
+      },
+      {
+        "title": "DYWTYLM",
+        "date": "2023-04-20"
+      },
+      {
+        "title": "Take Me Back to Eden",
+        "date": "2023-05-19"
+      }
+    ],
+    "producer": "Carl Bown",
+    "producer_gap_reason": null,
+    "previous_cycle_producer": "George Lever",
+    "source_class": "editorial",
+    "source_url": "https://en.wikipedia.org/wiki/Take_Me_Back_to_Eden",
+    "live_extracts": [
+      "Take Me Back to Eden is the third studio album by the anonymous English rock band Sleep Token. It was recorded at Treehouse Studios and released by Spinefarm Records on 19 May 2023. It is the first album produced by Carl Bown rather than by George Lever.[1]",
+      "While initial reviews were mixed, the album eventually received numerous accolades and featured on several well-known best of 2023 lists. It became a commercial hit and was Spotify's most streamed metal album of 2023.[2]",
+      "[riferimento testuale] and [riferimento testuale] were the first two singles, released on 5 and 6 January 2023 respectively.[4] These were followed by \"Granite[riferimento testuale]Aqua Regia\" on 20 January.[5]",
+      "The quick succession of releases led to a rapid increase in popularity for the band, who grew from having reportedly [riferimento testuale] to having over 1.58 million by the end of the month.[6] \"Vore[riferimento testuale]DYWTYLM\" was issued as the sixth pre-release track from the album on 23 April 2023.[7]",
+      "In a five-star review for NME, Emma Wilkes described the album as [riferimento testuale], praising its [riferimento testuale] and adoption of multiple musical styles.[8] In a four-star review for Metal Hammer, Dannii Leivers described Take Me Back to Eden as [riferimento testuale], proposing that it is [riferimento testuale].[18]",
+      "Clash writer Ims Taylor claimed that [riferimento testuale], [but it's] [riferimento testuale], suggesting that the record features too many songs that [riferimento testuale].[15] Similarly, Elliott Burr of The Line of Best Fit thought that Take Me Back to Eden [riferimento testuale], concluding his 6/10 review with: [riferimento testuale].[17]"
+    ],
+    "awards_note": "Heavy Music Awards, Metal Hammer e Kerrang! vanno letti solo se compaiono nei live_extracts."
+  },
+  "runic_cipher_documentation": {
+    "system": {
+      "reading_class": "community",
+      "linguistic_classification": "Cifrario di sostituzione monoalfabetica, 1:1 con le 26 lettere A-Z, catalogato su Omniglot come Sleep Token Alphabet. Niente punteggiatura e niente cifre.",
+      "geometric_derivation": "Ogni glifo scompone il sigillo principale: aste verticali, diagonali, rombi aperti o chiusi, punti staccati. Omniglot registra la direzione abituale in colonne, dall'alto in basso, con le parole da sinistra a destra; a volte le stesse rune stanno su righe orizzontali.",
+      "structural_features": {
+        "vowels_and_diamonds": "Alcune lettere usano rombi o punti staccati dall'asta per distinguere glifi altrimenti simmetrici.",
+        "cover_art_inscriptions": "Sulla copertina e sui visualiser le colonne verticali traslitterano il titolo dell'album e i titoli delle tracce.",
+        "unicode_gap": "Nessun codepoint Unicode. I raster Omniglot restano fuori dal JSON.",
+        "late_letters": "La wiki dell'album annota che J, X e Z non erano pubblici all'uscita e sono comparsi il 24 novembre 2023. Lettura di community, non una tabella ufficiale."
+      },
+      "key_decoded_phrases": [
+        {
+          "decoded_english": "TAKE ME BACK TO EDEN",
+          "location": "Bordi verticali della copertina e visualiser della traccia 11",
+          "meaning_in_lore": "Invocazione di ritorno a uno stato di innocenza precedente al patto o al trauma.",
+          "reading_class": "community"
+        },
+        {
+          "decoded_english": "THE NIGHT BELONGS TO YOU",
+          "location": "Merchandising 2023 e chiusura del ciclo, associata a Euclid nelle letture di community",
+          "meaning_in_lore": "Rovescia il titolo di apertura di Sundowning, The Night Does Not Belong to God: la notte torna all'umano, o viene condivisa in piena coscienza.",
+          "reading_class": "community"
+        },
+        {
+          "decoded_english": "I AM HUNTING SOMETHING AND IN TURN THAT SAME THING IS HUNTING ME",
+          "location": "Iscrizioni promozionali legate al bestiario, lettura di community",
+          "meaning_in_lore": "Chi insegue l'ossessione finisce inseguito da essa.",
+          "reading_class": "community"
+        }
+      ]
+    },
+    "omniglot_live_notes": [
+      "The Sleep Token Alphabet is a cypher for English that appears on album artwork and merch for the band Sleep Token. Sleep Token is an English rock band founded in London in 2016. The members wear masks when they perform and remain anonymous. This alphabet started appear on their artwork and merch with the release of their third album, Take Me Back to Eden, in 2023. They also create lots of complex puzzles and mysterie",
+      "This alphabet is also known as the Take Me Back to Eden Code, Eden Runes or Sleep Token Rune(s). It is not known who created it, and there is no official name for it, as far as we know.",
+      "Direction of writing: usually each word is written vertically from top to bottom, and words go from left to right. Sometimes written from left to right in horizontal lines.",
+      "Download an alphabet chart for the Sleep Token Alphabet (Excel)",
+      "Generated by the Sleep Token Rune Text Generator"
+    ],
+    "fandom_rune_notes": [
+      "This album has its own runes. The band used the runes for the titles on each of the songs' visualizers and also for promotion. The runes for the letter J, X, and Z were not known at the time when TMBTE was first released, but were later revealed on November 24th, 2023 in a social media post from Revolver advertising a special magazine issue dedicated to Sleep Token.[1]"
+    ],
+    "bestiary_credit": {
+      "designer": "Alex Tillbrook",
+      "role": "Concept art delle 12 entità, attribuzione di community sotto la direzione creativa della band.",
+      "reading_class": "community"
+    }
+  },
+  "the_12_entities_bestiary": {
+    "1": {
+      "track": "Chokehold",
+      "decoded_rune": "CHOKEHOLD",
+      "entity_description": "Colosso biomeccanico avvolto da tentacoli o cavi neri che emergono dal fango, con gli arti aggrovigliati al collo.",
+      "ritual_role": "Riemersione dal fondale di Missing Limbs: l'ossessione resta una presa anche fuori dall'oceano.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    },
+    "2": {
+      "track": "The Summoning",
+      "decoded_rune": "THE SUMMONING",
+      "entity_description": "Guerriero corazzato in una caverna rossa, con una grande alabarda o ascia bipenne incisa di rune.",
+      "ritual_role": "Guardiano dell'evocazione: forza seduttiva e marziale insieme.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    },
+    "3": {
+      "track": "Granite",
+      "decoded_rune": "GRANITE",
+      "entity_description": "Golem scolpito nel granito scuro, con fratture da cui filtra luce e una postura inamovibile.",
+      "ritual_role": "Durezza emotiva e impatto fisico: il petto di pietra su cui si infrange la relazione.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    },
+    "4": {
+      "track": "Aqua Regia",
+      "decoded_rune": "AQUA REGIA",
+      "entity_description": "Figura regale e alchemica con un calice o una struttura ramificata al posto del capo, e oro liquido che cola sull'armatura.",
+      "ritual_role": "Personificazione dell'acqua regia: l'acido che scioglie l'oro, metallo dei re.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    },
+    "5": {
+      "track": "Vore",
+      "decoded_rune": "VORE",
+      "entity_description": "Creatura carnosa con fauci spalancate che si aprono nel torso, pronta a inghiottire la preda intera.",
+      "ritual_role": "Estremo di Jaws e The Offering: essere divorati per restare nelle viscere dell'altro.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    },
+    "6": {
+      "track": "Ascensionism",
+      "decoded_rune": "ASCENSIONISM",
+      "entity_description": "Sovrano o angelo oscuro a gambe incrociate, in drappi neri e catene, sospeso sopra un'architettura gotica.",
+      "ritual_role": "Falso paradiso promesso da Sleep e accusa di aver fatto desiderare la scomparsa.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    },
+    "7": {
+      "track": "Are You Really Okay?",
+      "decoded_rune": "ARE YOU REALLY OKAY",
+      "entity_description": "Entità arborea antropomorfa, contorta e sanguinante, con rami spogli piegati in un gesto di dolore.",
+      "ritual_role": "Cicatrici nella carne: il trauma come corteccia incisa che non si rimargina.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    },
+    "8": {
+      "track": "The Apparition",
+      "decoded_rune": "THE APPARITION",
+      "entity_description": "Spettro velato, quasi privo di corpo, con lembi di tessuto sospesi nel vuoto notturno.",
+      "ritual_role": "Allucinazione al risveglio: la figura che svanisce appena si tenta di toccarla.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    },
+    "9": {
+      "track": "DYWTYLM",
+      "decoded_rune": "DYWTYLM",
+      "entity_description": "Idolo dalle molte braccia che si regge il volto o si specchia in simmetria.",
+      "ritual_role": "Dissociazione allo specchio: incapacità di amare il proprio riflesso.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    },
+    "10": {
+      "track": "Rain",
+      "decoded_rune": "RAIN",
+      "entity_description": "Figura sacerdotale avvolta da serpenti o radici sotto una pioggia battente, in posa di purificazione.",
+      "ritual_role": "Diluvio che lava il sale dell'oceano di TPWBYT.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    },
+    "11": {
+      "track": "Take Me Back to Eden",
+      "decoded_rune": "TAKE ME BACK TO EDEN",
+      "entity_description": "Angelo-falena sospeso davanti a una luna piena o eclissata che contiene il sigillo della band.",
+      "ritual_role": "Unisce l'insetto notturno attratto dalla luce al guardiano del giardino.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    },
+    "12": {
+      "track": "Euclid",
+      "decoded_rune": "EUCLID",
+      "entity_description": "Gigante in stracci rituali: spada nella mano destra e, nella sinistra, la testa mozzata di Vessel con la maschera della trilogia.",
+      "ritual_role": "Decapitazione simbolica del vecchio contenitore, prima di una forma nuova.",
+      "reading_class": "community",
+      "glyph_status": "traslitterazione inglese; il glifo raster non è archiviato"
+    }
+  },
+  "wayback_kerrang_2023_snapshots": [],
+  "wayback_kerrang_excerpts": [],
+  "songs_processed": [
+    "chapters/03-take-me-back-to-eden/01-chokehold.json",
+    "chapters/03-take-me-back-to-eden/02-the-summoning.json",
+    "chapters/03-take-me-back-to-eden/03-granite.json",
+    "chapters/03-take-me-back-to-eden/04-aqua-regia.json",
+    "chapters/03-take-me-back-to-eden/05-vore.json",
+    "chapters/03-take-me-back-to-eden/06-ascensionism.json",
+    "chapters/03-take-me-back-to-eden/07-are-you-really-okay.json",
+    "chapters/03-take-me-back-to-eden/08-the-apparition.json",
+    "chapters/03-take-me-back-to-eden/09-dywtylm.json",
+    "chapters/03-take-me-back-to-eden/10-rain.json",
+    "chapters/03-take-me-back-to-eden/11-take-me-back-to-eden.json",
+    "chapters/03-take-me-back-to-eden/12-euclid.json"
+  ],
+  "sources_fetched": [
+    "boolin_lore",
+    "fandom_runes",
+    "fandom_tmbte",
+    "lore_main",
+    "louder_every_song_p3",
+    "louder_every_song_p4",
+    "omniglot_alphabet",
+    "wiki_tmbte"
+  ],
+  "gaps": [
+    "HTTP 403 for https://www.omniglot.com/conscripts/sleeptokenalphabet.htm",
+    "Omniglot live rifiutato: snapshot https://web.archive.org/web/20260508093416/https://www.omniglot.com/conscripts/sleeptokenalphabet.htm",
+    "HTTP 404 for https://loreofsleeptoken.com/tmbte/",
+    "Fallback lore URL: https://loreofsleeptoken.com/take-me-back-to-eden/",
+    "HTTP 404 for https://loreofsleeptoken.com/take-me-back-to-eden/",
+    "Nessuno snapshot Wayback per loreofsleeptoken.com/tmbte/",
+    "Nessuno snapshot Wayback per loreofsleeptoken.com/take-me-back-to-eden/",
+    "Fandom page absent: Runes (missingtitle)",
+    "Fandom page absent: Alphabet (missingtitle)",
+    "Pagine Fandom Runes e Alphabet assenti: note runiche prese dalla pagina album.",
+    "Wayback CDX vuota per le query Kerrang 2023-2024 su sleep-token."
+  ],
+  "unclosed_gaps": [
+    "Le cover story Kerrang! e Metal Hammer del 2023 restano saggi critici: l'assenza di citazioni in-character non è un buco dello scraper.",
+    "I 26 glifi dello Sleep Token Alphabet non hanno codepoint Unicode. Il JSON descrive la struttura e la traslitterazione, senza convertire i raster Omniglot in SVG.",
+    "I messaggi parlati del Ritual al Wembley (16 dicembre 2023) circolano su video e social, domini bloccati. Restano solo i richiami indiretti su Reddit e sulla wiki.",
+    "loreofsleeptoken.com/tmbte/ e /take-me-back-to-eden/ rispondono 404 e non hanno snapshot Wayback. Le letture di quel sito puntano a /the-lore/, che è online."
+  ]
+}

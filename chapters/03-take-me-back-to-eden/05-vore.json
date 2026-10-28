@@ -1,0 +1,93 @@
+{
+  "title": "Vore",
+  "release": "Take Me Back to Eden",
+  "track_number": 5,
+  "year": 2023,
+  "status": "active",
+  "genius_annotations_archived": 13,
+  "era_role": "Quinta traccia, singolo del 16 febbraio 2023. Dopo il jazz di Aqua Regia, il brano più estremo del disco: essere inghiottiti nella gola degli dèi perché il dolore cessi nell'assimilazione.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel 2023 Vessel non ha rilasciato interviste traccia-per-traccia. Le cover story di Kerrang! e Metal Hammer sul ciclo Eden sono saggi critici, non interviste al personaggio.",
+  "editorial_reading": [
+    {
+      "summary": "Louder e Kerrang! accostano l'apertura urlata a Gods, e notano l'alternanza con un ritornello melodico disperato.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The quick succession of releases led to a rapid increase in popularity for the band, who grew from having reportedly [riferimento testuale] to having over 1.58 million by the end of the month.[6] \"Vore[riferimento testuale]DYWTYLM\" was issued as the sixth pre-release track from the album on 23 April 2023.[7]",
+      "source_title": "Wikipedia - Take Me Back to Eden",
+      "url": "https://en.wikipedia.org/wiki/Take_Me_Back_to_Eden",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The chemical imagery throughout paints love as a corrosive force, something that eats away at Vessel. That sentiment of consumption is recurring throughout Sleep Token’s catalogue, from Jericho’s talk of tasting [riferimento testuale] to Take Me Back To Eden’s literally all-consuming Vore.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "The song revisits imagery from Vore, The Summoning and Aqua Regia, playing into the idea of cycles and an inevitable sense of destruction and deception as part of the relationship.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": null,
+    "rune": "VORE",
+    "creature": "Creatura carnosa con fauci spalancate che si aprono nel torso, pronta a inghiottire la preda intera.",
+    "ritual_role": "Estremo di Jaws e The Offering: essere divorati per restare nelle viscere dell'altro.",
+    "object": "Gola degli dèi, viscere, pareti interne",
+    "color": "Rosso viscerale e nero",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In Take Me Back to Eden il sistema simbolico è il cifrario runico e le 12 creature.",
+    "depth_gap_reason": "La batimetria marina appartiene a TPWBYT (Capitolo 2). Dopo la riemersione di Chokehold l'ambientazione è terrestre, lunare e alchemica."
+  },
+  "references": [
+    {
+      "category": "mitologia divorante",
+      "detail": "Vore abbrevia il desiderio di essere divorati interi. Porta oltre il morso di The Offering: sparire nel corpo di Sleep.",
+      "supporting_phrase": "La domanda è se esista un punto di non ritorno nella gola degli dèi.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Jaws (2018), The Offering (2019), Gods (2019)",
+      "motif": "Dalle fauci mostrate al morso offerto, fino alla deglutizione totale, con il lessico degli dèi di Gods.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Nella lettura alchemica di community, Vore è la Nigredo: putrefazione nella pancia del mostro, sul modello di Giona, prima della purificazione.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Vore is the fifth track and fifth single from Sleep Token's third album, Take Me Back To Eden. Vore released on Feburary 16th, 2023 with it's official video.",
+      "source_title": "Sleep Token Collective Wiki - Vore",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Vore",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Vore%22%20%28lore%20OR%20meaning%20OR%20swallow%20OR%20throat%20OR%20creature%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Reddit ha restituito una pagina non JSON (blocco non aggirato)."
+  ]
+}

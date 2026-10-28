@@ -1,0 +1,84 @@
+{
+  "title": "Sugar",
+  "release": "Sundowning",
+  "track_number": 9,
+  "year": 2019,
+  "status": "active",
+  "genius_annotations_archived": 15,
+  "era_role": "Nona offerta (10 ottobre 2019). La ribellione di Gods fallisce perché il legame agisce come dipendenza chimica.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "Slow-burn R&B che esplode nel blues-metal. La stampa lo legge come ossessione erotica che divora la volontà.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "There’s something bewitching about Sugar. Curious synthetic arpeggios lure you in, a bubble of intoxication as Vessel admits he’s [riferimento testuale] for the pain he experiences in a toxic partnership.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": {
+      "track": "Sugar",
+      "release_date": "2019-10-10",
+      "reading_class": "community",
+      "geometry": "Esagono o rombo sfaccettato, simile a un cristallo o a una clessidra.",
+      "symbolic_reading": "Cristallo di saccarosio e distillazione chimica della dipendenza."
+    },
+    "depth": null,
+    "rune": null,
+    "creature": null,
+    "object": "Cristalli di zucchero, veleno dolce",
+    "color": "Ambra e viola scuro",
+    "depth_gap_reason": "La batimetria traccia-per-traccia in metri e fathom appartiene a This Place Will Become Your Tomb (Capitolo 2).",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3).",
+    "creature_gap_reason": "Nessuna creatura specifica canonizzata per questa traccia."
+  },
+  "references": [
+    {
+      "category": "neurobiologia",
+      "detail": "Lo zucchero è l'archetipo della ricompensa immediata che maschera la tossicità.",
+      "supporting_phrase": "Confessione di un gusto ossessivo e irreversibile per l'altro.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Alkaline (2021), Aqua Regia (2023), Caramel (2025)",
+      "motif": "Apre le metafore chimiche: zucchero, pH, acido che scioglie l'oro, zucchero bruciato.",
+      "source_title": "Sleep Token Collective Wiki - Sugar",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Sugar",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Subito dopo Gods riproduce il ciclo del trauma bonding: all'esplosione segue la riconciliazione che reincatena.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Sugar is the ninth track from Sleep Token's first album, Sundowning. Sugar released on October 10th, 2019 with it's official visualiser video.",
+      "source_title": "Sleep Token Collective Wiki - Sugar",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Sugar",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Sugar%22%20%28lore%20OR%20meaning%20OR%20sigil%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

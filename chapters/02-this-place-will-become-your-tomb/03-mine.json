@@ -1,0 +1,117 @@
+{
+  "title": "Mine",
+  "release": "This Place Will Become Your Tomb",
+  "track_number": 3,
+  "year": 2021,
+  "status": "active",
+  "genius_annotations_archived": 7,
+  "local_archive_repair_note": null,
+  "era_role": "Terza tappa, 1.416 fathom (circa 2.590 m). La voce passa dalla sottomissione a una certezza ossessiva: nonostante la rottura, l'altro è già suo.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nessuna intervista traccia-per-traccia nel ciclo 2021. L'unica confessione diretta in-character dell'era sta nei cartelli del video di Fall for Me.",
+  "editorial_reading": [
+    {
+      "summary": "Aperture synth luminose contro un sottotesto di possesso. L'arrangiamento trionfale rende più inquietante la pretesa.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Lines begin to blur on Mine, the first hint of Sleep embodying Vessel and using him as a mouthpiece. Sleep seems to take the reins on this track, talking of how He was [riferimento testuale] for years before finding his perfect Vessel.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Despite opening on a doe-eyed note of affection, the track slowly transforms into grandiose promise of devotion. Yet Sleep’s ulterior motives are clear behind the wall of whirring synths and belted vocals. One notion is consistently repeated: [riferimento testuale] Sleep doesn’t consider Vessel to be an equal – he is a vessel to manipulate, consume and control.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "“Mine[riferimento testuale]we are a crashing course driven by a holy force.[riferimento testuale]Calcutta”, [riferimento testuale], [riferimento testuale], [riferimento testuale], [riferimento testuale]) to reiterate the inescapability of the situation. It is obsessive. The song could represent Sleep’s desire, sounding big and sweet and romantic, while truthfully being deliberately manipulative. The end repeats the l",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale]: 914m – the depth at which angler fish live (the single artwork is of an angler fish)[riferimento testuale]: 1824m – Farallon escarpment“Mine[riferimento testuale]Like That[riferimento testuale]Missing Limbs“: 10924m – Challenger Deep (the deepest point in the ocean, within the Mariana Trench. Presumably the location of the house/tomb).",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": {
+      "track": "Mine",
+      "fathoms": 1416,
+      "meters": 2590,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Zona batipelagica media (circa 2.590 m)",
+      "booklet_specimen": "Comb jelly (ctenoforo), dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "La pressione diventa possesso: le due anime sono descritte come rami corallini intrecciati nel buio."
+    },
+    "rune": null,
+    "creature": "Comb jelly",
+    "object": "Vincolo d'infinito, esplosione di colore nel buio",
+    "color": "Ciano bioluminescente e viola",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In TPWBYT il sistema simbolico primario è la quota batimetrica e il booklet marino.",
+    "rune_gap_reason": "L'alfabeto runico sostitutivo viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "ossessione",
+      "detail": "Il rifiuto amoroso diventa fatalismo: due anime sarebbero già unite su un piano superiore.",
+      "supporting_phrase": "Ripetizione della certezza che l'interlocutore appartiene al narratore.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Give (2019) e Rain (2023)",
+      "motif": "Prosegue il patto di appartenenza di Give e anticipa la rinascita cromatica di Rain.",
+      "source_title": "Sleep Token Collective Wiki - Mine",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Mine",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Come in Give, una lettura inverte il punto di vista: è Sleep a parlare a Vessel mentre affonda, e a ricordargli a chi appartiene l'anima.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "The sea creature on Mine's cover art is a comb jelly.[1]",
+      "source_title": "Sleep Token Collective Wiki - Mine",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Mine",
+      "source_class": "community"
+    },
+    {
+      "theory": "Mine is the third track from Sleep Token's second album, This Place Will Become Your Tomb.",
+      "source_title": "Sleep Token Collective Wiki - Mine",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Mine",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Mine%22%20%28lore%20OR%20meaning%20OR%20depth%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Invalid JSON from Reddit search: title:\"Mine\" (lore OR meaning OR depth OR theory)"
+  ]
+}

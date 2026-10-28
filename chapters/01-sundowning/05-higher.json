@@ -1,0 +1,98 @@
+{
+  "title": "Higher",
+  "release": "Sundowning",
+  "track_number": 5,
+  "year": 2019,
+  "status": "active",
+  "genius_annotations_archived": 13,
+  "era_role": "Quinta offerta (15 agosto 2019). Il legame è simmetrico: le due parti si feriscono e il debito emotivo sale.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel ciclo Sundowning (2019-2020) non ci sono interviste traccia-per-traccia: restano i comunicati rituali del rilascio al tramonto.",
+  "editorial_reading": [
+    {
+      "summary": "Boolin Tunes lo legge come ritratto della codipendenza tossica travestita da culto, retto dall'intreccio ritmico di II.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": "2023-05-15",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "According to Setlist.fm, [riferimento testuale] is the song performed live most times by the band; \"Higher[riferimento testuale]The Night Does Not Belong to God\" also in the top ten from Sundowning.[8]",
+      "source_title": "Wikipedia - Sundowning (album)",
+      "url": "https://en.wikipedia.org/wiki/Sundowning_(Sleep_Token_album)",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Higher blurs the lines between pain and pleasure, traversing a diverse palette as it explores the [riferimento testuale] that dominates Vessel’s life. Switching between dreamy synths and light post-metal breakdowns, it’s unclear whether Vessel truly wants to escape the pain, or whether he lusts for it.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "“Higher[riferimento testuale]Cause I am a fire and you are dry as bone[riferimento testuale]You need the melody, I only need the silence. But each time we battle, the blood and the fury takes us a little higher” illustrates the crux of their unhealthy union: despite their discord and constant testing of one another’s limits, their anger and fighting has an almost euphoric effect, one which they find comfort in and co",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (Sundowning Section)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": {
+      "track": "Higher",
+      "release_date": "2019-08-15",
+      "reading_class": "community",
+      "geometry": "Doppia cuspide contrapposta lungo l'asse verticale.",
+      "symbolic_reading": "Escalation simmetrica del conflitto: ogni offesa alza il debito."
+    },
+    "depth": null,
+    "rune": null,
+    "creature": null,
+    "object": "Fuoco e ghiaccio, cicatrici, bilancia del debito",
+    "color": "Rosso brace e azzurro glaciale",
+    "depth_gap_reason": "La batimetria traccia-per-traccia in metri e fathom appartiene a This Place Will Become Your Tomb (Capitolo 2).",
+    "rune_gap_reason": "Il cifrario runico lettera-per-lettera viene introdotto in Take Me Back to Eden (Capitolo 3).",
+    "creature_gap_reason": "Nessuna creatura specifica canonizzata per questa traccia."
+  },
+  "references": [
+    {
+      "category": "economia morale",
+      "detail": "Il debito si accumula a ogni offesa, tra freddezza glaciale e impulsività incendiaria.",
+      "supporting_phrase": "Il mantra finale fa salire il debito sempre più in alto.",
+      "source_title": "Sleep Token Collective Wiki - Higher",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Higher",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "The Summoning / Ascensionism (2023)",
+      "motif": "La guerra psicologica tra due entità che non si lasciano prepara il conflitto centrale di Take Me Back to Eden.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Scompare il confine tra vittima e carnefice: Vessel è una minaccia per l'altro quanto Sleep lo è per lui.",
+      "source_title": "Lore of Sleep Token - Sundowning",
+      "url": "https://loreofsleeptoken.com/sundowning/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Higher is the fifth track from Sleep Token's first album, Sundowning. Higher released on August 15th, 2019 with it's official visualiser video.",
+      "source_title": "Sleep Token Collective Wiki - Higher",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Higher",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Higher%22%20%28lore%20OR%20meaning%20OR%20sigil%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6"
+  ]
+}

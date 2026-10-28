@@ -7,7 +7,9 @@ from typing import Any
 from unittest.mock import AsyncMock
 
 from config.settings import Settings
+from core.fetcher import FetchError
 from core.sanitizer import REDACTION
+from models.schemas import Song
 from scrapers.genius_api_extractor import GeniusAPIExtractor
 
 
@@ -113,6 +115,34 @@ class FakeGeniusFetcher:
 
 
 class GeniusExtractorTests(unittest.IsolatedAsyncioTestCase):
+    async def test_empty_catalog_is_a_hard_failure(self) -> None:
+        extractor = GeniusAPIExtractor(
+            AsyncMock(),  # type: ignore[arg-type]
+            settings(Path(".")),
+        )
+        extractor.resolve_artist_id = AsyncMock(return_value=42)  # type: ignore[method-assign]
+        extractor.catalog = AsyncMock(return_value=[])  # type: ignore[method-assign]
+        with self.assertRaisesRegex(FetchError, "catalog"):
+            await extractor.extract()
+
+    async def test_songs_without_lyrics_or_annotations_fail(self) -> None:
+        extractor = GeniusAPIExtractor(
+            AsyncMock(),  # type: ignore[arg-type]
+            settings(Path(".")),
+        )
+        extractor.resolve_artist_id = AsyncMock(return_value=42)  # type: ignore[method-assign]
+        extractor.catalog = AsyncMock(return_value=[{"id": 1, "title": "Atlantic"}])  # type: ignore[method-assign]
+        extractor.extract_song = AsyncMock(  # type: ignore[method-assign]
+            return_value=Song(
+                genius_id=1,
+                title="Atlantic",
+                full_title="Atlantic by Sleep Token",
+                url="https://genius.com/sleep-token-atlantic-lyrics",
+            )
+        )
+        with self.assertRaisesRegex(FetchError, "lyrics"):
+            await extractor.extract()
+
     async def test_catalog_paginates_and_deduplicates_titles(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             extractor = GeniusAPIExtractor(

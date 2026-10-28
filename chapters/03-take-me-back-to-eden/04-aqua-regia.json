@@ -1,0 +1,107 @@
+{
+  "title": "Aqua Regia",
+  "release": "Take Me Back to Eden",
+  "track_number": 4,
+  "year": 2023,
+  "status": "active",
+  "genius_annotations_archived": 14,
+  "era_role": "Quarta traccia, singolo del 20 gennaio 2023. Manifesto alchemico su un arrangiamento jazz-pop al pianoforte, senza chitarre metal: il mondo artificiale e il conflitto amoroso contro la nostalgia dell'Eden.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nel 2023 Vessel non ha rilasciato interviste traccia-per-traccia. Le cover story di Kerrang! e Metal Hammer sul ciclo Eden sono saggi critici, non interviste al personaggio.",
+  "editorial_reading": [
+    {
+      "summary": "Kerrang!, Louder e Boolin Tunes sottolineano la scrittura jazzistica e la densità di chimica, informatica e mito che prepara il ritorno all'Eden.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale] and [riferimento testuale] were the first two singles, released on 5 and 6 January 2023 respectively.[4] These were followed by \"Granite[riferimento testuale]Aqua Regia\" on 20 January.[5]",
+      "source_title": "Wikipedia - Take Me Back to Eden",
+      "url": "https://en.wikipedia.org/wiki/Take_Me_Back_to_Eden",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Much of Take Me Back To Eden is based around the idea of cycles, reinforced through repeated imagery. Colour-coded lyrics like [riferimento testuale] echo ‘I’ve got a blood trail, red in the blue’ from Sundowning track Higher (and come up again on this album’s Aqua Regia).",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Another reference to a chemical reaction: Aqua Regia is a scientific compound used to refine gold. There’s a lot of gold imagery in the song’s lyrics, as well as a suggestion of the of drug abuse hinted at in Granite (and referring to blood trails from The Summoning).",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 4)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/4",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": null,
+    "rune": "AQUA REGIA",
+    "creature": "Figura regale e alchemica con un calice o una struttura ramificata al posto del capo, e oro liquido che cola sull'armatura.",
+    "ritual_role": "Personificazione dell'acqua regia: l'acido che scioglie l'oro, metallo dei re.",
+    "object": "Acqua regia, oro disciolto, silicio, ossitocina",
+    "color": "Oro liquido e arancio nitroso",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In Take Me Back to Eden il sistema simbolico è il cifrario runico e le 12 creature.",
+    "depth_gap_reason": "La batimetria marina appartiene a TPWBYT (Capitolo 2). Dopo la riemersione di Chokehold l'ambientazione è terrestre, lunare e alchemica."
+  },
+  "references": [
+    {
+      "category": "chimica",
+      "detail": "L'acqua regia è acido nitrico e acido cloridrico in rapporto 1:3. Scioglie oro e platino. Qui è una passione acida abbastanza da corrodere ciò che sembrava incorruttibile.",
+      "supporting_phrase": "Il titolo oppone il reagente dei re all'amore inteso come chimica.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "category": "biochimica / semiconduttori",
+      "detail": "L'ossitocina, ormone del legame, è opposta ai circuiti di silicio e ai firewall.",
+      "supporting_phrase": "Il legame chimico attraversa l'etere mentre i corpi danzano su un substrato di silicio.",
+      "source_title": "Sleep Token Collective Wiki - Aqua Regia",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Aqua_Regia",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Sugar (2019) e Alkaline (2021)",
+      "motif": "Terzo vertice chimico: dopo lo zucchero organico e la neutralità acido-base, l'equilibrio si rompe nell'acido estremo.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "È il primo brano del disco in cui compare la parola Eden, e apre il filo che culmina nella traccia 11.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "Aqua Regia is the fourth track and fourth single from Sleep Token's third album, Take Me Back To Eden. Aqua Regia released on January 20th, 2023 with it's official video.",
+      "source_title": "Sleep Token Collective Wiki - Aqua Regia",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Aqua_Regia",
+      "source_class": "community"
+    },
+    {
+      "theory": "The song’s title is named after the Aqua regia chemical, a fuming liquid that is well known for its ability dissolve gold.[1]",
+      "source_title": "Sleep Token Collective Wiki - Aqua Regia",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Aqua_Regia",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Aqua%20Regia%22%20%28lore%20OR%20meaning%20OR%20alchemy%20OR%20gold%20OR%20chemistry%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Reddit ha restituito una pagina non JSON (blocco non aggirato)."
+  ]
+}

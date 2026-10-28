@@ -1,0 +1,132 @@
+{
+  "title": "Atlantic",
+  "release": "This Place Will Become Your Tomb",
+  "track_number": 1,
+  "year": 2021,
+  "status": "active",
+  "genius_annotations_archived": 9,
+  "local_archive_repair_note": null,
+  "era_role": "Apre l'album sulla quota di community di 500 fathom (circa 914 m), subito dopo Blood Sport e Drag Me Under. La trivia della wiki registra la lettura più diffusa, non una dichiarazione della band: risveglio clinico dopo un gesto autolesivo, e richiesta di essere lasciato nell'Atlantico.",
+  "in_character_quotes": null,
+  "in_character_quotes_gap_reason": "Nessuna intervista traccia-per-traccia nel ciclo 2021. L'unica confessione diretta in-character dell'era sta nei cartelli del video di Fall for Me.",
+  "editorial_reading": [
+    {
+      "summary": "Louder e Boolin Tunes legano l'incipit al pianoforte al trauma clinico: l'inondazione salata coincide con il rifiuto di tornare alla coscienza diurna.",
+      "source_title": "Louder - The story behind every Sleep Token song (Page 2)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/2",
+      "date": "2023-05-19",
+      "source_class": "editorial"
+    },
+    {
+      "summary": "Each track is accompanied by nautical depth in metres and fathoms, marking the downward journey of Vessel’s body as it plummets and his mind surrenders to the solace of sleep. Piano-drenched opener Atlantic roots us in the scene, Vessel begging for his life to be taken by the titular ocean’s [riferimento testuale].",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "In the limbo between life and death, electronics twisting, Vessel encounters another form of sleep – the deity that will be his salvation. The nautical depth associated with Atlantic, 914m, is the depth at which angler fish live - hence the fish on the single cover.",
+      "source_title": "Louder / Metal Hammer - The story behind every Sleep Token song (Page 3)",
+      "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song/3",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "This at least seems to be where TPWBYT slots in. [riferimento testuale], to me, reads like the aftermath of a failed suicide attempt: Vessel waking up in a hospital or psychiatric ward and being told the damages. [riferimento testuale] references the album’s water theme, and perhaps also the blue light that is commonly used in public washrooms to deter drug injections, as the wavelength prevents veins from showing up",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    },
+    {
+      "summary": "[riferimento testuale]: 914m – the depth at which angler fish live (the single artwork is of an angler fish)[riferimento testuale]: 1824m – Farallon escarpment“Mine[riferimento testuale]Like That[riferimento testuale]Missing Limbs“: 10924m – Challenger Deep (the deepest point in the ocean, within the Mariana Trench. Presumably the location of the house/tomb).",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token (TPWBYT Analysis)",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "date": null,
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
+  "symbols": {
+    "sigil": null,
+    "depth": {
+      "track": "Atlantic",
+      "fathoms": 500,
+      "meters": 914,
+      "fathom_meters": 1.8288,
+      "reading_class": "community",
+      "fathoms_status": "unverified: la wiki dell'album non pubblica una tabella in fathom",
+      "oceanic_zone": "Confine mesopelagico / batipelagico (circa 914 m, dove cessa la luce solare)",
+      "booklet_specimen": "Black swallower (Chiasmodon niger), dalla trivia della wiki",
+      "booklet_specimen_source": "Sleep Token Collective Wiki, sezione Trivia",
+      "descent_meaning": "Dopo il tramonto di Sundowning, la luce diurna si spegne e Vessel entra nell'oscurità in seguito a un atto di autodistruzione."
+    },
+    "rune": null,
+    "creature": "Black swallower",
+    "object": "Luci blu d'emergenza, bende, acqua oceanica",
+    "color": "Blu cobalto e bianco clinico",
+    "sigil_gap_reason": "I 12 sigilli geometrici appartengono a Sundowning (Capitolo 1). In TPWBYT il sistema simbolico primario è la quota batimetrica e il booklet marino.",
+    "rune_gap_reason": "L'alfabeto runico sostitutivo viene introdotto in Take Me Back to Eden (Capitolo 3)."
+  },
+  "references": [
+    {
+      "category": "oceanografia",
+      "detail": "500 fathom segnano l'ingresso nella zona afotica, dove la luce solare si estingue.",
+      "supporting_phrase": "Quota di community 500 F. La wiki documenta il black swallower, non questa cifra.",
+      "source_title": "Progressione batimetrica di community",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "category": "medicina d'urgenza",
+      "detail": "Post-ricovero dopo un gesto autolesivo: sirene blu, occhi bendati, colpa per il dolore causato al mattino.",
+      "supporting_phrase": "Supplica di non essere svegliato, in una stanza che somiglia a un pronto soccorso.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Drag Me Under e Blood Sport (Sundowning, 2019)",
+      "motif": "Dopo aver chiesto di essere trascinato sott'acqua, Vessel si ritrova sommerso.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    },
+    {
+      "target_song": "Are You Really Okay? (2023) e Infinite Baths (2025)",
+      "motif": "Sangue, ferite autoinflitte e acqua che sommerge il corpo tornano in quei due brani.",
+      "source_title": "Sleep Token Collective Wiki - Atlantic",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Atlantic",
+      "source_class": "community"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Due letture convivono: sul piano umano, un tentativo di suicidio dopo Sundowning; sul piano mitico, Sleep impedisce la morte perché gli serve ancora il contenitore, e lo condanna a una tomba liquida.",
+      "source_title": "Lore of Sleep Token",
+      "url": "https://loreofsleeptoken.com/the-lore/",
+      "source_class": "community"
+    },
+    {
+      "theory": "The sea creature on Atlantic's cover art is a black swallower.[1]",
+      "source_title": "Sleep Token Collective Wiki - Atlantic",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Atlantic",
+      "source_class": "community"
+    },
+    {
+      "theory": "Atlantic is the first track from Sleep Token's second album, This Place Will Become Your Tomb.",
+      "source_title": "Sleep Token Collective Wiki - Atlantic",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Atlantic",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
+  "gaps": [
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Atlantic%22%20%28lore%20OR%20meaning%20OR%20depth%20OR%20hospital%20OR%20suicide%29&restrict_sr=1&sort=top&t=all&limit=6",
+    "Invalid JSON from Reddit search: title:\"Atlantic\" (lore OR meaning OR depth OR hospital OR suicide)"
+  ]
+}
