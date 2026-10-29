@@ -44,8 +44,9 @@
     "depth": null,
     "rune": null,
     "creature": null,
-    "object": "Campi erbosi inglesi / Incisione botanica di ramo con frutti",
-    "color": "Oro pallido e verde scuro desaturato",
+    "object": "Nome inciso nella pietra/terra; incisione botanica di ramo con frutti",
+    "color": "Oro pallido e ombra crepuscolare",
+    "ritual_role": "Sepoltura dell'identità civile nei Campi Elisi",
     "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
     "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
     "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
