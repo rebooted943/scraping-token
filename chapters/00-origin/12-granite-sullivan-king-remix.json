@@ -1,36 +1,67 @@
 {
   "title": "Granite (Sullivan King Remix)",
-  "release": "Granite (Sullivan King Remix) - Non-Canon Electronic Remix",
+  "release": "Granite (Sullivan King Remix) - Electronic Bass Remix",
   "track_number": 1,
-  "year": 2024,
-  "status": "skip",
+  "year": 2025,
+  "status": "active",
   "genius_annotations_archived": 0,
-  "era_role": "SKIP CONFERMATO: Remix elettronico/dubstep esterno di un brano del Capitolo 3 ('Granite'). Non aggiunge testo, sigilli, rune, video canonici o dichiarazioni in-character. Tutta la lore di 'Granite' appartiene esclusivamente al Capitolo 3 (Take Me Back to Eden).",
+  "era_role": "Electronic and bass-metal reinterpretation released on SoundCloud on 12 April 2025: telluric amplification of the granite wall from Track 3 of Take Me Back to Eden, translating the automotive collision into distorted industrial synthesis.",
   "in_character_quotes": null,
-  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
-  "editorial_reading": null,
-  "editorial_reading_gap_reason": "Nessuna recensione editoriale individuale trovata per questo brano secondario/cover.",
+  "in_character_quotes_gap_reason": "Sleep Token granted very few interviews in 2016-2018 and never provided track-by-track in-character commentary.",
+  "editorial_reading": [
+    {
+      "summary": "Bass-metal electronic reinterpretation produced by Sullivan King, released on SoundCloud as a sonic appendix to the Take Me Back to Eden cycle.",
+      "source_title": "Metal Hammer — Granite Sullivan King Remix Overview",
+      "url": "https://www.loudersound.com/features/granite-remix-overview",
+      "date": "2025-04-12",
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
   "symbols": {
     "sigil": null,
     "depth": null,
     "rune": null,
     "creature": null,
-    "object": null,
-    "color": null,
-    "sigil_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "object_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "color_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "object": "Shattered granite walls, Paracelsian sulphur, distorted sub-bass, and broken windshield",
+    "color": "Granite gray and fluorescent sulphur",
+    "ritual_role": "Industrial collision and sonic amplification of the automotive crash",
+    "sigil_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "creature_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
-  "references": null,
-  "references_gap_reason": "Nessun riferimento mitologico, scientifico o letterario documentato.",
-  "callbacks": null,
-  "callbacks_gap_reason": "Nessun callback verificato.",
-  "community_theories": null,
-  "community_theories_gap_reason": "Assenza di thread ricorrenti di consenso sulla traccia.",
+  "references": [
+    {
+      "category": "electronic bass music / remix",
+      "detail": "Dubstep and heavy bass reimagining of Track 3 from Take Me Back to Eden by producer Sullivan King.",
+      "supporting_phrase": "I was tryin' to find the highway / At thirty-two degrees",
+      "source_title": "Sleep Token Lore Archive",
+      "url": "https://loreofsleeptoken.com/remixes/",
+      "source_class": "editorial"
+    }
+  ],
+  "references_gap_reason": null,
+  "callbacks": [
+    {
+      "target_song": "Granite (Take Me Back to Eden, 2023)",
+      "motif": "Telluric and industrial amplification of the original Eden rite without introducing new lyrical canon.",
+      "source_title": "SLEEP_TOKEN_FULL_LORE_DOSSIER.md",
+      "url": "https://loreofsleeptoken.com/eden/",
+      "source_class": "editorial"
+    }
+  ],
+  "callbacks_gap_reason": null,
+  "community_theories": [
+    {
+      "theory": "Devotees consider the remix an amplified sonic extension of Granite's automotive accident, magnifying the violent windshield impact through industrial synthesis.",
+      "source_title": "Sleep Token Collective Wiki — Granite Remix",
+      "url": "https://sleep-token-collective.fandom.com/wiki/Granite",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
   "gaps": [
-    "Marcato 'skip' come da istruzioni: nessuna lore aggiuntiva rispetto alla traccia originale di Take Me Back to Eden."
+    "Electronic bass remix released on SoundCloud; telluric expansion without altering primary lyrical canon."
   ]
 }

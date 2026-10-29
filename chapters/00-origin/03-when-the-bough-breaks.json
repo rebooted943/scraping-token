@@ -5,12 +5,12 @@
   "year": 2016,
   "status": "active",
   "genius_annotations_archived": 5,
-  "era_role": "Chiusura monumentale (oltre 7 minuti) dell'EP One. Segna la prima frattura nel rapporto con Sleep/l'amato: la ninna nanna si spezza e rivela il ricatto emotivo ('Don't lie to me').",
+  "era_role": "Monumental closing rite (over 7 minutes) of the One EP. Marks the first rupture in the relationship with Sleep/the beloved: the lullaby breaks and exposes emotional blackmail ('Don't lie to me').",
   "in_character_quotes": null,
-  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "in_character_quotes_gap_reason": "Sleep Token granted very few interviews in 2016-2018 and never provided track-by-track in-character commentary.",
   "editorial_reading": [
     {
-      "summary": "Riconosciuto dalla stampa come il primo vero capolavoro progressivo della band, dove il crescendo finale abbandona la forma canzone per diventare un mantra ossessivo.",
+      "summary": "Acclaimed by the press as the band's first true progressive masterpiece, where the climactic crescendo abandons conventional song structure to become an obsessive mantra.",
       "source_title": "Boolin Tunes - The Lore of Sleep Token",
       "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
       "date": "2023-05-15",
@@ -33,21 +33,21 @@
   ],
   "editorial_reading_gap_reason": null,
   "symbols": {
-    "sigil": "Primo glifo di One completato",
+    "sigil": "First glyph of One completed",
     "depth": null,
     "rune": null,
     "creature": null,
-    "object": "Ramo di melo spezzato, culla caduta",
-    "color": "Acqua tramutata in rosso sangue e grigio cenere",
-    "ritual_role": "Smascheramento del parassitismo emotivo",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "object": "Snapped apple bough, fallen cradle",
+    "color": "Water transmuted into blood-red and ash gray",
+    "ritual_role": "Unmasking of emotional parasitism",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "creature_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
   "references": [
     {
-      "category": "folklore / filastrocca tradizionale",
-      "detail": "Riferimento diretto alla ninna nanna inglese 'Rock-a-bye Baby' ('When the bough breaks, the cradle will fall'), usata per sovvertire il tema del sonno protettivo in caduta rovinosa.",
+      "category": "folklore / traditional nursery rhyme",
+      "detail": "Direct reference to the English nursery rhyme 'Rock-a-bye Baby' ('When the bough breaks, the cradle will fall'), subverting the theme of protective sleep into a catastrophic plunge.",
       "supporting_phrase": "Title and motif 'When the Bough Breaks'",
       "source_title": "Lore of Sleep Token - One EP",
       "url": "https://loreofsleeptoken.com/one-ep/",
@@ -58,14 +58,14 @@
   "callbacks": [
     {
       "target_song": "Thread the Needle (One, 2016)",
-      "motif": "Riprende la frase 'The bough has broken' cantata in chiusura della traccia 1.",
+      "motif": "Resumes the phrase 'The bough has broken' sung at the close of track 1.",
       "source_title": "Lore of Sleep Token - One EP",
       "url": "https://loreofsleeptoken.com/one-ep/",
       "source_class": "community"
     },
     {
       "target_song": "Euclid (Take Me Back to Eden, 2023)",
-      "motif": "In 'Euclid' (traccia finale della trilogia), Vessel canta 'Yet in reverse, you are all my symmetry / A parallel I would lay my life on' mentre la struttura ritmica e l'immagine del ramo ('Wait until the bough breaks') chiudono l'arco iniziato nel 2016.",
+      "motif": "In 'Euclid' (final track of the trilogy), Vessel sings 'Yet in reverse, you are all my symmetry / A parallel I would lay my life on' while the rhythmic structure and bough imagery ('Wait until the bough breaks') bring full closure to the arc begun in 2016.",
       "source_title": "Sleep Token Collective Wiki - When the Bough Breaks",
       "url": "https://sleep-token-collective.fandom.com/wiki/When_the_Bough_Breaks",
       "source_class": "community"
@@ -74,7 +74,7 @@
   "callbacks_gap_reason": null,
   "community_theories": [
     {
-      "theory": "I fan considerano il breakdown di 'When the Bough Breaks' il momento in cui Vessel capisce che Sleep non è una divinità benevola ma un'entità parassitaria che si nutre del suo trauma.",
+      "theory": "Fans view the breakdown of 'When the Bough Breaks' as the moment Vessel realizes Sleep is not a benevolent deity, but a parasitic entity feeding on his trauma.",
       "source_title": "r/SleepToken & Boolin Tunes",
       "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
       "source_class": "community"
@@ -100,6 +100,6 @@
   ],
   "community_theories_gap_reason": null,
   "gaps": [
-    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22When%20the%20Bough%20Breaks%22%20%28lore%20OR%20meaning%20OR%20Euclid%20OR%20callback%29&restrict_sr=1&sort=top&t=all&limit=6"
+    "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22When%20the%20Bough%20Breaks%22%20%28lore%20OR%20meaning%20OR%20theory%20OR%20analysis%29&restrict_sr=1&sort=top&t=all&limit=6"
   ]
 }

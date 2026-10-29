@@ -5,12 +5,12 @@
   "year": 2018,
   "status": "active",
   "genius_annotations_archived": 0,
-  "era_role": "Cover di 'Hey Ya!' degli Outkast pubblicata nell'agosto 2018. Non è un divertissement, ma una dimostrazione concettuale: Vessel spoglia il brano del suo ritmo festoso per metterne a nudo il testo originariamente tragico sulla fine dell'amore e sulla paura della solitudine.",
+  "era_role": "Cover of Outkast's 'Hey Ya!' released in August 2018 (originally debuted on YouTube in February 2017). Far from a novelty, it serves as a conceptual statement: Vessel strips the song of its celebratory dance rhythm to lay bare its tragic lyricism concerning the decay of love and dread of isolation.",
   "in_character_quotes": null,
-  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "in_character_quotes_gap_reason": "Sleep Token granted very few interviews in 2016-2018 and never provided track-by-track in-character commentary.",
   "editorial_reading": [
     {
-      "summary": "La critica sottolinea come la versione di Sleep Token riveli il dolore già presente nel testo di André 3000 ('If what they say is nothing is forever, then what makes love the exception?'), rendendolo perfettamente coerente con la poetica di Vessel.",
+      "summary": "Critics emphasize how Sleep Token's version unearths the inherent sorrow within André 3000's lyrics ('If what they say is nothing is forever, then what makes love the exception?'), aligning seamlessly with Vessel's overarching poetic philosophy.",
       "source_title": "Louder - The story behind every Sleep Token song",
       "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
       "date": "2023-05-19",
@@ -61,23 +61,21 @@
   ],
   "editorial_reading_gap_reason": null,
   "symbols": {
-    "sigil": null,
+    "sigil": "Simplified original sigil (pre-Sundowning emblem debuting on the 2017 cover art)",
     "depth": null,
     "rune": null,
     "creature": null,
-    "object": null,
-    "color": null,
-    "sigil_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "object_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "color_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "object": "Acoustic upright piano, stripped soundboard",
+    "color": "Graphite gray and sepia",
+    "ritual_role": "Deconstruction of the promise of eternity and disenchantment of the covenant",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "creature_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
   "references": [
     {
-      "category": "musica contemporanea / decostruzione",
-      "detail": "Rielaborazione pianistica e vocale del singolo degli Outkast (2003).",
+      "category": "contemporary music / deconstruction",
+      "detail": "Piano and vocal reinterpretation of Outkast's hit single (2003), exposing its underlying melancholy.",
       "supporting_phrase": "Nothing is forever, then what makes love the exception?",
       "source_title": "Sleep Token Collective Wiki - Hey Ya",
       "url": "https://sleep-token-collective.fandom.com/wiki/Hey_Ya",
@@ -88,16 +86,15 @@
   "callbacks": [
     {
       "target_song": "The Room Below covers (When the Party's Over / I Wanna Dance With Somebody, 2020)",
-      "motif": "Inaugura la tradizione rituale di Vessel di prendere hit pop sull'amore infelice e trasformarle in inni funebri al pianoforte.",
+      "motif": "Inaugurates Vessel's ritual tradition of taking secular pop hits concerning unhappy love and transforming them into mournful piano hymns.",
       "source_title": "Sleep Token Collective Wiki - Hey Ya",
       "url": "https://sleep-token-collective.fandom.com/wiki/Hey_Ya",
       "source_class": "community"
     }
   ],
-  "callbacks_gap_reason": null,
   "community_theories": [
     {
-      "theory": "La community considera 'Hey Ya' parte integrante della narrazione: il dubbio che 'nulla duri per sempre' incrina la promessa di eternità fatta da Sleep nei primi due EP.",
+      "theory": "The community views 'Hey Ya' as integral to the overarching narrative: the assertion that 'nothing lasts forever' fractures the covenant of eternal glory promised by Sleep across the first two EPs.",
       "source_title": "r/SleepToken discussions",
       "url": "https://sleep-token-collective.fandom.com/wiki/Hey_Ya",
       "source_class": "community"
@@ -111,7 +108,7 @@
   ],
   "community_theories_gap_reason": null,
   "gaps": [
-    "0 annotazioni Genius presenti nell'archivio locale; compensato tramite critica editoriale e wiki.",
+    "0 Genius annotations present in local archive; compensated via editorial commentary and wiki.",
     "Fandom page absent: Hey Ya (missingtitle)",
     "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Hey%20Ya%22%20%28lore%20OR%20meaning%20OR%20cover%20OR%20Vessel%29&restrict_sr=1&sort=top&t=all&limit=6"
   ]

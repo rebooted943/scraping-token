@@ -5,12 +5,12 @@
   "year": 2018,
   "status": "active",
   "genius_annotations_archived": 7,
-  "era_role": "Secondo singolo autonomo del 2018 (ottobre), accompagnato da un video girato in una chiesa (St Pancras Old Church / architettura ecclesiastica inglese) con organo a canne. Spinge all'estremo il parallelismo tra liturgia cristiana e lutto per una persona spezzata.",
+  "era_role": "Second standalone single of 2018 (October), accompanied by a music video filmed in a church (St Pancras Old Church / English ecclesiastical architecture) featuring a pipe organ. Pushes to the extreme the parallel between Christian liturgy and grief for a broken individual.",
   "in_character_quotes": null,
-  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "in_character_quotes_gap_reason": "Sleep Token granted very few interviews in 2016-2018 and never provided track-by-track in-character commentary.",
   "editorial_reading": [
     {
-      "summary": "La stampa nota l'assenza totale di chitarre metal in favore di un organo solenne, preparando il terreno per i rituali intimi di 'The Room Below'.",
+      "summary": "The press highlights the complete absence of metal guitars in favor of a solemn pipe organ, laying the groundwork for the intimate rituals of 'The Room Below'.",
       "source_title": "Louder - The story behind every Sleep Token song",
       "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
       "date": "2023-05-19",
@@ -61,20 +61,21 @@
   ],
   "editorial_reading_gap_reason": null,
   "symbols": {
-    "sigil": "Glifo simmetrico del singolo (2018)",
+    "sigil": "Symmetrical glyph of the single (2018)",
     "depth": null,
     "rune": null,
     "creature": null,
-    "object": "Organo da chiesa, navata ecclesiastica, lacrime",
-    "color": "Bianco e nero ad alto contrasto (estetica del video ufficiale)",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "object": "Knife torn from lifeless fingers, church pipe organ, ecclesiastical nave, and tears",
+    "color": "Stripped black and white (official video aesthetic)",
+    "ritual_role": "Helpless liturgical compassion and pleading against suicide",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "creature_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
   "references": [
     {
-      "category": "liturgia cristiana / architettura sacra",
-      "detail": "Uso dell'organo liturgico e dell'ambientazione in chiesa in concomitanza con il celebre rituale dal vivo alla St Pancras Old Church di Londra (ottobre 2018).",
+      "category": "Christian liturgy / sacred architecture",
+      "detail": "Use of the liturgical organ and church sanctuary setting aligned with the renowned live ritual at St Pancras Old Church in London (October 2018).",
       "supporting_phrase": "And you are too tired to control / How darkly the casket Gown rolls",
       "source_title": "Sleep Token Collective Wiki - The Way That You Were",
       "url": "https://sleep-token-collective.fandom.com/wiki/The_Way_That_You_Were",
@@ -85,22 +86,20 @@
   "callbacks": [
     {
       "target_song": "Are You Really Okay? (2023) & Blood Sport (from the room below, 2020)",
-      "motif": "Anticipa il registro di compassione impotente verso il trauma e l'autolesionismo dell'altro che tornerà in 'Are You Really Okay?'.",
+      "motif": "Foreshadows the register of helpless compassion toward another's trauma and self-harm that recurs in 'Are You Really Okay?'.",
       "source_title": "Sleep Token Collective Wiki - The Way That You Were",
       "url": "https://sleep-token-collective.fandom.com/wiki/The_Way_That_You_Were",
       "source_class": "community"
     }
   ],
-  "callbacks_gap_reason": null,
   "community_theories": [
     {
-      "theory": "Molti fan leggono questo brano come un dialogo allo specchio: Vessel non sta parlando a Sleep, ma a se stesso prima del patto ('the way that you were'), piangendo la perdita della propria innocenza.",
+      "theory": "Many fans read this song as a mirror dialogue: Vessel is not speaking to Sleep, but to his past self prior to the covenant ('the way that you were'), mourning the loss of his own innocence.",
       "source_title": "r/SleepToken consensus",
       "url": "https://sleep-token-collective.fandom.com/wiki/The_Way_That_You_Were",
       "source_class": "community"
     }
   ],
-  "community_theories_gap_reason": null,
   "gaps": [
     "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22The%20Way%20That%20You%20Were%22%20%28lore%20OR%20meaning%20OR%20theory%29&restrict_sr=1&sort=top&t=all&limit=6"
   ]

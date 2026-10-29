@@ -5,27 +5,36 @@
   "year": 2018,
   "status": "active",
   "genius_annotations_archived": 0,
-  "era_role": "Cover acustica/ambientale del classico di Bruce Springsteen, registrata nel periodo pre-Sundowning / Room Below. Come per 'Hey Ya!', isolare il testo nel buio ('dancing in the dark') lo piega all'isolamento notturno di Vessel.",
+  "era_role": "Live liturgical appendix (24 September 2025, Philadelphia): piano reinterpretation of Bruce Springsteen performed by Vessel as a meditative prelude to the baptismal ablution of Rain.",
   "in_character_quotes": null,
-  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
-  "editorial_reading": null,
-  "editorial_reading_gap_reason": "Nessuna recensione editoriale individuale trovata per questo brano secondario/cover.",
+  "in_character_quotes_gap_reason": "Sleep Token granted very few interviews in 2016-2018 and never provided track-by-track in-character commentary.",
+  "editorial_reading": [
+    {
+      "summary": "Recorded as a solo prelude for live Rituals, this piano reinterpretation of Dancing in the Dark transforms Bruce Springsteen's anthem into a liturgical meditation on the solitary spark before ablution.",
+      "source_title": "Louder — Sleep Token Live Archives",
+      "url": "https://www.loudersound.com/features/sleep-token-live-archives",
+      "date": "2025-09-24",
+      "source_class": "editorial"
+    }
+  ],
+  "editorial_reading_gap_reason": null,
   "symbols": {
     "sigil": null,
     "depth": null,
     "rune": null,
     "creature": null,
-    "object": "L'oscurità e la scintilla ('start a fire')",
-    "color": "Nero",
-    "sigil_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "object": "A spark in the dark, baptismal rain, grand piano",
+    "color": "Warm amber and storm blue",
+    "ritual_role": "Live prelude to the ablution of Rain and spark of redemption",
+    "sigil_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "creature_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
   "references": [
     {
-      "category": "musica rock americana",
-      "detail": "Rielaborazione minimale del brano di Bruce Springsteen (1984).",
+      "category": "American rock music",
+      "detail": "Minimalist piano reinterpretation of Bruce Springsteen's 1984 anthem, reframed around nocturnal isolation.",
       "supporting_phrase": "Can't start a fire without a spark",
       "source_title": "Sleep Token Collective Wiki - Dancing in the Dark",
       "url": "https://sleep-token-collective.fandom.com/wiki/Dancing_in_the_Dark",
@@ -35,18 +44,24 @@
   "references_gap_reason": null,
   "callbacks": [
     {
-      "target_song": "The Night Does Not Belong to God / The Room Below",
-      "motif": "Continua la serie di reinterpretazioni solitarie al pianoforte legate al tema della notte.",
+      "target_song": "Rain (Take Me Back to Eden, 2023) / Hey Ya! (Origin, 2018)",
+      "motif": "Direct live prelude to the cathartic baptismal ablution of Rain, continuing the liturgical tradition of solitary piano covers.",
       "source_title": "Sleep Token Collective Wiki - Dancing in the Dark",
       "url": "https://sleep-token-collective.fandom.com/wiki/Dancing_in_the_Dark",
       "source_class": "community"
     }
   ],
-  "callbacks_gap_reason": null,
-  "community_theories": null,
-  "community_theories_gap_reason": "Assenza di thread ricorrenti di consenso sulla traccia.",
+  "community_theories": [
+    {
+      "theory": "The congregation interprets the 2025 Philadelphia live performance as the ritual ignition for Rain: you cannot start a fire without a spark in the dark.",
+      "source_title": "Sleep Token Lore Dossier",
+      "url": "https://loreofsleeptoken.com/live-2025/",
+      "source_class": "community"
+    }
+  ],
+  "community_theories_gap_reason": null,
   "gaps": [
-    "0 annotazioni Genius e copertura editoriale quasi nulla: registrata come cover minore senza apparato simbolico dedicato.",
+    "0 Genius annotations; recorded as a minor live cover without dedicated studio symbolic apparatus.",
     "Fandom page absent: Dancing in the Dark (missingtitle)",
     "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Dancing%20in%20the%20Dark%22%20%28lore%20OR%20meaning%20OR%20cover%29&restrict_sr=1&sort=top&t=all&limit=6"
   ]

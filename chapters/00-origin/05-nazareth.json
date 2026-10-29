@@ -5,12 +5,12 @@
   "year": 2017,
   "status": "active",
   "genius_annotations_archived": 6,
-  "era_role": "Il punto più oscuro e violento dell'intera discografia iniziale. Mostra il lato predatorio della devozione a Sleep, dove il sacrificio rituale assume i connotati di un'aggressione.",
+  "era_role": "The darkest and most unsettling point of the preludes. Subverts the city of Nazareth into the scene of a bedroom confrontation, oscillating between the traumatic end of a human relationship and Sleep's ruthless command demanding the eradication of every rival attachment.",
   "in_character_quotes": null,
-  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "in_character_quotes_gap_reason": "Sleep Token granted very few interviews in 2016-2018 and never provided track-by-track in-character commentary.",
   "editorial_reading": [
     {
-      "summary": "La critica (Louder, Boolin Tunes) evidenzia come 'Nazareth' sovverta il nome della città della natività cristiana in teatro di un sacrificio cruento e disturbante.",
+      "summary": "Critics highlight how Nazareth subverts the biblical city of Christ's nativity into a theater of horrific domestic aggression: Vessel whispers lines about loading a gun and forcing someone to eat tape in the bathroom mirror in a disconcertingly angelic voice.",
       "source_title": "Louder - The story behind every Sleep Token song",
       "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
       "date": "2023-05-19",
@@ -61,20 +61,21 @@
   ],
   "editorial_reading_gap_reason": null,
   "symbols": {
-    "sigil": "Secondo emblema dell'EP Two",
+    "sigil": "Centre panel of the Two artwork in Arabic script (الناصرة, al-Nāṣira); Middle Eastern-Byzantine influences featuring domes and geometric rose windows",
     "depth": null,
     "rune": null,
     "creature": null,
-    "object": "Proiettile a punta cava ('hollow point'), nastro magnetico ('eat the tape'), denaro/banconote",
-    "color": "Rosso sangue / Nero",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "object": "Bathroom mirror ('bathroom mirror'), consumed magnetic tape ('eat the tape'), money at bedroom door, and hollow-point ammunition ('hollow point')",
+    "color": "Arterial blood red and high-contrast monochrome",
+    "ritual_role": "Sacrilegious fury, coercion, and forced ritual elimination",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "creature_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
   "references": [
     {
-      "category": "religione biblica",
-      "detail": "Nazareth, città dell'Annunciazione e dell'infanzia di Gesù: qui l'annunciazione angelica è capovolta nell'ira notturna ('Tonight we'll have the validation').",
+      "category": "biblical religion / holy land",
+      "detail": "Nazareth, the Galilean town of the Annunciation and childhood of Jesus: here the angelic annunciation is violently inverted into nocturnal retribution ('Tonight we'll have the validation').",
       "supporting_phrase": "Let's load the gun / Make her eat the tape in the bathroom mirror",
       "source_title": "Lore of Sleep Token - Two EP",
       "url": "https://loreofsleeptoken.com/two-ep/",
@@ -85,7 +86,7 @@
   "callbacks": [
     {
       "target_song": "Jaws (2018) / Gods (2019) / Ascensionism (2023)",
-      "motif": "La violenza del controllo e l'immagine dello specchio/bagno ritornano nelle crisi autolesioniste e relazionali di 'Are You Really Okay?' e 'Ascensionism'.",
+      "motif": "The violence of coercive control and the bathroom mirror reflection recur in the self-harm crises of 'Are You Really Okay?' and 'Ascensionism'.",
       "source_title": "Sleep Token Collective Wiki - Nazareth",
       "url": "https://sleep-token-collective.fandom.com/wiki/Nazareth",
       "source_class": "community"
@@ -94,7 +95,7 @@
   "callbacks_gap_reason": null,
   "community_theories": [
     {
-      "theory": "Esistono due scuole principali nella community: (1) Nazareth racconta un ordine diretto di Sleep che costringe Vessel a distruggere una relazione umana reale per restare fedele solo alla divinità; (2) 'lei' è una metafora dell'abuso di sostanze o della memoria traumatica ('eat the tape' = cancellare le prove/ricordi registrati).",
+      "theory": "Two primary interpretations divide the community: (1) Nazareth documents Sleep's ruthless mandate forcing Vessel to destroy a real human relationship to maintain exclusive servitude; (2) 'she' serves as a metaphor for chemical dependency or traumatic memory ('eat the tape' representing the destruction of recorded evidence).",
       "source_title": "Lore of Sleep Token - Two EP & r/SleepToken consensus",
       "url": "https://loreofsleeptoken.com/two-ep/",
       "source_class": "community"
@@ -116,29 +117,10 @@
       "source_title": "Sleep Token Collective Wiki - Two (EP)",
       "url": "https://sleep-token-collective.fandom.com/wiki/Two",
       "source_class": "community"
-    },
-    {
-      "theory": "Nazareth is the second track from Sleep Token's second EP, Two. Nazareth released on July 19th, 2017 with it's official music video.",
-      "source_title": "Sleep Token Collective Wiki - Nazareth",
-      "url": "https://sleep-token-collective.fandom.com/wiki/Nazareth",
-      "source_class": "community"
-    },
-    {
-      "theory": "The song's title is named after the capital city Nazareth, which is located in the Northern District of Israel.[1]",
-      "source_title": "Sleep Token Collective Wiki - Nazareth",
-      "url": "https://sleep-token-collective.fandom.com/wiki/Nazareth",
-      "source_class": "community"
-    },
-    {
-      "theory": "This was revealed in a Sleep Talkin podcast featuring Shaun Hodson of Loki Films, the production company behind several official music videos and cinematic pieces for the band. The band's management didn't approve the original video due to it being too shocking, it had included guns and drugs.[2]",
-      "source_title": "Sleep Token Collective Wiki - Nazareth",
-      "url": "https://sleep-token-collective.fandom.com/wiki/Nazareth",
-      "source_class": "community"
     }
   ],
   "community_theories_gap_reason": null,
   "gaps": [
-    "Nessuna spiegazione canonica di Vessel sul significato letterale o metaforico del verso 'make her eat the tape'.",
     "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Nazareth%22%20%28lore%20OR%20meaning%20OR%20theory%20OR%20analysis%29&restrict_sr=1&sort=top&t=all&limit=6"
   ]
 }

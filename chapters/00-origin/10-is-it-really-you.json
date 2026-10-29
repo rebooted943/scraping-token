@@ -5,12 +5,12 @@
   "year": 2022,
   "status": "active",
   "genius_annotations_archived": 0,
-  "era_role": "Singolo fuori-album (originariamente dei Loathe da 'I Let It in and It Took Everything', 2020, reinterpretato da Sleep Token nel 2022). Collocato tra i singoli staccati perché privo di sigillo di Sundowning o profondità marina di TPWBYT, ma tematicamente affine al dubbio onirico ('Is it really you?').",
+  "era_role": "Non-album collaborative single (originally by Loathe from 'I Let It in and It Took Everything', 2020, reinterpreted by Sleep Token in 2022). Categorized among standalone singles as it lacks a Sundowning sigil or TPWBYT oceanic depth, yet remains thematically aligned with oneiric skepticism ('Is it really you?').",
   "in_character_quotes": null,
-  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "in_character_quotes_gap_reason": "Sleep Token granted very few interviews in 2016-2018 and never provided track-by-track in-character commentary.",
   "editorial_reading": [
     {
-      "summary": "Collaborazione celebrata dalla stampa metal britannica come l'incontro tra le due realtà più atmosferiche della scena UK: Vessel trasforma il brano shoegaze dei Loathe in una preghiera gospel-ambient.",
+      "summary": "Collaboration celebrated by the British metal press as the meeting of the two most atmospheric forces in the modern UK scene: Vessel transforms Loathe's shoegaze composition into a gospel-ambient prayer.",
       "source_title": "Louder - The story behind every Sleep Token song",
       "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
       "date": "2023-05-19",
@@ -37,17 +37,18 @@
     "depth": null,
     "rune": null,
     "creature": null,
-    "object": "Velo / Orizzonte onirico",
-    "color": "Blu notte / Argento",
-    "sigil_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "object": "Dream veil, astral hallucination, bare ivory keys",
+    "color": "Deep midnight blue and silver",
+    "ritual_role": "Shoegaze threshold and communion beyond the veil of sleep",
+    "sigil_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "creature_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
   "references": [
     {
-      "category": "intertestualità musicale",
-      "detail": "Dialogo diretto con l'album 'I Let It in and It Took Everything' dei Loathe, il cui titolo stesso risuona con la possessione volontaria di Vessel da parte di Sleep.",
+      "category": "musical intertextuality",
+      "detail": "Direct dialogue with Loathe's album 'I Let It in and It Took Everything', whose very title resonates with Vessel's willing possession by Sleep.",
       "supporting_phrase": "Let's search the sky for a while / You and I",
       "source_title": "Sleep Token Collective Wiki - Is It Really You?",
       "url": "https://sleep-token-collective.fandom.com/wiki/Is_It_Really_You%3F",
@@ -58,16 +59,15 @@
   "callbacks": [
     {
       "target_song": "The Apparition (Take Me Back to Eden, 2023)",
-      "motif": "La domanda centrale 'Is it really you?' anticipa il dubbio sull'autenticità della visione onirica che esplode in 'The Apparition'.",
+      "motif": "The central question 'Is it really you?' foreshadows the skepticism regarding the authenticity of nocturnal visions that erupts in 'The Apparition'.",
       "source_title": "Sleep Token Collective Wiki - Is It Really You?",
       "url": "https://sleep-token-collective.fandom.com/wiki/Is_It_Really_You%3F",
       "source_class": "community"
     }
   ],
-  "callbacks_gap_reason": null,
   "community_theories": [
     {
-      "theory": "Pur essendo una cover dei Loathe, i fan la inseriscono come intermezzo tra la fine di TPWBYT e l'inizio di TMBTE, in cui Vessel si chiede se l'entità che vede nei sogni sia davvero Sleep o una proiezione del proprio dolore.",
+      "theory": "Despite being a Loathe cover, fans place it as an inter-era bridge between TPWBYT and TMBTE, where Vessel questions whether the entity appearing in dreams is genuinely Sleep or a projection of personal grief.",
       "source_title": "r/SleepToken discussions",
       "url": "https://sleep-token-collective.fandom.com/wiki/Is_It_Really_You%3F",
       "source_class": "community"
@@ -75,7 +75,7 @@
   ],
   "community_theories_gap_reason": null,
   "gaps": [
-    "0 annotazioni Genius nell'archivio locale; brano scritto originariamente dai Loathe, quindi non contiene lore primaria scritta da Vessel.",
+    "0 Genius annotations in local archive; song originally composed by Loathe, containing no primary lore penned directly by Vessel.",
     "Fandom page absent: Is It Really You? (missingtitle)",
     "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Is%20It%20Really%20You%22%20%28lore%20OR%20meaning%20OR%20Loathe%29&restrict_sr=1&sort=top&t=all&limit=6"
   ]

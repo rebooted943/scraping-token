@@ -5,7 +5,7 @@
   "year": 2016,
   "status": "active",
   "genius_annotations_archived": 8,
-  "era_role": "Primo atto pubblico assoluto (settembre 2016). Introduce il patto tra Vessel e Sleep: un invito all'abbandono della veglia ('You can thread the needle / Time and time again') dove l'estasi mistica e l'intimità fisica diventano indistinguibili.",
+  "era_role": "The absolute first public offering (September 2016). Introduces the covenant between Vessel and Sleep: an invitation to abandon waking consciousness ('You can thread the needle / Time and time again') where mystical ecstasy and physical intimacy become indistinguishable.",
   "in_character_quotes": [
     {
       "quote": "This is the first offering. Sleep Token is a collective mandated by Sleep, an ancient deity who appeared to Vessel in a dream, promising glory and magnificence if Vessel followed Him.",
@@ -25,7 +25,7 @@
   "in_character_quotes_gap_reason": null,
   "editorial_reading": [
     {
-      "summary": "Louder e Boolin Tunes descrivono il brano come il manifesto sonoro e concettuale: inizia come una ninna nanna liturgica al pianoforte prima di esplodere nel djent/post-metal a 8 corde, riflettendo il passaggio dal sogno pacifico alla possessione di Sleep.",
+      "summary": "Louder and Boolin Tunes describe the track as the sonic and conceptual manifesto: opening as a liturgical piano lullaby before erupting into 8-string djent/post-metal, reflecting the transition from peaceful dream to possession by Sleep.",
       "source_title": "Louder - The story behind every Sleep Token song",
       "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
       "date": "2023-05-19",
@@ -83,28 +83,28 @@
   ],
   "editorial_reading_gap_reason": null,
   "symbols": {
-    "sigil": "Primo emblema geometrico a tre tagli (pre-runico) associato all'EP One",
+    "sigil": "First three-slash geometric emblem (pre-runic) associated with the One EP",
     "depth": null,
     "rune": null,
-    "creature": "Agriopis / falene notturne nel video ufficiale e immagini pastorali oscure",
-    "object": "L'ago e il filo (Thread the Needle); incisione botanica del ramo di melo (copertina di One)",
-    "color": "Seppia / Bianco avorio e nero d'inchiostro calcografico",
-    "ritual_role": "Prima offerta pubblica e stipula del patto con Sleep",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "creature": "Agriopis / nocturnal moths in the official music video and dark pastoral imagery",
+    "object": "Needle and thread (Thread the Needle); botanical engraving of the apple bough (One cover art)",
+    "color": "Intaglio sepia and ivory white with engraving ink black",
+    "ritual_role": "First public offering and sealing of the covenant with Sleep",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
   "references": [
     {
-      "category": "religione / idioma biblico",
-      "detail": "L'espressione 'thread the needle' richiama sia l'atto sessuale/intimo di unione sia la cruna dell'ago evangelica (Matteo 19:24) come passaggio impossibile verso il regno promesso da Sleep.",
+      "category": "religion / biblical idiom",
+      "detail": "The phrase 'thread the needle' evokes both the intimate/sexual union and the evangelical eye of the needle (Matthew 19:24) as an impossible passage toward the kingdom promised by Sleep.",
       "supporting_phrase": "You can thread the needle, time and time again",
       "source_title": "Lore of Sleep Token - One EP",
       "url": "https://loreofsleeptoken.com/one-ep/",
       "source_class": "community"
     },
     {
-      "category": "opera visiva / botanica",
-      "detail": "L'artwork di One utilizza illustrazioni botaniche storiche di varietà di mele inglesi, allusione al frutto proibito dell'Eden che verrà esplicitato solo nel terzo album (2023).",
+      "category": "visual artwork / botany",
+      "detail": "The artwork for One utilizes historic botanical illustrations of English apple varieties, alluding to the forbidden fruit of Eden that becomes fully explicit only in the third album (2023).",
       "supporting_phrase": "Visual artwork of the One EP featuring apple boughs",
       "source_title": "Lore of Sleep Token - One EP",
       "url": "https://loreofsleeptoken.com/one-ep/",
@@ -115,7 +115,7 @@
   "callbacks": [
     {
       "target_song": "The Night Does Not Belong to God (Sundowning, 2019) / Euclid (TMBTE, 2023)",
-      "motif": "Il verso finale 'The bough has broken / Through' anticipa sia il terzo brano dell'EP ('When the Bough Breaks') sia l'intero ciclo circolare della notte che scende come una cortina.",
+      "motif": "The closing refrain 'The bough has broken / Through' foreshadows both the EP's third track ('When the Bough Breaks') and the circular cycle of night descending like a curtain.",
       "source_title": "Sleep Token Collective Wiki - Thread the Needle",
       "url": "https://sleep-token-collective.fandom.com/wiki/Thread_the_Needle",
       "source_class": "community"
@@ -124,7 +124,7 @@
   "callbacks_gap_reason": null,
   "community_theories": [
     {
-      "theory": "La community interpreta 'Thread the Needle' come il momento esatto della prima ipnosi di Vessel da parte di Sleep: le luci che si spengono ('turn the lights down') segnano l'ingresso nel regno onirico da cui Vessel tenterà di uscire fino a 'Euclid'.",
+      "theory": "The community interprets 'Thread the Needle' as the exact moment of Vessel's initial hypnosis by Sleep: the lights dimming ('turn the lights down') marks the entrance into the oneiric realm from which Vessel struggles to escape until 'Euclid'.",
       "source_title": "r/SleepToken & Lore of Sleep Token",
       "url": "https://loreofsleeptoken.com/one-ep/",
       "source_class": "community"

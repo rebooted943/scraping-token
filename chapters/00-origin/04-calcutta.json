@@ -5,11 +5,11 @@
   "year": 2017,
   "status": "active",
   "genius_annotations_archived": 6,
-  "era_role": "Apertura dell'EP Two (luglio 2017, Basick Records). Abbandona il pastoralismo inglese di One per una trilogia di titoli legati a città storiche/antiche (Calcutta, Nazareth, Jericho). Rappresenta la brama fisica e spirituale ('Until I wake I dine on old encounters').",
+  "era_role": "Opening rite of the Two EP (May/July 2017, Basick Records). Abandons the English pastoralism of One for a triptych of ancient historical settlements. Vessel believes he has been repaired by a new bond ('I'm whole again'), yet wholeness is provisional as warned by the founding tenet 'Nothing lasts forever'.",
   "in_character_quotes": [
     {
       "quote": "He is everywhere, at all times. Vessel encountered Sleep in a dream, with promise of glory and magnificence if Vessel followed Him. The UK is old, decaying and rich in folklore.",
-      "source_title": "Metal Hammer / Louder - Who and what the hell are Sleep Token? (pubblicata per il lancio di Calcutta)",
+      "source_title": "Metal Hammer / Louder - Who and what the hell are Sleep Token? (published for the launch of Calcutta)",
       "url": "https://www.loudersound.com/features/who-and-what-the-hell-are-sleep-token",
       "date": "2017-05-25",
       "source_class": "canon"
@@ -18,7 +18,7 @@
   "in_character_quotes_gap_reason": null,
   "editorial_reading": [
     {
-      "summary": "Presentato in anteprima su Metal Hammer nel maggio 2017, il brano accompagna la prima vera intervista in-character del gruppo e introduce il video girato in ambienti boschivi e rituali.",
+      "summary": "Premiered exclusively on Metal Hammer in May 2017, the track accompanied the band's first official in-character interview and introduced the ritual music video set in dark woodland landscapes.",
       "source_title": "Louder - Who and what the hell are Sleep Token",
       "url": "https://www.loudersound.com/features/who-and-what-the-hell-are-sleep-token",
       "date": "2017-05-25",
@@ -104,20 +104,21 @@
   ],
   "editorial_reading_gap_reason": null,
   "symbols": {
-    "sigil": "Glifo dell'EP Two (evoluzione angolare con linee interne incrociate)",
+    "sigil": "Left panel of the Two artwork in Bengali script (কলকাতা, Kolkata); first glyph of the Two EP with crossed inner lines painted in red across II's mask in the video",
     "depth": null,
     "rune": null,
     "creature": null,
-    "object": "Incisioni di architettura sacra/orientale dell'artwork di Two",
-    "color": "Ocra scuro, oro antico e nero",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "object": "Architectural elevation of a 12th-century Hindu temple in the Hoysala dynasty style drawn by Adam Hardy (Cardiff University)",
+    "color": "Pitch-black body paint, dark ochre, and antique gold",
+    "ritual_role": "Temporary illusion of wholeness ('I'm whole again') and first ritual offering of the Two era",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "creature_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
   "references": [
     {
-      "category": "geografia / religione induista (etimologia)",
-      "detail": "Il titolo 'Calcutta' (Kolkata) è spesso collegato nella lore community all'etimologia tradizionale da Kalighat (terra della dea Kali, divinità del tempo, della distruzione e della devozione feroce) o all'espressione 'Black Hole of Calcutta' (prigione soffocante).",
+      "category": "geography / Hindu religion (etymology)",
+      "detail": "The title 'Calcutta' (Kolkata) traditionally links to Kalighat, sanctuary of Kali, goddess of time, transformation, and purifying destruction; an alternative community reading connects it to the suffocating 'Black Hole of Calcutta'.",
       "supporting_phrase": "Title 'Calcutta' and lyrics 'I'm whole again / For just a moment'",
       "source_title": "Lore of Sleep Token - Two EP",
       "url": "https://loreofsleeptoken.com/two-ep/",
@@ -127,17 +128,45 @@
   "references_gap_reason": null,
   "callbacks": [
     {
-      "target_song": "Vore / The Summoning (Take Me Back to Eden, 2023)",
-      "motif": "La metafora del nutrirsi dei ricordi nel sonno ('Until I wake I dine on old encounters') anticipa l'immaginario divorante di 'The Offering' e 'Vore'.",
+      "target_song": "Thread the Needle (One, 2016)",
+      "motif": "The primordial sealing of the covenant in One evolves in Calcutta toward historical settlements and sacrificial rites.",
       "source_title": "Lore of Sleep Token - Two EP",
       "url": "https://loreofsleeptoken.com/two-ep/",
       "source_class": "community"
+    },
+    {
+      "target_song": "The Night Does Not Belong to God (Sundowning, 2019)",
+      "motif": "Provisional wholeness ('I'm whole again') and the tangled knot connect Calcutta to the solstitial twilight liturgy.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    },
+    {
+      "target_song": "Say That You Will (Sundowning, 2019)",
+      "motif": "The fascination ensnaring Vessel in Sleep's web mirrors the obsessive, insoluble entanglement introduced in Calcutta.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    },
+    {
+      "target_song": "Blood Sport (Sundowning, 2019)",
+      "motif": "The illusion of wholeness gives way to the sacrificial arena where the tangled knot tightens until tears and final exsanguination.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
+    },
+    {
+      "target_song": "Chokehold (Take Me Back to Eden, 2023)",
+      "motif": "The suffocating grip and insoluble entanglement ('tangled') resurface in the first movement of Eden as an unbroken hold.",
+      "source_title": "Boolin Tunes - The Lore of Sleep Token",
+      "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
+      "source_class": "editorial"
     }
   ],
   "callbacks_gap_reason": null,
   "community_theories": [
     {
-      "theory": "La community legge i tre titoli di Two (Calcutta, Nazareth, Jericho) come una mappa di pellegrinaggio antico verso luoghi di sacrificio, morte e crollo delle difese interiori.",
+      "theory": "The community interprets the three panels of Two (Calcutta, Nazareth, Jericho) as an initiatory pilgrimage map: the left panel in Bengali (কলকাতা) signifies spiritual rebirth through destruction in the city sacred to Kali.",
       "source_title": "Lore of Sleep Token - Two EP",
       "url": "https://loreofsleeptoken.com/two-ep/",
       "source_class": "community"

@@ -5,12 +5,12 @@
   "year": 2016,
   "status": "active",
   "genius_annotations_archived": 5,
-  "era_role": "Secondo movimento di One: rappresenta la fase di 'luna di miele' o estasi mistica promessa da Sleep, ma già venata dalla malinconia della perdita ('losing touch') quando il sogno svanisce al risveglio.",
+  "era_role": "Second movement of One: represents the 'honeymoon' phase or mystical ecstasy promised by Sleep, yet already tainted by the melancholy of loss ('losing touch') as the dream fades upon waking.",
   "in_character_quotes": null,
-  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "in_character_quotes_gap_reason": "Sleep Token granted very few interviews in 2016-2018 and never provided track-by-track in-character commentary.",
   "editorial_reading": [
     {
-      "summary": "Critica e retrospettive sottolineano il contrasto tra il falsetto vulnerabile di Vessel e i riff sincopati: l'estasi ('elation') non è pace stabile, ma una dipendenza da uno stato alterato.",
+      "summary": "Critics and retrospectives highlight the contrast between Vessel's vulnerable falsetto and syncopated riffs: ecstasy ('elation') is not stable peace, but chemical dependency on an altered state.",
       "source_title": "Louder - The story behind every Sleep Token song",
       "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
       "date": "2023-05-19",
@@ -40,21 +40,21 @@
   ],
   "editorial_reading_gap_reason": null,
   "symbols": {
-    "sigil": "Variante del primo glifo geometrico di One",
+    "sigil": "Variant of the first geometric glyph of One",
     "depth": null,
     "rune": null,
     "creature": null,
-    "object": "Nome inciso nella pietra/terra; incisione botanica di ramo con frutti",
-    "color": "Oro pallido e ombra crepuscolare",
-    "ritual_role": "Sepoltura dell'identità civile nei Campi Elisi",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "object": "Name carved into stone/earth; botanical engraving of fruiting apple bough",
+    "color": "Pale gold and twilight shadow",
+    "ritual_role": "Burial of civilian identity across the Elysian Fields",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "creature_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
   "references": [
     {
-      "category": "mitologia greca / letteratura classica",
-      "detail": "I 'Fields of Elation' ricalcano i Campi Elisi (Elysian Fields), il luogo ultraterreno dei beati associato a Hypnos (dio del sonno) e Thanatos.",
+      "category": "classical mythology / literature",
+      "detail": "The 'Fields of Elation' mirror the Elysian Fields, the otherworldly realm of the blessed associated with Hypnos (deity of sleep) and Thanatos.",
       "supporting_phrase": "Quietly, they're carving out my name / Across the fields of elation",
       "source_title": "Lore of Sleep Token - One EP",
       "url": "https://loreofsleeptoken.com/one-ep/",
@@ -65,7 +65,7 @@
   "callbacks": [
     {
       "target_song": "Take Me Back to Eden (2023) / Even In Arcadia (2025)",
-      "motif": "Il motivo del giardino/campo idilliaco perduto ('fields of elation') è il precursore diretto dei topoi pastorali dell'Eden e dell'Arcadia nei capitoli 3 e 4.",
+      "motif": "The motif of the lost idyllic meadow/garden ('fields of elation') is the direct precursor to the pastoral topoi of Eden and Arcadia in chapters 3 and 4.",
       "source_title": "Lore of Sleep Token - One EP",
       "url": "https://loreofsleeptoken.com/one-ep/",
       "source_class": "community"
@@ -74,7 +74,7 @@
   "callbacks_gap_reason": null,
   "community_theories": [
     {
-      "theory": "L'immaginario di una sepoltura in vita ('shallow grave', 'carving out my name') viene letto dai fan come la morte simbolica dell'identità precedente del cantante per diventare 'Vessel' (il contenitore vuoto di Sleep).",
+      "theory": "The imagery of a living burial ('shallow grave', 'carving out my name') is read by fans as the symbolic death of the singer's prior identity to become 'Vessel' (the empty container of Sleep).",
       "source_title": "Sleep Token Collective Wiki - Fields of Elation",
       "url": "https://sleep-token-collective.fandom.com/wiki/Fields_of_Elation",
       "source_class": "community"
@@ -94,7 +94,7 @@
   ],
   "community_theories_gap_reason": null,
   "gaps": [
-    "Nessuna dichiarazione in-character specifica di Vessel isolata sul solo brano Fields of Elation (solo sull'EP One nel complesso).",
+    "No specific in-character statement from Vessel isolated to Fields of Elation (only on the One EP as a whole).",
     "HTTP 403 for https://www.reddit.com/r/SleepToken/search.json?q=title%3A%22Fields%20of%20Elation%22%20%28lore%20OR%20meaning%20OR%20theory%20OR%20analysis%29&restrict_sr=1&sort=top&t=all&limit=6"
   ]
 }

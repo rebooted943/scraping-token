@@ -5,12 +5,12 @@
   "year": 2018,
   "status": "active",
   "genius_annotations_archived": 10,
-  "era_role": "Singolo autonomo cruciale (giugno 2018). Fa da ponte tra l'EP Two e Sundowning. Introduce il motivo ricorrente dei denti, del morso e della divorazione amorosa/sacrificale.",
+  "era_role": "Crucial standalone single (June 2018). Serves as the bridge between the Two EP and Sundowning. Introduces the recurring motif of teeth, the bite, and romantic/sacrificial consumption.",
   "in_character_quotes": null,
-  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "in_character_quotes_gap_reason": "Sleep Token granted very few interviews in 2016-2018 and never provided track-by-track in-character commentary.",
   "editorial_reading": [
     {
-      "summary": "Louder e Boolin Tunes indicano 'Jaws' come la svolta verso un'accessibilità dark-pop/synth senza perdere il peso metallico, mettendo a fuoco la paura dell'intimità vista come una trappola predatoria.",
+      "summary": "Louder and Boolin Tunes identify 'Jaws' as the pivotal transition toward dark-pop/synth accessibility without sacrificing metallic weight, focusing on the dread of intimacy framed as a predatory snare.",
       "source_title": "Boolin Tunes - The Lore of Sleep Token",
       "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
       "date": "2023-05-15",
@@ -40,19 +40,20 @@
   ],
   "editorial_reading_gap_reason": null,
   "symbols": {
-    "sigil": "Glifo dedicato al singolo Jaws (simmetria verticale che ricorda fauci aperte)",
+    "sigil": "Dedicated glyph for the Jaws single (vertical symmetry evocative of open jaws)",
     "depth": null,
     "rune": null,
-    "creature": "Predatore / Fauci bianche ('pretty white jaws')",
-    "object": "Fauci / Cicatrici ('show me what wounds you've got')",
-    "color": "Bianco osso su fondo nero",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "creature": "Abyssal predator and pretty white jaws ('pretty white jaws')",
+    "object": "Open jaws, sharp teeth, and exposed wounds ('show me what wounds you've got')",
+    "color": "Bone white and abyssal black",
+    "ritual_role": "Birth of the ritual devouring motif and surrender to feral vulnerability",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
   "references": [
     {
-      "category": "anatomia / psicologia del predatore",
-      "detail": "Le 'pretty white jaws' uniscono il sorriso seduttivo umano alle fauci di un predatore, stabilendo la metafora dell'amore come cannibalismo spirituale.",
+      "category": "anatomy / psychology of predation",
+      "detail": "The 'pretty white jaws' unite a seductive human smile with the maw of a predator, establishing the metaphor of love as spiritual cannibalism.",
       "supporting_phrase": "Show me those pretty white jaws / Show me where the delicate stops",
       "source_title": "Sleep Token Collective Wiki - Jaws",
       "url": "https://sleep-token-collective.fandom.com/wiki/Jaws",
@@ -63,7 +64,7 @@
   "callbacks": [
     {
       "target_song": "The Offering (2019), High Water (2021), Vore (2023)",
-      "motif": "Il motivo delle fauci e del morso ('Take a bite' in The Offering, 'jaws' in High Water, la gola che inghiotte in Vore) nasce interamente in 'Jaws'.",
+      "motif": "The motif of jaws and the bite ('Take a bite' in The Offering, 'jaws' in High Water, the swallowing throat in Vore) originates entirely within 'Jaws'.",
       "source_title": "Boolin Tunes - The Lore of Sleep Token",
       "url": "https://boolintunes.com/featured/the-lore-of-sleep-token/",
       "source_class": "editorial"
@@ -72,7 +73,7 @@
   "callbacks_gap_reason": null,
   "community_theories": [
     {
-      "theory": "Nella lore community, 'Jaws' è la richiesta di Vessel a Sleep (o alla controparte umana) di gettare la maschera della gentilezza ('where the delicate stops') e mostrare la propria natura distruttiva.",
+      "theory": "In community lore, 'Jaws' is Vessel's plea to Sleep (or a human lover) to discard the guise of tenderness ('where the delicate stops') and expose their raw destructive essence.",
       "source_title": "r/SleepToken & Sleep Token Collective Wiki",
       "url": "https://sleep-token-collective.fandom.com/wiki/Jaws",
       "source_class": "community"

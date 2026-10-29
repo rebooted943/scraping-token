@@ -5,12 +5,12 @@
   "year": 2017,
   "status": "active",
   "genius_annotations_archived": 10,
-  "era_role": "Chiusura dell'EP Two. Dopo la furia di Nazareth, Jericho mette in scena la resa totale delle difese di Vessel di fronte al fascino seduttivo (R&B/soul) di Sleep.",
+  "era_role": "Closing rite of the Two EP. Jericho represents the oldest walled city on earth (11,000 years): just as its walls fell before sacred horns in Joshua 6, Vessel's psychological defenses crumble before the god's voice. Sleep feasts upon memories of former vessels ('Until I wake I dine on old encounters') while claiming new flesh.",
   "in_character_quotes": null,
-  "in_character_quotes_gap_reason": "Sleep Token ha rilasciato pochissime interviste nel 2016-2018 e mai commenti traccia-per-traccia in-character.",
+  "in_character_quotes_gap_reason": "Sleep Token granted very few interviews in 2016-2018 and never provided track-by-track in-character commentary.",
   "editorial_reading": [
     {
-      "summary": "Considerato il brano che definisce per la prima volta la fusione tra R&B sensuale e metal che renderà celebre la band con 'The Summoning' anni dopo.",
+      "summary": "Louder identifies Jericho as the earliest convergence of sensual R&B groove and heavy breakdowns: Vessel remains fixated on past attachments ('Until I wake I dine on old encounters'), declaring 'You taste like new flesh - say my name again'.",
       "source_title": "Louder - The story behind every Sleep Token song",
       "url": "https://www.loudersound.com/features/the-story-behind-every-sleep-token-song",
       "date": "2023-05-19",
@@ -40,20 +40,21 @@
   ],
   "editorial_reading_gap_reason": null,
   "symbols": {
-    "sigil": "Terzo emblema dell'EP Two",
+    "sigil": "Right panel of the Two artwork in Hebrew script (יריחו, Yeriḥo); fortress architectural motifs and ancient defensive stonework",
     "depth": null,
     "rune": null,
     "creature": null,
-    "object": "Le mura di Gerico che crollano al suono della voce; 'hands of silk' (mani di seta)",
-    "color": "Viola notturno e oro",
-    "depth_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "rune_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE).",
-    "creature_gap_reason": "Non applicabile al Capitolo 0 (i 12 sigilli appartengono a Sundowning, le profondità in metri/fathom a TPWBYT e l'alfabeto runico a TMBTE)."
+    "object": "Collapsed walls of Jericho (city of the Moon, 11,000 years); hands of silk; nocturnal banquet altar",
+    "color": "Nocturnal violet, deep purple, and antique fortress stone",
+    "ritual_role": "Total surrender of defensive strongholds ('Until I wake, I dine on old encounters')",
+    "depth_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "rune_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE).",
+    "creature_gap_reason": "Not applicable to Chapter 0 (the 12 sigils belong to Sundowning, depths in meters/fathoms to TPWBYT, and runic alphabet to TMBTE)."
   },
   "references": [
     {
-      "category": "religione / Antico Testamento (Giosuè 6 e Libro di Daniele)",
-      "detail": "Doppio riferimento biblico: (1) la città di Gerico le cui mura crollano al suono delle trombe (simbolo delle barriere emotive di Vessel abbattute dalla musica/voce di Sleep); (2) il re babilonese Nabucodonosor ('Something in the way you lay / Enough to make the dead switch graves, you take my breath away...'), storicamente tormentato da sogni profetici nel Libro di Daniele.",
+      "category": "religion / Old Testament (Joshua 6 & Book of Daniel)",
+      "detail": "Dual biblical foundation: (1) the city of Jericho whose walls collapsed before sacred trumpets (Joshua 6), symbolizing Vessel's defenses collapsing before Sleep; (2) King Nebuchadnezzar of Babylon ('Something in the way you lay / Enough to make the dead switch graves'), plagued by prophetic dreams in Daniel 2 and 4.",
       "supporting_phrase": "Say my name again... Until I wake, I'm yours",
       "source_title": "Lore of Sleep Token - Two EP",
       "url": "https://loreofsleeptoken.com/two-ep/",
@@ -64,7 +65,7 @@
   "callbacks": [
     {
       "target_song": "Calcutta (Two, 2017) & Nazareth (Two, 2017)",
-      "motif": "Ripete la formula rituale 'Until I wake' che lega tutte le tracce dell'EP Two in un unico stato di trance notturna.",
+      "motif": "Repeats the ritual formula 'Until I wake' binding all tracks of the Two EP into a single nocturnal trance.",
       "source_title": "Lore of Sleep Token - Two EP",
       "url": "https://loreofsleeptoken.com/two-ep/",
       "source_class": "community"
@@ -73,7 +74,7 @@
   "callbacks_gap_reason": null,
   "community_theories": [
     {
-      "theory": "Il riferimento a Nabucodonosor (re che perse il senno e fu perseguitato da visioni in sogno in Daniele 2 e 4) viene citato dalla community come prova che Vessel si identifica con i monarchi biblici piegati da una divinità onirica.",
+      "theory": "The reference to Nebuchadnezzar (the Babylonian king who lost his mind and was haunted by oneiric visions in Daniel 2 and 4) is cited by the community as proof that Vessel identifies with biblical monarchs humbled by an oneiric deity.",
       "source_title": "Sleep Token Collective Wiki - Jericho",
       "url": "https://sleep-token-collective.fandom.com/wiki/Jericho",
       "source_class": "community"
